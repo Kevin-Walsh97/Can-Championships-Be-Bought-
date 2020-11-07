@@ -1,0 +1,4491 @@
+player_id,salary_($mm),year,team_name,team_id
+abdursh01,6.60 ,2009,Sacramento Kings,SAC
+abrinal01,5.99 ,2016,Oklahoma City Thunder,OKC
+abrinal01,5.73 ,2017,Oklahoma City Thunder,OKC
+acyqu01,0.67 ,2012,Toronto Raptors,TOR
+acyqu01,0.79 ,2013,Toronto Raptors,TOR
+acyqu01,0.92 ,2014,New York Knicks,NYK
+acyqu01,0.98 ,2015,Sacramento Kings,SAC
+acyqu01,1.91 ,2016,Brooklyn Nets,BKN
+acyqu01,1.05 ,2016,Dallas Mavericks,DAL
+acyqu01,1.71 ,2017,Brooklyn Nets,BKN
+adamsjo01,1.34 ,2014,Memphis Grizzlies,MEM
+adamsjo01,1.40 ,2015,Memphis Grizzlies,MEM
+adamsjo01,1.47 ,2016,Memphis Grizzlies,MEM
+adamsst01,2.09 ,2013,Oklahoma City Thunder,OKC
+adamsst01,2.18 ,2014,Oklahoma City Thunder,OKC
+adamsst01,2.28 ,2015,Oklahoma City Thunder,OKC
+adamsst01,3.14 ,2016,Oklahoma City Thunder,OKC
+adamsst01,22.47 ,2017,Oklahoma City Thunder,OKC
+adebaba01,2.49 ,2017,Miami Heat,MIA
+adrieje01,0.34 ,2010,Golden State Warriors,GSW
+adrieje01,0.27 ,2011,Houston Rockets,HOU
+adrieje01,0.80 ,2012,Charlotte Hornets,CHA
+adrieje01,0.92 ,2013,Charlotte Hornets,CHA
+adrieje01,0.98 ,2014,Houston Rockets,HOU
+afflaar01,1.09 ,2009,Denver Nuggets,DEN
+afflaar01,1.96 ,2010,Denver Nuggets,DEN
+afflaar01,7.56 ,2011,Denver Nuggets,DEN
+afflaar01,7.75 ,2012,Orlando Magic,ORL
+afflaar01,7.31 ,2013,Orlando Magic,ORL
+afflaar01,7.75 ,2014,Portland Trail Blazers,POR
+afflaar01,8.00 ,2015,New York Knicks,NYK
+afflaar01,12.50 ,2016,Sacramento Kings,SAC
+afflaar01,1.50 ,2017,Sacramento Kings,SAC
+afflaar01,1.47 ,2017,Orlando Magic,ORL
+agerma01,0.08 ,2010,Minnesota Timberwolves,MIN
+ajincal01,1.37 ,2009,Charlotte Hornets,CHA
+ajincal01,1.47 ,2010,Toronto Raptors,TOR
+ajincal01,0.98 ,2014,New Orleans Pelicans,NOP
+ajincal01,4.30 ,2015,New Orleans Pelicans,NOP
+ajincal01,4.60 ,2016,New Orleans Pelicans,NOP
+ajincal01,4.96 ,2017,New Orleans Pelicans,NOP
+akognjo01,0.79 ,2013,Memphis Grizzlies,MEM
+alabiso01,0.77 ,2010,Toronto Raptors,TOR
+alabiso01,0.83 ,2011,Toronto Raptors,TOR
+aldemfu01,3.00 ,2014,Philadelphia 76ers,PHI
+aldemfu01,3.00 ,2015,Philadelphia 76ers,PHI
+aldrico01,2.13 ,2010,Oklahoma City Thunder,OKC
+aldrico01,2.29 ,2011,Oklahoma City Thunder,OKC
+aldrico01,2.45 ,2012,Sacramento Kings,SAC
+aldrico01,0.98 ,2014,New York Knicks,NYK
+aldrico01,1.10 ,2015,Los Angeles Clippers,LAC
+aldrico01,7.64 ,2016,Minnesota Timberwolves,MIN
+aldrico01,7.30 ,2017,Minnesota Timberwolves,MIN
+aldrila01,5.84 ,2009,Portland Trail Blazers,POR
+aldrila01,11.24 ,2010,Portland Trail Blazers,POR
+aldrila01,12.37 ,2011,Portland Trail Blazers,POR
+aldrila01,13.50 ,2012,Portland Trail Blazers,POR
+aldrila01,14.13 ,2013,Portland Trail Blazers,POR
+aldrila01,16.01 ,2014,Portland Trail Blazers,POR
+aldrila01,19.50 ,2015,San Antonio Spurs,SAN
+aldrila01,20.58 ,2016,San Antonio Spurs,SAN
+aldrila01,21.46 ,2017,San Antonio Spurs,SAN
+alexacl01,0.53 ,2015,Portland Trail Blazers,POR
+alexacl01,0.05 ,2016,Brooklyn Nets,BKN
+alexajo01,2.58 ,2009,Chicago Bulls,CHI
+alexajo01,0.09 ,2010,New Orleans Hornets,NOP
+allenja01,1.71 ,2017,Brooklyn Nets,BKN
+allenla01,0.47 ,2011,Philadelphia 76ers,PHI
+allenla01,3.00 ,2012,Philadelphia 76ers,PHI
+allenla01,3.06 ,2013,Philadelphia 76ers,PHI
+allenla01,0.95 ,2014,Indiana Pacers,IND
+allenla01,3.70 ,2015,Indiana Pacers,IND
+allenla01,4.00 ,2016,Indiana Pacers,IND
+allenma01,1.30 ,2009,Denver Nuggets,DEN
+allenma01,1.23 ,2010,Orlando Magic,ORL
+allenra02,18.78 ,2009,Boston Celtics,BOS
+allenra02,10.00 ,2010,Boston Celtics,BOS
+allenra02,10.00 ,2011,Boston Celtics,BOS
+allenra02,3.09 ,2012,Miami Heat,MIA
+allenra02,3.23 ,2013,Miami Heat,MIA
+allento01,2.50 ,2009,Boston Celtics,BOS
+allento01,3.00 ,2010,Memphis Grizzlies,MEM
+allento01,3.15 ,2011,Memphis Grizzlies,MEM
+allento01,3.30 ,2012,Memphis Grizzlies,MEM
+allento01,4.49 ,2013,Memphis Grizzlies,MEM
+allento01,4.83 ,2014,Memphis Grizzlies,MEM
+allento01,5.17 ,2015,Memphis Grizzlies,MEM
+allento01,5.51 ,2016,Memphis Grizzlies,MEM
+allento01,1.47 ,2017,Chicago Bulls,CHI
+alstora01,4.30 ,2009,Brooklyn Nets,BKN
+alstora01,0.75 ,2009,Miami Heat,MIA
+aminual01,2.56 ,2010,Los Angeles Clippers,LAC
+aminual01,2.76 ,2011,New Orleans Hornets,NOP
+aminual01,2.95 ,2012,New Orleans Hornets,NOP
+aminual01,3.70 ,2013,New Orleans Pelicans,NOP
+aminual01,0.98 ,2014,Dallas Mavericks,DAL
+aminual01,7.50 ,2015,Portland Trail Blazers,POR
+aminual01,7.68 ,2016,Portland Trail Blazers,POR
+aminual01,7.32 ,2017,Portland Trail Blazers,POR
+amundlo01,0.86 ,2009,Phoenix Suns,PHX
+amundlo01,2.23 ,2010,Golden State Warriors,GSW
+amundlo01,2.40 ,2011,Indiana Pacers,IND
+amundlo01,1.07 ,2012,Minnesota Timberwolves,MIN
+amundlo01,0.41 ,2014,New York Knicks,NYK
+amundlo01,1.65 ,2015,New York Knicks,NYK
+amundlo01,1.55 ,2016,New York Knicks,NYK
+anderch01,3.65 ,2009,Denver Nuggets,DEN
+anderch01,4.53 ,2010,Denver Nuggets,DEN
+anderch01,4.23 ,2011,Denver Nuggets,DEN
+anderch01,4.53 ,2012,Denver Nuggets,DEN
+anderch01,0.70 ,2012,Miami Heat,MIA
+anderch01,1.40 ,2013,Miami Heat,MIA
+anderch01,5.38 ,2014,Miami Heat,MIA
+anderch01,5.00 ,2015,Memphis Grizzlies,MEM
+anderch01,1.55 ,2016,Charlotte Hornets,CHA
+anderda03,2.30 ,2009,Houston Rockets,HOU
+anderda03,2.50 ,2010,New Orleans Hornets,NOP
+anderal01,0.89 ,2012,Toronto Raptors,TOR
+anderal01,0.95 ,2013,Brooklyn Nets,BKN
+anderal01,1.28 ,2014,Brooklyn Nets,BKN
+anderal01,4.00 ,2015,Washington Wizards,WAS
+anderal01,1.32 ,2016,Los Angeles Clippers,LAC
+anderja01,1.36 ,2010,San Antonio Spurs,SAN
+anderja01,1.46 ,2011,San Antonio Spurs,SAN
+anderja01,0.47 ,2012,Houston Rockets,HOU
+anderja01,0.15 ,2012,San Antonio Spurs,SAN
+anderja01,0.92 ,2013,Philadelphia 76ers,PHI
+anderja01,1.02 ,2015,Sacramento Kings,SAC
+anderju01,1.45 ,2015,Dallas Mavericks,DAL
+anderju01,1.51 ,2016,Philadelphia 76ers,PHI
+anderju01,1.58 ,2017,Philadelphia 76ers,PHI
+anderky01,1.09 ,2014,San Antonio Spurs,SAN
+anderky01,1.14 ,2015,San Antonio Spurs,SAN
+anderky01,1.19 ,2016,San Antonio Spurs,SAN
+anderky01,2.15 ,2017,San Antonio Spurs,SAN
+anderry01,1.32 ,2009,Orlando Magic,ORL
+anderry01,1.41 ,2010,Orlando Magic,ORL
+anderry01,2.24 ,2011,Orlando Magic,ORL
+anderry01,8.70 ,2012,New Orleans Hornets,NOP
+anderry01,8.31 ,2013,New Orleans Pelicans,NOP
+anderry01,8.49 ,2014,New Orleans Pelicans,NOP
+anderry01,8.50 ,2015,New Orleans Pelicans,NOP
+anderry01,18.74 ,2016,Houston Rockets,HOU
+anderry01,19.58 ,2017,Houston Rockets,HOU
+anigbik01,0.95 ,2017,Indiana Pacers,IND
+antetgi01,1.79 ,2013,Milwaukee Bucks,MIL
+antetgi01,1.87 ,2014,Milwaukee Bucks,MIL
+antetgi01,1.95 ,2015,Milwaukee Bucks,MIL
+antetgi01,3.00 ,2016,Milwaukee Bucks,MIL
+antetgi01,22.47 ,2017,Milwaukee Bucks,MIL
+antetth01,0.11 ,2015,New York Knicks,NYK
+anthoca01,15.78 ,2009,Denver Nuggets,DEN
+anthoca01,17.15 ,2010,New York Knicks,NYK
+anthoca01,18.52 ,2011,New York Knicks,NYK
+anthoca01,19.45 ,2012,New York Knicks,NYK
+anthoca01,22.41 ,2013,New York Knicks,NYK
+anthoca01,22.46 ,2014,New York Knicks,NYK
+anthoca01,22.88 ,2015,New York Knicks,NYK
+anthoca01,24.56 ,2016,New York Knicks,NYK
+anthoca01,26.24 ,2017,Oklahoma City Thunder,OKC
+anthojo01,0.83 ,2009,Miami Heat,MIA
+anthojo01,3.30 ,2010,Miami Heat,MIA
+anthojo01,3.60 ,2011,Miami Heat,MIA
+anthojo01,3.75 ,2012,Miami Heat,MIA
+anthojo01,3.80 ,2013,Miami Heat,MIA
+anthojo01,3.80 ,2014,Detroit Pistons,DET
+anthojo01,2.50 ,2015,Detroit Pistons,DET
+anthojo01,0.66 ,2016,San Antonio Spurs,SAN
+anticpe01,1.25 ,2014,Atlanta Hawks,ATL
+anunoog01,1.65 ,2017,Toronto Raptors,TOR
+applike01,0.16 ,2015,Orlando Magic,ORL
+arenagi01,16.19 ,2009,Washington Wizards,WAS
+arenagi01,17.73 ,2010,Orlando Magic,ORL
+arenagi01,19.27 ,2011,Orlando Magic,ORL
+arenagi01,20.81 ,2012,Orlando Magic,ORL
+arizatr01,5.85 ,2009,Houston Rockets,HOU
+arizatr01,6.32 ,2010,New Orleans Hornets,NOP
+arizatr01,6.79 ,2011,New Orleans Hornets,NOP
+arizatr01,7.26 ,2012,Washington Wizards,WAS
+arizatr01,7.73 ,2013,Washington Wizards,WAS
+arizatr01,8.58 ,2014,Houston Rockets,HOU
+arizatr01,8.19 ,2015,Houston Rockets,HOU
+arizatr01,7.81 ,2016,Houston Rockets,HOU
+arizatr01,7.42 ,2017,Houston Rockets,HOU
+armsthi01,2.80 ,2009,Houston Rockets,HOU
+armsthi01,0.99 ,2010,Atlanta Hawks,ATL
+arroyca01,1.11 ,2009,Miami Heat,MIA
+arroyca01,1.22 ,2010,Miami Heat,MIA
+arthuda01,1.05 ,2009,Memphis Grizzlies,MEM
+arthuda01,1.12 ,2010,Memphis Grizzlies,MEM
+arthuda01,2.03 ,2011,Memphis Grizzlies,MEM
+arthuda01,3.01 ,2012,Memphis Grizzlies,MEM
+arthuda01,3.23 ,2013,Denver Nuggets,DEN
+arthuda01,3.46 ,2014,Denver Nuggets,DEN
+arthuda01,2.81 ,2015,Denver Nuggets,DEN
+arthuda01,8.07 ,2016,Denver Nuggets,DEN
+arthuda01,7.46 ,2017,Denver Nuggets,DEN
+asikom01,1.72 ,2010,Chicago Bulls,CHI
+asikom01,1.86 ,2011,Chicago Bulls,CHI
+asikom01,8.37 ,2012,Houston Rockets,HOU
+asikom01,8.37 ,2013,Houston Rockets,HOU
+asikom01,8.37 ,2014,New Orleans Pelicans,NOP
+asikom01,11.00 ,2015,New Orleans Pelicans,NOP
+asikom01,9.90 ,2016,New Orleans Pelicans,NOP
+asikom01,10.60 ,2017,Chicago Bulls,CHI
+atkinch01,1.31 ,2009,Detroit Pistons,DET
+atkinch01,0.76 ,2009,Minnesota Timberwolves,MIN
+augusdj01,2.39 ,2009,Charlotte Hornets,CHA
+augusdj01,2.54 ,2010,Charlotte Hornets,CHA
+augusdj01,3.24 ,2011,Charlotte Hornets,CHA
+augusdj01,3.50 ,2012,Indiana Pacers,IND
+augusdj01,1.27 ,2013,Toronto Raptors,TOR
+augusdj01,3.00 ,2014,Oklahoma City Thunder,OKC
+augusdj01,3.00 ,2015,Denver Nuggets,DEN
+augusdj01,7.25 ,2016,Orlando Magic,ORL
+augusdj01,7.25 ,2017,Orlando Magic,ORL
+ayongu01,1.57 ,2011,New Orleans Hornets,NOP
+ayongu01,1.50 ,2012,Milwaukee Bucks,MIL
+ayongu01,1.50 ,2013,Atlanta Hawks,ATL
+pendeje02,0.46 ,2009,Portland Trail Blazers,POR
+pendeje02,1.50 ,2011,Indiana Pacers,IND
+pendeje02,1.50 ,2012,Indiana Pacers,IND
+pendeje02,1.75 ,2013,San Antonio Spurs,SAN
+pendeje02,1.83 ,2014,San Antonio Spurs,SAN
+pendeje02,0.32 ,2015,Los Angeles Clippers,LAC
+azubuke01,3.13 ,2009,Golden State Warriors,GSW
+azubuke01,3.30 ,2010,New York Knicks,NYK
+azubuke01,0.89 ,2012,Cleveland Cavaliers,CLE
+babbch01,0.05 ,2014,Boston Celtics,BOS
+babbilu01,1.65 ,2010,Portland Trail Blazers,POR
+babbilu01,1.77 ,2011,Portland Trail Blazers,POR
+babbilu01,1.89 ,2012,Portland Trail Blazers,POR
+babbilu01,0.98 ,2014,New Orleans Pelicans,NOP
+babbilu01,1.10 ,2015,New Orleans Pelicans,NOP
+babbilu01,1.23 ,2016,Miami Heat,MIA
+babbilu01,1.97 ,2017,Miami Heat,MIA
+bacondw01,0.82 ,2017,Charlotte Hornets,CHA
+bairsca01,0.51 ,2014,Chicago Bulls,CHI
+bairsca01,0.85 ,2015,Chicago Bulls,CHI
+bakerro01,0.54 ,2016,New York Knicks,NYK
+bakerro01,4.33 ,2017,New York Knicks,NYK
+balkmre01,2.11 ,2009,Denver Nuggets,DEN
+balkmre01,1.68 ,2010,New York Knicks,NYK
+balkmre01,1.68 ,2011,New York Knicks,NYK
+balkmre01,1.68 ,2012,New York Knicks,NYK
+balllo01,6.29 ,2017,Los Angeles Lakers,LAL
+banksma01,4.55 ,2009,Toronto Raptors,TOR
+banksma01,4.85 ,2010,New Orleans Hornets,NOP
+barbole01,6.60 ,2009,Phoenix Suns,PHX
+barbole01,7.10 ,2010,Toronto Raptors,TOR
+barbole01,7.60 ,2011,Toronto Raptors,TOR
+barbole01,1.23 ,2012,Washington Wizards,WAS
+barbole01,1.45 ,2014,Golden State Warriors,GSW
+barbole01,2.50 ,2015,Golden State Warriors,GSW
+barbole01,4.00 ,2016,Phoenix Suns,PHX
+barbole01,0.50 ,2017,Phoenix Suns,PHX
+bareajo01,1.66 ,2009,Dallas Mavericks,DAL
+bareajo01,1.82 ,2010,Dallas Mavericks,DAL
+bareajo01,4.30 ,2011,Minnesota Timberwolves,MIN
+bareajo01,4.49 ,2012,Minnesota Timberwolves,MIN
+bareajo01,4.69 ,2013,Minnesota Timberwolves,MIN
+bareajo01,1.31 ,2014,Dallas Mavericks,DAL
+bareajo01,4.00 ,2015,Dallas Mavericks,DAL
+bareajo01,4.10 ,2016,Dallas Mavericks,DAL
+bareajo01,3.90 ,2017,Dallas Mavericks,DAL
+bargnan01,6.53 ,2009,Toronto Raptors,TOR
+bargnan01,8.50 ,2010,Toronto Raptors,TOR
+bargnan01,9.25 ,2011,Toronto Raptors,TOR
+bargnan01,10.00 ,2012,Toronto Raptors,TOR
+bargnan01,11.86 ,2013,New York Knicks,NYK
+bargnan01,11.50 ,2014,New York Knicks,NYK
+bargnan01,1.04 ,2015,Brooklyn Nets,BKN
+bargnan01,0.32 ,2016,Brooklyn Nets,BKN
+barneha02,2.80 ,2012,Golden State Warriors,GSW
+barneha02,2.92 ,2013,Golden State Warriors,GSW
+barneha02,3.05 ,2014,Golden State Warriors,GSW
+barneha02,3.87 ,2015,Golden State Warriors,GSW
+barneha02,22.12 ,2016,Dallas Mavericks,DAL
+barneha02,23.11 ,2017,Dallas Mavericks,DAL
+barnema02,1.60 ,2009,Orlando Magic,ORL
+barnema02,1.77 ,2010,Los Angeles Lakers,LAL
+barnema02,1.91 ,2011,Los Angeles Lakers,LAL
+barnema02,1.23 ,2012,Los Angeles Clippers,LAC
+barnema02,3.25 ,2013,Los Angeles Clippers,LAC
+barnema02,3.40 ,2014,Los Angeles Clippers,LAC
+barnema02,3.54 ,2015,Memphis Grizzlies,MEM
+barnema02,6.13 ,2016,Sacramento Kings,SAC
+barnema02,0.38 ,2016,Golden State Warriors,GSW
+barnema02,2.13 ,2017,Sacramento Kings,SAC
+barroea01,0.19 ,2010,Phoenix Suns,PHX
+barroea01,0.19 ,2011,Golden State Warriors,GSW
+barroea01,0.36 ,2012,Washington Wizards,WAS
+barroea01,0.11 ,2014,Phoenix Suns,PHX
+barrybr01,2.06 ,2009,Houston Rockets,HOU
+bartowi01,0.55 ,2012,Portland Trail Blazers,POR
+bartowi01,0.79 ,2013,Portland Trail Blazers,POR
+bartowi01,0.92 ,2014,Denver Nuggets,DEN
+bartowi01,3.33 ,2015,Denver Nuggets,DEN
+bartowi01,3.53 ,2016,Denver Nuggets,DEN
+bartowi01,3.53 ,2017,Denver Nuggets,DEN
+bassbr01,4.00 ,2009,Orlando Magic,ORL
+bassbr01,4.00 ,2010,Orlando Magic,ORL
+bassbr01,4.25 ,2011,Boston Celtics,BOS
+bassbr01,6.00 ,2012,Boston Celtics,BOS
+bassbr01,6.45 ,2013,Boston Celtics,BOS
+bassbr01,6.90 ,2014,Boston Celtics,BOS
+bassbr01,3.00 ,2015,Los Angeles Lakers,LAL
+bassbr01,1.55 ,2016,Los Angeles Clippers,LAC
+battito01,6.29 ,2009,Brooklyn Nets,BKN
+battito01,1.35 ,2010,Philadelphia 76ers,PHI
+battito01,1.35 ,2011,Philadelphia 76ers,PHI
+battish01,6.86 ,2009,Houston Rockets,HOU
+battish01,7.35 ,2010,Memphis Grizzlies,MEM
+battish01,3.00 ,2011,Miami Heat,MIA
+battish01,3.14 ,2012,Miami Heat,MIA
+battish01,3.27 ,2013,Miami Heat,MIA
+batumni01,1.12 ,2009,Portland Trail Blazers,POR
+batumni01,1.20 ,2010,Portland Trail Blazers,POR
+batumni01,2.16 ,2011,Portland Trail Blazers,POR
+batumni01,10.85 ,2012,Portland Trail Blazers,POR
+batumni01,11.30 ,2013,Portland Trail Blazers,POR
+batumni01,11.77 ,2014,Portland Trail Blazers,POR
+batumni01,12.24 ,2015,Charlotte Hornets,CHA
+batumni01,20.87 ,2016,Charlotte Hornets,CHA
+batumni01,22.43 ,2017,Charlotte Hornets,CHA
+bayleje01,2.14 ,2009,Portland Trail Blazers,POR
+bayleje01,2.29 ,2010,Toronto Raptors,TOR
+bayleje01,3.04 ,2011,Toronto Raptors,TOR
+bayleje01,3.00 ,2012,Memphis Grizzlies,MEM
+bayleje01,3.14 ,2013,Memphis Grizzlies,MEM
+bayleje01,3.00 ,2014,Milwaukee Bucks,MIL
+bayleje01,3.00 ,2015,Milwaukee Bucks,MIL
+bayleje01,9.42 ,2016,Philadelphia 76ers,PHI
+bayleje01,9.00 ,2017,Philadelphia 76ers,PHI
+baynear01,0.40 ,2012,San Antonio Spurs,SAN
+baynear01,0.79 ,2013,San Antonio Spurs,SAN
+baynear01,2.08 ,2014,San Antonio Spurs,SAN
+baynear01,6.50 ,2015,Detroit Pistons,DET
+baynear01,6.50 ,2016,Detroit Pistons,DET
+baynear01,4.33 ,2017,Boston Celtics,BOS
+bazemke01,0.47 ,2012,Golden State Warriors,GSW
+bazemke01,0.79 ,2013,Golden State Warriors,GSW
+bazemke01,2.00 ,2014,Atlanta Hawks,ATL
+bazemke01,2.00 ,2015,Atlanta Hawks,ATL
+bazemke01,15.73 ,2016,Atlanta Hawks,ATL
+bazemke01,16.91 ,2017,Atlanta Hawks,ATL
+bealbr01,4.13 ,2012,Washington Wizards,WAS
+bealbr01,4.32 ,2013,Washington Wizards,WAS
+bealbr01,4.51 ,2014,Washington Wizards,WAS
+bealbr01,5.69 ,2015,Washington Wizards,WAS
+bealbr01,22.12 ,2016,Washington Wizards,WAS
+bealbr01,23.78 ,2017,Washington Wizards,WAS
+beaslma01,1.63 ,2016,Denver Nuggets,DEN
+beaslma01,1.70 ,2017,Denver Nuggets,DEN
+beaslmi01,4.64 ,2009,Miami Heat,MIA
+beaslmi01,4.96 ,2010,Minnesota Timberwolves,MIN
+beaslmi01,6.26 ,2011,Minnesota Timberwolves,MIN
+beaslmi01,5.75 ,2012,Phoenix Suns,PHX
+beaslmi01,4.67 ,2013,Phoenix Suns,PHX
+beaslmi01,1.03 ,2013,Miami Heat,MIA
+beaslmi01,0.78 ,2014,Phoenix Suns,PHX
+beaslmi01,0.33 ,2014,Miami Heat,MIA
+beaslmi01,0.31 ,2015,Houston Rockets,HOU
+beaslmi01,1.40 ,2016,Milwaukee Bucks,MIL
+beaslmi01,0.78 ,2016,Phoenix Suns,PHX
+beaslmi01,1.47 ,2017,New York Knicks,NYK
+beaubro01,1.08 ,2009,Dallas Mavericks,DAL
+beaubro01,1.16 ,2010,Dallas Mavericks,DAL
+beaubro01,1.24 ,2011,Dallas Mavericks,DAL
+beaubro01,2.23 ,2012,Dallas Mavericks,DAL
+belinma01,1.55 ,2009,Toronto Raptors,TOR
+belinma01,2.38 ,2010,New Orleans Hornets,NOP
+belinma01,3.38 ,2011,New Orleans Hornets,NOP
+belinma01,1.96 ,2012,Chicago Bulls,CHI
+belinma01,2.75 ,2013,San Antonio Spurs,SAN
+belinma01,2.87 ,2014,San Antonio Spurs,SAN
+belinma01,6.33 ,2015,Sacramento Kings,SAC
+belinma01,6.33 ,2016,Charlotte Hornets,CHA
+belinma01,6.31 ,2017,Atlanta Hawks,ATL
+belinma01,0.78 ,2017,Philadelphia 76ers,PHI
+bellch01,3.60 ,2009,Milwaukee Bucks,MIL
+bellch01,4.45 ,2010,Golden State Warriors,GSW
+bellch01,4.10 ,2011,Golden State Warriors,GSW
+belljo01,0.82 ,2017,Golden State Warriors,GSW
+bellra01,5.25 ,2009,Golden State Warriors,GSW
+bellra01,3.00 ,2010,Utah Jazz,UTA
+bellra01,3.24 ,2011,Utah Jazz,UTA
+bellra01,3.48 ,2012,Utah Jazz,UTA
+bembrde01,1.50 ,2016,Atlanta Hawks,ATL
+bembrde01,1.57 ,2017,Atlanta Hawks,ATL
+bendedr01,4.28 ,2016,Phoenix Suns,PHX
+bendedr01,4.47 ,2017,Phoenix Suns,PHX
+bendejo01,0.80 ,2009,New York Knicks,NYK
+benimje01,0.04 ,2014,Denver Nuggets,DEN
+benimje01,0.03 ,2014,Utah Jazz,UTA
+bennean01,5.32 ,2013,Cleveland Cavaliers,CLE
+bennean01,5.56 ,2014,Minnesota Timberwolves,MIN
+bennean01,3.65 ,2015,Minnesota Timberwolves,MIN
+bennean01,0.95 ,2015,Toronto Raptors,TOR
+bennean01,1.02 ,2016,Brooklyn Nets,BKN
+bensoke02,0.08 ,2016,Miami Heat,MIA
+bentibe01,0.25 ,2016,Boston Celtics,BOS
+bentibe01,0.05 ,2016,Indiana Pacers,IND
+bentibe01,0.03 ,2016,Dallas Mavericks,DAL
+bertada01,0.54 ,2016,San Antonio Spurs,SAN
+bertada01,1.31 ,2017,San Antonio Spurs,SAN
+beverpa01,0.28 ,2012,Houston Rockets,HOU
+beverpa01,0.79 ,2013,Houston Rockets,HOU
+beverpa01,0.92 ,2014,Houston Rockets,HOU
+beverpa01,6.50 ,2015,Houston Rockets,HOU
+beverpa01,6.00 ,2016,Houston Rockets,HOU
+beverpa01,5.51 ,2017,Los Angeles Clippers,LAC
+bhullsi01,0.03 ,2014,Sacramento Kings,SAC
+bibbymi01,6.22 ,2009,Atlanta Hawks,ATL
+bibbymi01,5.56 ,2010,Washington Wizards,WAS
+bibbymi01,1.35 ,2011,New York Knicks,NYK
+biedran01,9.00 ,2009,Golden State Warriors,GSW
+biedran01,9.00 ,2010,Golden State Warriors,GSW
+biedran01,9.00 ,2011,Golden State Warriors,GSW
+biedran01,9.00 ,2012,Golden State Warriors,GSW
+biedran01,9.00 ,2013,Utah Jazz,UTA
+billuch01,12.10 ,2009,Denver Nuggets,DEN
+billuch01,13.15 ,2010,New York Knicks,NYK
+billuch01,12.20 ,2011,New York Knicks,NYK
+billuch01,2.00 ,2011,Los Angeles Clippers,LAC
+billuch01,4.00 ,2012,Los Angeles Clippers,LAC
+billuch01,2.50 ,2013,Detroit Pistons,DET
+birchkh01,0.05 ,2014,Miami Heat,MIA
+birchkh01,0.82 ,2017,Orlando Magic,ORL
+biyombi01,2.80 ,2011,Charlotte Hornets,CHA
+biyombi01,3.01 ,2012,Charlotte Hornets,CHA
+biyombi01,3.05 ,2013,Charlotte Hornets,CHA
+biyombi01,3.87 ,2014,Charlotte Hornets,CHA
+biyombi01,3.00 ,2015,Toronto Raptors,TOR
+biyombi01,17.00 ,2016,Orlando Magic,ORL
+biyombi01,17.00 ,2017,Orlando Magic,ORL
+bjeline01,4.00 ,2015,Minnesota Timberwolves,MIN
+bjeline01,3.80 ,2016,Minnesota Timberwolves,MIN
+bjeline01,3.95 ,2017,Minnesota Timberwolves,MIN
+blackta01,0.51 ,2014,Los Angeles Lakers,LAL
+blackta01,0.85 ,2015,Los Angeles Lakers,LAL
+blackta01,6.19 ,2016,Los Angeles Lakers,LAL
+blackta01,3.29 ,2017,Houston Rockets,HOU
+blairde01,0.85 ,2009,San Antonio Spurs,SAN
+blairde01,0.92 ,2010,San Antonio Spurs,SAN
+blairde01,0.99 ,2011,San Antonio Spurs,SAN
+blairde01,1.05 ,2012,San Antonio Spurs,SAN
+blairde01,0.95 ,2013,Dallas Mavericks,DAL
+blairde01,2.00 ,2014,Washington Wizards,WAS
+blairde01,2.00 ,2015,Phoenix Suns,PHX
+blakest01,4.93 ,2009,Los Angeles Clippers,LAC
+blakest01,4.00 ,2010,Los Angeles Lakers,LAL
+blakest01,4.00 ,2011,Los Angeles Lakers,LAL
+blakest01,4.00 ,2012,Los Angeles Lakers,LAL
+blakest01,4.00 ,2013,Los Angeles Lakers,LAL
+blakest01,2.08 ,2014,Portland Trail Blazers,POR
+blakest01,2.17 ,2015,Detroit Pistons,DET
+blatcan01,3.00 ,2009,Washington Wizards,WAS
+blatcan01,5.90 ,2010,Washington Wizards,WAS
+blatcan01,6.44 ,2011,Washington Wizards,WAS
+blatcan01,7.12 ,2012,Washington Wizards,WAS
+blatcan01,1.15 ,2012,Brooklyn Nets,BKN
+blatcan01,1.38 ,2013,Brooklyn Nets,BKN
+blatcan01,8.47 ,2014,Washington Wizards,WAS
+bledser01,1.49 ,2010,Los Angeles Clippers,LAC
+bledser01,1.60 ,2011,Los Angeles Clippers,LAC
+bledser01,1.71 ,2012,Los Angeles Clippers,LAC
+bledser01,2.63 ,2013,Phoenix Suns,PHX
+bledser01,12.17 ,2014,Phoenix Suns,PHX
+bledser01,13.09 ,2015,Phoenix Suns,PHX
+bledser01,14.00 ,2016,Phoenix Suns,PHX
+bledser01,14.50 ,2017,Milwaukee Bucks,MIL
+blounma01,7.96 ,2009,Minnesota Timberwolves,MIN
+boganke01,1.03 ,2009,San Antonio Spurs,SAN
+boganke01,1.60 ,2010,Chicago Bulls,CHI
+boganke01,0.85 ,2011,Brooklyn Nets,BKN
+boganke01,1.23 ,2012,Brooklyn Nets,BKN
+boganke01,5.06 ,2013,Boston Celtics,BOS
+bogdabo01,9.47 ,2017,Sacramento Kings,SAC
+bogdabo02,3.28 ,2014,Brooklyn Nets,BKN
+bogdabo02,3.43 ,2015,Brooklyn Nets,BKN
+bogdabo02,3.73 ,2016,Washington Wizards,WAS
+bogdabo02,10.50 ,2017,Indiana Pacers,IND
+bogutan01,10.00 ,2009,Milwaukee Bucks,MIL
+bogutan01,11.00 ,2010,Milwaukee Bucks,MIL
+bogutan01,12.00 ,2011,Milwaukee Bucks,MIL
+bogutan01,13.00 ,2012,Golden State Warriors,GSW
+bogutan01,14.00 ,2013,Golden State Warriors,GSW
+bogutan01,12.97 ,2014,Golden State Warriors,GSW
+bogutan01,12.00 ,2015,Golden State Warriors,GSW
+bogutan01,11.03 ,2016,Philadelphia 76ers,PHI
+bogutan01,0.24 ,2016,Cleveland Cavaliers,CLE
+bogutan01,1.11 ,2017,Los Angeles Lakers,LAL
+bonnema01,3.24 ,2009,San Antonio Spurs,SAN
+bonnema01,3.00 ,2010,San Antonio Spurs,SAN
+bonnema01,3.32 ,2011,San Antonio Spurs,SAN
+bonnema01,3.63 ,2012,San Antonio Spurs,SAN
+bonnema01,3.95 ,2013,San Antonio Spurs,SAN
+bonnema01,1.45 ,2014,San Antonio Spurs,SAN
+bonnema01,1.50 ,2015,San Antonio Spurs,SAN
+bookede01,2.13 ,2015,Phoenix Suns,PHX
+bookede01,2.22 ,2016,Phoenix Suns,PHX
+bookede01,2.32 ,2017,Phoenix Suns,PHX
+booketr01,1.20 ,2010,Washington Wizards,WAS
+booketr01,1.29 ,2011,Washington Wizards,WAS
+booketr01,1.39 ,2012,Washington Wizards,WAS
+booketr01,2.35 ,2013,Washington Wizards,WAS
+booketr01,5.00 ,2014,Utah Jazz,UTA
+booketr01,4.78 ,2015,Utah Jazz,UTA
+booketr01,9.25 ,2016,Brooklyn Nets,BKN
+booketr01,8.73 ,2017,Philadelphia 76ers,PHI
+booketr01,0.33 ,2017,Indiana Pacers,IND
+boonejo01,2.06 ,2009,Brooklyn Nets,BKN
+boozeca01,13.52 ,2009,Utah Jazz,UTA
+boozeca01,14.40 ,2010,Chicago Bulls,CHI
+boozeca01,13.50 ,2011,Chicago Bulls,CHI
+boozeca01,15.00 ,2012,Chicago Bulls,CHI
+boozeca01,15.30 ,2013,Chicago Bulls,CHI
+boozeca01,13.55 ,2014,Chicago Bulls,CHI
+boozeca01,3.25 ,2014,Los Angeles Lakers,LAL
+boshch01,15.78 ,2009,Toronto Raptors,TOR
+boshch01,14.50 ,2010,Miami Heat,MIA
+boshch01,16.02 ,2011,Miami Heat,MIA
+boshch01,17.55 ,2012,Miami Heat,MIA
+boshch01,19.07 ,2013,Miami Heat,MIA
+boshch01,20.64 ,2014,Miami Heat,MIA
+boshch01,22.19 ,2015,Miami Heat,MIA
+boshch01,23.74 ,2016,Miami Heat,MIA
+boshch01,25.29 ,2017,Miami Heat,MIA
+bowenbr01,2.00 ,2009,Milwaukee Bucks,MIL
+bowenry01,0.21 ,2009,Oklahoma City Thunder,OKC
+boykiea01,1.19 ,2009,Washington Wizards,WAS
+boykiea01,1.35 ,2010,Milwaukee Bucks,MIL
+brackcr01,1.31 ,2010,Philadelphia 76ers,PHI
+brackcr01,1.40 ,2011,Philadelphia 76ers,PHI
+bradlav01,1.42 ,2010,Boston Celtics,BOS
+bradlav01,1.52 ,2011,Boston Celtics,BOS
+bradlav01,1.63 ,2012,Boston Celtics,BOS
+bradlav01,2.51 ,2013,Boston Celtics,BOS
+bradlav01,7.19 ,2014,Boston Celtics,BOS
+bradlav01,7.73 ,2015,Boston Celtics,BOS
+bradlav01,8.27 ,2016,Boston Celtics,BOS
+bradlav01,8.81 ,2017,Los Angeles Clippers,LAC
+bradlto01,1.41 ,2017,Utah Jazz,UTA
+brandel01,14.86 ,2009,Philadelphia 76ers,PHI
+brandel01,15.96 ,2010,Philadelphia 76ers,PHI
+brandel01,17.06 ,2011,Philadelphia 76ers,PHI
+brandel01,16.06 ,2012,Philadelphia 76ers,PHI
+brandel01,2.10 ,2012,Dallas Mavericks,DAL
+brandel01,4.00 ,2013,Atlanta Hawks,ATL
+brandel01,2.00 ,2014,Atlanta Hawks,ATL
+brandel01,0.89 ,2015,Philadelphia 76ers,PHI
+brandel01,1.00 ,2016,Philadelphia 76ers,PHI
+breweco01,2.92 ,2009,Minnesota Timberwolves,MIN
+breweco01,3.70 ,2010,New York Knicks,NYK
+breweco01,3.06 ,2011,Denver Nuggets,DEN
+breweco01,3.24 ,2012,Denver Nuggets,DEN
+breweco01,4.50 ,2013,Minnesota Timberwolves,MIN
+breweco01,4.70 ,2014,Houston Rockets,HOU
+breweco01,8.20 ,2015,Houston Rockets,HOU
+breweco01,7.60 ,2016,Los Angeles Lakers,LAL
+breweco01,6.88 ,2017,Los Angeles Lakers,LAL
+breweco01,0.34 ,2017,Oklahoma City Thunder,OKC
+brewero02,2.72 ,2009,Memphis Grizzlies,MEM
+brewero02,4.79 ,2010,Chicago Bulls,CHI
+brewero02,4.71 ,2011,Chicago Bulls,CHI
+brewero02,1.07 ,2012,Oklahoma City Thunder,OKC
+brewero02,1.19 ,2013,Houston Rockets,HOU
+brezepr01,1.11 ,2009,Milwaukee Bucks,MIL
+brockjo01,0.46 ,2009,Sacramento Kings,SAC
+brockjo01,1.00 ,2010,Milwaukee Bucks,MIL
+brockjo01,1.00 ,2011,Milwaukee Bucks,MIL
+brockjo01,1.00 ,2012,Houston Rockets,HOU
+brogdma01,0.93 ,2016,Milwaukee Bucks,MIL
+brogdma01,1.31 ,2017,Milwaukee Bucks,MIL
+brookaa01,1.12 ,2009,Houston Rockets,HOU
+brookaa01,2.02 ,2010,Phoenix Suns,PHX
+brookaa01,3.25 ,2012,Sacramento Kings,SAC
+brookaa01,3.40 ,2013,Sacramento Kings,SAC
+brookaa01,1.03 ,2013,Houston Rockets,HOU
+brookaa01,1.15 ,2014,Chicago Bulls,CHI
+brookaa01,2.00 ,2015,Chicago Bulls,CHI
+brookaa01,2.70 ,2016,Indiana Pacers,IND
+brookaa01,1.47 ,2017,Minnesota Timberwolves,MIN
+brookdi01,0.82 ,2017,Memphis Grizzlies,MEM
+brookma01,1.11 ,2011,Brooklyn Nets,BKN
+brookma01,1.19 ,2012,Brooklyn Nets,BKN
+brookma01,1.21 ,2013,Boston Celtics,BOS
+brookma01,0.33 ,2017,Memphis Grizzlies,MEM
+brownbo02,0.74 ,2009,Los Angeles Clippers,LAC
+brownbo02,0.93 ,2016,Houston Rockets,HOU
+brownbo02,1.23 ,2017,Houston Rockets,HOU
+brownde04,0.46 ,2009,Charlotte Hornets,CHA
+brownde04,0.76 ,2010,Charlotte Hornets,CHA
+brownde04,0.85 ,2011,Charlotte Hornets,CHA
+brownde02,1.10 ,2009,Chicago Bulls,CHI
+brownja01,0.04 ,2014,Los Angeles Lakers,LAL
+brownja02,4.74 ,2016,Boston Celtics,BOS
+brownja02,4.96 ,2017,Boston Celtics,BOS
+brownkw01,4.10 ,2009,Detroit Pistons,DET
+brownkw01,1.23 ,2010,Charlotte Hornets,CHA
+brownkw01,6.75 ,2011,Golden State Warriors,GSW
+brownkw01,2.82 ,2012,Philadelphia 76ers,PHI
+brownkw01,2.95 ,2013,Philadelphia 76ers,PHI
+brownsh01,2.00 ,2009,Los Angeles Lakers,LAL
+brownsh01,2.20 ,2010,Los Angeles Lakers,LAL
+brownsh01,3.50 ,2011,Phoenix Suns,PHX
+brownsh01,3.50 ,2012,Phoenix Suns,PHX
+brownsh01,3.50 ,2013,Phoenix Suns,PHX
+brownst02,0.82 ,2017,Milwaukee Bucks,MIL
+brussni01,0.54 ,2016,Dallas Mavericks,DAL
+brussni01,0.91 ,2017,Atlanta Hawks,ATL
+bryanko01,23.03 ,2009,Los Angeles Lakers,LAL
+bryanko01,24.81 ,2010,Los Angeles Lakers,LAL
+bryanko01,25.24 ,2011,Los Angeles Lakers,LAL
+bryanko01,27.85 ,2012,Los Angeles Lakers,LAL
+bryanko01,30.45 ,2013,Los Angeles Lakers,LAL
+bryanko01,23.50 ,2014,Los Angeles Lakers,LAL
+bryanko01,25.00 ,2015,Los Angeles Lakers,LAL
+bryanth01,0.82 ,2017,Los Angeles Lakers,LAL
+buckngr01,1.00 ,2009,Dallas Mavericks,DAL
+budinch01,0.46 ,2009,Houston Rockets,HOU
+budinch01,0.78 ,2010,Houston Rockets,HOU
+budinch01,0.85 ,2011,Houston Rockets,HOU
+budinch01,0.89 ,2012,Minnesota Timberwolves,MIN
+budinch01,5.00 ,2013,Minnesota Timberwolves,MIN
+budinch01,5.00 ,2014,Minnesota Timberwolves,MIN
+budinch01,5.00 ,2015,Indiana Pacers,IND
+budinch01,0.26 ,2015,Phoenix Suns,PHX
+bullore01,1.15 ,2013,Los Angeles Clippers,LAC
+bullore01,1.20 ,2014,Phoenix Suns,PHX
+bullore01,1.25 ,2015,Detroit Pistons,DET
+bullore01,2.26 ,2016,Detroit Pistons,DET
+bullore01,2.50 ,2017,Detroit Pistons,DET
+burketr01,2.44 ,2013,Utah Jazz,UTA
+burketr01,2.55 ,2014,Utah Jazz,UTA
+burketr01,2.66 ,2015,Utah Jazz,UTA
+burketr01,3.39 ,2016,Washington Wizards,WAS
+burketr01,0.78 ,2017,New York Knicks,NYK
+burksal01,2.02 ,2011,Utah Jazz,UTA
+burksal01,2.17 ,2012,Utah Jazz,UTA
+burksal01,2.20 ,2013,Utah Jazz,UTA
+burksal01,3.03 ,2014,Utah Jazz,UTA
+burksal01,9.21 ,2015,Utah Jazz,UTA
+burksal01,10.15 ,2016,Utah Jazz,UTA
+burksal01,10.85 ,2017,Utah Jazz,UTA
+butleca01,9.78 ,2009,Dallas Mavericks,DAL
+butleca01,10.56 ,2010,Dallas Mavericks,DAL
+butleca01,8.00 ,2011,Los Angeles Clippers,LAC
+butleca01,8.00 ,2012,Los Angeles Clippers,LAC
+butleca01,8.00 ,2013,Phoenix Suns,PHX
+butleca01,4.50 ,2014,Milwaukee Bucks,MIL
+butleca01,1.50 ,2015,Sacramento Kings,SAC
+butleca01,0.52 ,2016,Sacramento Kings,SAC
+butleca01,0.52 ,2017,Sacramento Kings,SAC
+butleji01,1.02 ,2011,Chicago Bulls,CHI
+butleji01,1.10 ,2012,Chicago Bulls,CHI
+butleji01,1.11 ,2013,Chicago Bulls,CHI
+butleji01,2.01 ,2014,Chicago Bulls,CHI
+butleji01,15.26 ,2015,Chicago Bulls,CHI
+butleji01,17.55 ,2016,Chicago Bulls,CHI
+butleji01,19.30 ,2017,Minnesota Timberwolves,MIN
+butlera01,3.95 ,2009,Los Angeles Clippers,LAC
+butlera01,2.40 ,2010,Los Angeles Clippers,LAC
+butlera01,1.23 ,2011,Toronto Raptors,TOR
+butlera01,1.45 ,2014,Washington Wizards,WAS
+butlera01,1.50 ,2015,San Antonio Spurs,SAN
+buyckdw01,0.05 ,2014,Los Angeles Lakers,LAL
+buyckdw01,0.75 ,2017,Detroit Pistons,DET
+bynuman01,12.53 ,2009,Los Angeles Lakers,LAL
+bynuman01,13.70 ,2010,Los Angeles Lakers,LAL
+bynuman01,14.90 ,2011,Los Angeles Lakers,LAL
+bynuman01,16.89 ,2012,Philadelphia 76ers,PHI
+bynuman01,6.00 ,2013,Chicago Bulls,CHI
+bynumwi01,0.83 ,2009,Detroit Pistons,DET
+bynumwi01,3.25 ,2010,Detroit Pistons,DET
+bynumwi01,3.25 ,2011,Detroit Pistons,DET
+bynumwi01,3.25 ,2012,Detroit Pistons,DET
+bynumwi01,2.79 ,2013,Detroit Pistons,DET
+bynumwi01,2.92 ,2014,Boston Celtics,BOS
+bynumwi01,0.14 ,2014,Washington Wizards,WAS
+cabocbr01,1.46 ,2014,Toronto Raptors,TOR
+cabocbr01,1.52 ,2015,Toronto Raptors,TOR
+cabocbr01,1.59 ,2016,Toronto Raptors,TOR
+cabocbr01,2.45 ,2017,Sacramento Kings,SAC
+calatni01,0.82 ,2014,Memphis Grizzlies,MEM
+caldejo01,8.22 ,2009,Toronto Raptors,TOR
+caldejo01,9.00 ,2010,Toronto Raptors,TOR
+caldejo01,9.78 ,2011,Toronto Raptors,TOR
+caldejo01,11.05 ,2012,Detroit Pistons,DET
+caldejo01,6.79 ,2013,Dallas Mavericks,DAL
+caldejo01,7.10 ,2014,New York Knicks,NYK
+caldejo01,7.40 ,2015,New York Knicks,NYK
+caldejo01,7.71 ,2016,Los Angeles Lakers,LAL
+caldejo01,0.39 ,2016,Atlanta Hawks,ATL
+caldejo01,1.47 ,2017,Cleveland Cavaliers,CLE
+caldwke01,2.65 ,2013,Detroit Pistons,DET
+caldwke01,2.77 ,2014,Detroit Pistons,DET
+caldwke01,2.89 ,2015,Detroit Pistons,DET
+caldwke01,3.68 ,2016,Detroit Pistons,DET
+caldwke01,17.75 ,2017,Los Angeles Lakers,LAL
+cambyma01,7.65 ,2009,Portland Trail Blazers,POR
+cambyma01,11.75 ,2010,Portland Trail Blazers,POR
+cambyma01,11.23 ,2011,Portland Trail Blazers,POR
+cambyma01,4.59 ,2012,New York Knicks,NYK
+cambyma01,4.38 ,2013,Toronto Raptors,TOR
+cambyma01,1.40 ,2013,Houston Rockets,HOU
+cambyma01,0.65 ,2014,Toronto Raptors,TOR
+canaais01,0.82 ,2014,Philadelphia 76ers,PHI
+canaais01,0.95 ,2015,Philadelphia 76ers,PHI
+canaais01,1.02 ,2016,Chicago Bulls,CHI
+canaais01,1.00 ,2017,Phoenix Suns,PHX
+canaais01,0.20 ,2017,Chicago Bulls,CHI
+canaais01,0.05 ,2017,Houston Rockets,HOU
+capelca01,1.19 ,2014,Houston Rockets,HOU
+capelca01,1.24 ,2015,Houston Rockets,HOU
+capelca01,1.30 ,2016,Houston Rockets,HOU
+capelca01,2.33 ,2017,Houston Rockets,HOU
+caracde01,0.47 ,2010,Los Angeles Lakers,LAL
+caracde01,0.27 ,2011,Los Angeles Lakers,LAL
+cardibr01,6.75 ,2009,New York Knicks,NYK
+cardibr01,1.35 ,2010,Dallas Mavericks,DAL
+cardibr01,1.35 ,2011,Dallas Mavericks,DAL
+carnero01,0.86 ,2009,Philadelphia 76ers,PHI
+carnero01,0.38 ,2010,Golden State Warriors,GSW
+carnero01,0.27 ,2010,Memphis Grizzlies,MEM
+carrode01,1.01 ,2009,Memphis Grizzlies,MEM
+carrode01,1.09 ,2010,Houston Rockets,HOU
+carrode01,0.54 ,2011,Utah Jazz,UTA
+carrode01,0.29 ,2011,Denver Nuggets,DEN
+carrode01,2.56 ,2013,Atlanta Hawks,ATL
+carrode01,2.44 ,2014,Atlanta Hawks,ATL
+carrode01,13.50 ,2015,Toronto Raptors,TOR
+carrode01,14.20 ,2016,Toronto Raptors,TOR
+carrode01,14.80 ,2017,Brooklyn Nets,BKN
+carroma01,4.70 ,2009,Dallas Mavericks,DAL
+carroma01,4.30 ,2010,Charlotte Hornets,CHA
+carroma01,3.90 ,2011,Charlotte Hornets,CHA
+carroma01,3.50 ,2012,New Orleans Hornets,NOP
+cartean01,1.31 ,2009,Denver Nuggets,DEN
+cartean01,1.35 ,2010,New York Knicks,NYK
+cartean01,1.35 ,2011,Toronto Raptors,TOR
+cartevi01,16.30 ,2009,Orlando Magic,ORL
+cartevi01,17.30 ,2010,Phoenix Suns,PHX
+cartevi01,18.30 ,2011,Phoenix Suns,PHX
+cartevi01,3.00 ,2011,Dallas Mavericks,DAL
+cartevi01,3.09 ,2012,Dallas Mavericks,DAL
+cartevi01,3.18 ,2013,Dallas Mavericks,DAL
+cartevi01,3.91 ,2014,Memphis Grizzlies,MEM
+cartevi01,4.09 ,2015,Memphis Grizzlies,MEM
+cartevi01,4.26 ,2016,Memphis Grizzlies,MEM
+cartevi01,8.00 ,2017,Sacramento Kings,SAC
+cartemi01,2.20 ,2013,Philadelphia 76ers,PHI
+cartemi01,2.30 ,2014,Milwaukee Bucks,MIL
+cartemi01,2.40 ,2015,Milwaukee Bucks,MIL
+cartemi01,3.18 ,2016,Chicago Bulls,CHI
+cartemi01,2.70 ,2017,Charlotte Hornets,CHA
+casspom01,1.17 ,2009,Sacramento Kings,SAC
+casspom01,1.25 ,2010,Sacramento Kings,SAC
+casspom01,1.34 ,2011,Cleveland Cavaliers,CLE
+casspom01,2.28 ,2012,Cleveland Cavaliers,CLE
+casspom01,0.95 ,2013,Houston Rockets,HOU
+casspom01,1.06 ,2014,Sacramento Kings,SAC
+casspom01,3.00 ,2015,Sacramento Kings,SAC
+casspom01,3.00 ,2016,New Orleans Pelicans,NOP
+casspom01,0.14 ,2016,Minnesota Timberwolves,MIN
+casspom01,1.47 ,2017,Golden State Warriors,GSW
+caulewi01,3.40 ,2015,Sacramento Kings,SAC
+caulewi01,3.55 ,2016,Sacramento Kings,SAC
+caulewi01,3.70 ,2017,Sacramento Kings,SAC
+cavanty01,0.73 ,2017,Atlanta Hawks,ATL
+chalmma01,0.77 ,2009,Miami Heat,MIA
+chalmma01,0.85 ,2010,Miami Heat,MIA
+chalmma01,4.00 ,2011,Miami Heat,MIA
+chalmma01,4.00 ,2012,Miami Heat,MIA
+chalmma01,4.00 ,2013,Miami Heat,MIA
+chalmma01,4.00 ,2014,Miami Heat,MIA
+chalmma01,4.30 ,2015,Memphis Grizzlies,MEM
+chalmma01,2.11 ,2017,Memphis Grizzlies,MEM
+chandty01,11.85 ,2009,Charlotte Hornets,CHA
+chandty01,12.60 ,2010,Dallas Mavericks,DAL
+chandty01,13.11 ,2011,New York Knicks,NYK
+chandty01,13.60 ,2012,New York Knicks,NYK
+chandty01,14.10 ,2013,New York Knicks,NYK
+chandty01,14.60 ,2014,Dallas Mavericks,DAL
+chandty01,13.00 ,2015,Phoenix Suns,PHX
+chandty01,12.42 ,2016,Phoenix Suns,PHX
+chandty01,13.00 ,2017,Phoenix Suns,PHX
+chandwi01,1.26 ,2009,New York Knicks,NYK
+chandwi01,2.13 ,2010,Denver Nuggets,DEN
+chandwi01,5.93 ,2012,Denver Nuggets,DEN
+chandwi01,6.34 ,2013,Denver Nuggets,DEN
+chandwi01,6.76 ,2014,Denver Nuggets,DEN
+chandwi01,10.50 ,2015,Denver Nuggets,DEN
+chandwi01,11.20 ,2016,Denver Nuggets,DEN
+chandwi01,12.02 ,2017,Denver Nuggets,DEN
+cherrwi01,0.03 ,2014,Toronto Raptors,TOR
+childjo01,6.50 ,2010,Phoenix Suns,PHX
+childjo01,6.00 ,2011,Phoenix Suns,PHX
+childjo01,7.00 ,2012,Phoenix Suns,PHX
+childjo01,0.38 ,2012,Brooklyn Nets,BKN
+childjo01,7.32 ,2014,Phoenix Suns,PHX
+chrisma01,2.94 ,2016,Phoenix Suns,PHX
+chrisma01,3.07 ,2017,Phoenix Suns,PHX
+chrisdi01,0.05 ,2016,Philadelphia 76ers,PHI
+chrisra01,1.00 ,2015,Indiana Pacers,IND
+chrisra01,1.05 ,2016,Indiana Pacers,IND
+chrisra01,0.17 ,2017,Indiana Pacers,IND
+chrisse01,0.54 ,2016,Oklahoma City Thunder,OKC
+clarkea01,1.77 ,2009,Phoenix Suns,PHX
+clarkea01,1.90 ,2010,Orlando Magic,ORL
+clarkea01,1.16 ,2011,Orlando Magic,ORL
+clarkea01,1.24 ,2012,Los Angeles Lakers,LAL
+clarkea01,4.25 ,2013,Cleveland Cavaliers,CLE
+clarkea01,0.06 ,2014,Brooklyn Nets,BKN
+clarkia01,0.82 ,2014,Denver Nuggets,DEN
+clarkia01,0.95 ,2015,Golden State Warriors,GSW
+clarkia01,1.02 ,2016,Golden State Warriors,GSW
+clarkia01,1.47 ,2017,New Orleans Pelicans,NOP
+clarkco01,0.06 ,2015,Boston Celtics,BOS
+clarkjo01,0.51 ,2014,Los Angeles Lakers,LAL
+clarkjo01,0.85 ,2015,Los Angeles Lakers,LAL
+clarkjo01,12.50 ,2016,Los Angeles Lakers,LAL
+clarkjo01,11.56 ,2017,Cleveland Cavaliers,CLE
+clavevi01,1.30 ,2012,Portland Trail Blazers,POR
+clavevi01,1.33 ,2013,Portland Trail Blazers,POR
+clavevi01,1.37 ,2014,Denver Nuggets,DEN
+claxtsp01,5.21 ,2009,Golden State Warriors,GSW
+coleno01,1.04 ,2011,Miami Heat,MIA
+coleno01,1.08 ,2012,Miami Heat,MIA
+coleno01,1.13 ,2013,Miami Heat,MIA
+coleno01,2.04 ,2014,New Orleans Pelicans,NOP
+coleno01,3.04 ,2015,New Orleans Pelicans,NOP
+coleno01,0.25 ,2016,Oklahoma City Thunder,OKC
+collija03,1.18 ,2009,Phoenix Suns,PHX
+collija03,0.64 ,2010,Los Angeles Clippers,LAC
+collija04,1.18 ,2009,Atlanta Hawks,ATL
+collija04,1.35 ,2010,Atlanta Hawks,ATL
+collija04,1.35 ,2011,Atlanta Hawks,ATL
+collija04,1.35 ,2012,Washington Wizards,WAS
+collijo01,1.94 ,2017,Atlanta Hawks,ATL
+collima01,1.87 ,2009,Los Angeles Clippers,LAC
+collish01,0.47 ,2010,Charlotte Hornets,CHA
+colliza01,3.06 ,2017,Portland Trail Blazers,POR
+collida01,1.27 ,2009,New Orleans Hornets,NOP
+collida01,1.36 ,2010,Indiana Pacers,IND
+collida01,1.46 ,2011,Indiana Pacers,IND
+collida01,2.32 ,2012,Dallas Mavericks,DAL
+collida01,1.90 ,2013,Los Angeles Clippers,LAC
+collida01,4.80 ,2014,Sacramento Kings,SAC
+collida01,5.01 ,2015,Sacramento Kings,SAC
+collida01,5.23 ,2016,Sacramento Kings,SAC
+collida01,10.00 ,2017,Indiana Pacers,IND
+collini01,6.25 ,2009,Oklahoma City Thunder,OKC
+collini01,13.25 ,2010,Oklahoma City Thunder,OKC
+collini01,3.27 ,2011,Oklahoma City Thunder,OKC
+collini01,2.93 ,2012,Oklahoma City Thunder,OKC
+collini01,2.59 ,2013,Oklahoma City Thunder,OKC
+collini01,2.24 ,2014,Oklahoma City Thunder,OKC
+collini01,3.75 ,2015,Oklahoma City Thunder,OKC
+collini01,3.75 ,2016,Oklahoma City Thunder,OKC
+collini01,2.33 ,2017,Oklahoma City Thunder,OKC
+conlemi01,3.88 ,2009,Memphis Grizzlies,MEM
+conlemi01,4.91 ,2010,Memphis Grizzlies,MEM
+conlemi01,6.61 ,2011,Memphis Grizzlies,MEM
+conlemi01,7.31 ,2012,Memphis Grizzlies,MEM
+conlemi01,8.00 ,2013,Memphis Grizzlies,MEM
+conlemi01,8.89 ,2014,Memphis Grizzlies,MEM
+conlemi01,9.59 ,2015,Memphis Grizzlies,MEM
+conlemi01,26.54 ,2016,Memphis Grizzlies,MEM
+conlemi01,28.53 ,2017,Memphis Grizzlies,MEM
+connapa01,0.53 ,2015,Portland Trail Blazers,POR
+connapa01,0.87 ,2016,Portland Trail Blazers,POR
+connapa01,1.47 ,2017,Portland Trail Blazers,POR
+conrowi01,0.05 ,2009,Houston Rockets,HOU
+conrowi01,0.09 ,2012,Minnesota Timberwolves,MIN
+cookbr01,3.50 ,2009,Houston Rockets,HOU
+cookbr01,1.15 ,2010,Los Angeles Clippers,LAC
+cookbr01,1.22 ,2011,Los Angeles Clippers,LAC
+cookda02,1.36 ,2009,Miami Heat,MIA
+cookda02,2.17 ,2010,Oklahoma City Thunder,OKC
+cookda02,3.34 ,2011,Oklahoma City Thunder,OKC
+cookda02,3.09 ,2012,Houston Rockets,HOU
+cookda02,0.59 ,2012,Chicago Bulls,CHI
+copelch01,0.47 ,2012,New York Knicks,NYK
+copelch01,3.00 ,2013,Indiana Pacers,IND
+copelch01,3.14 ,2014,Indiana Pacers,IND
+copelch01,1.10 ,2015,Orlando Magic,ORL
+cottobr01,0.15 ,2014,Utah Jazz,UTA
+cottobr01,0.05 ,2014,San Antonio Spurs,SAN
+cottobr01,0.23 ,2015,Phoenix Suns,PHX
+cottobr01,0.06 ,2015,Memphis Grizzlies,MEM
+couside01,3.37 ,2010,Sacramento Kings,SAC
+couside01,3.63 ,2011,Sacramento Kings,SAC
+couside01,3.88 ,2012,Sacramento Kings,SAC
+couside01,4.92 ,2013,Sacramento Kings,SAC
+couside01,13.70 ,2014,Sacramento Kings,SAC
+couside01,14.73 ,2015,Sacramento Kings,SAC
+couside01,16.96 ,2016,New Orleans Pelicans,NOP
+couside01,18.06 ,2017,New Orleans Pelicans,NOP
+covinro01,1.00 ,2014,Philadelphia 76ers,PHI
+covinro01,0.15 ,2014,Houston Rockets,HOU
+covinro01,1.00 ,2015,Philadelphia 76ers,PHI
+covinro01,1.02 ,2016,Philadelphia 76ers,PHI
+covinro01,16.70 ,2017,Philadelphia 76ers,PHI
+crabbal01,0.86 ,2014,Portland Trail Blazers,POR
+crabbal01,0.95 ,2015,Portland Trail Blazers,POR
+crabbal01,18.50 ,2016,Portland Trail Blazers,POR
+crabbal01,19.33 ,2017,Brooklyn Nets,BKN
+crawfja01,9.36 ,2009,Atlanta Hawks,ATL
+crawfja01,10.80 ,2010,Atlanta Hawks,ATL
+crawfja01,5.00 ,2011,Portland Trail Blazers,POR
+crawfja01,5.00 ,2012,Los Angeles Clippers,LAC
+crawfja01,5.23 ,2013,Los Angeles Clippers,LAC
+crawfja01,5.45 ,2014,Los Angeles Clippers,LAC
+crawfja01,5.68 ,2015,Los Angeles Clippers,LAC
+crawfja01,13.25 ,2016,Los Angeles Clippers,LAC
+crawfja01,10.94 ,2017,Atlanta Hawks,ATL
+crawfja01,4.33 ,2017,Minnesota Timberwolves,MIN
+crawfjo02,1.04 ,2010,Washington Wizards,WAS
+crawfjo02,1.12 ,2011,Washington Wizards,WAS
+crawfjo02,1.20 ,2012,Boston Celtics,BOS
+crawfjo02,2.16 ,2013,Boston Celtics,BOS
+crawfjo02,0.23 ,2016,New Orleans Pelicans,NOP
+crawfjo02,0.31 ,2017,New Orleans Pelicans,NOP
+crittja01,1.48 ,2009,Washington Wizards,WAS
+crowdja01,0.60 ,2012,Dallas Mavericks,DAL
+crowdja01,0.79 ,2013,Dallas Mavericks,DAL
+crowdja01,0.92 ,2014,Boston Celtics,BOS
+crowdja01,6.00 ,2015,Boston Celtics,BOS
+crowdja01,6.29 ,2016,Boston Celtics,BOS
+crowdja01,6.80 ,2017,Utah Jazz,UTA
+cunnida01,0.46 ,2009,Portland Trail Blazers,POR
+cunnida01,0.76 ,2010,Charlotte Hornets,CHA
+cunnida01,2.00 ,2011,Memphis Grizzlies,MEM
+cunnida01,2.09 ,2012,Minnesota Timberwolves,MIN
+cunnida01,2.18 ,2013,Minnesota Timberwolves,MIN
+cunnida01,0.83 ,2014,New Orleans Pelicans,NOP
+cunnida01,3.00 ,2015,New Orleans Pelicans,NOP
+cunnida01,2.98 ,2016,New Orleans Pelicans,NOP
+cunnida01,2.30 ,2017,Brooklyn Nets,BKN
+cunnija01,1.16 ,2012,Dallas Mavericks,DAL
+cunnija01,1.21 ,2013,Atlanta Hawks,ATL
+cunnija01,0.98 ,2015,Orlando Magic,ORL
+cunnija01,0.06 ,2015,Milwaukee Bucks,MIL
+curryed01,10.50 ,2009,New York Knicks,NYK
+curryed01,11.53 ,2010,Minnesota Timberwolves,MIN
+curryed01,1.23 ,2011,Miami Heat,MIA
+curryed01,0.02 ,2012,Dallas Mavericks,DAL
+curryja01,0.03 ,2009,Los Angeles Clippers,LAC
+curryse01,0.10 ,2014,Orlando Magic,ORL
+curryse01,0.05 ,2014,Phoenix Suns,PHX
+curryse01,0.95 ,2015,Sacramento Kings,SAC
+curryse01,2.90 ,2016,Dallas Mavericks,DAL
+curryse01,3.03 ,2017,Dallas Mavericks,DAL
+curryst01,2.71 ,2009,Golden State Warriors,GSW
+curryst01,2.91 ,2010,Golden State Warriors,GSW
+curryst01,3.12 ,2011,Golden State Warriors,GSW
+curryst01,3.96 ,2012,Golden State Warriors,GSW
+curryst01,9.89 ,2013,Golden State Warriors,GSW
+curryst01,10.63 ,2014,Golden State Warriors,GSW
+curryst01,11.37 ,2015,Golden State Warriors,GSW
+curryst01,12.11 ,2016,Golden State Warriors,GSW
+curryst01,34.68 ,2017,Golden State Warriors,GSW
+dalemsa01,12.03 ,2009,Philadelphia 76ers,PHI
+dalemsa01,13.43 ,2010,Sacramento Kings,SAC
+dalemsa01,7.00 ,2011,Houston Rockets,HOU
+dalemsa01,6.70 ,2012,Milwaukee Bucks,MIL
+dalemsa01,3.70 ,2013,Dallas Mavericks,DAL
+dalemsa01,3.87 ,2014,New York Knicks,NYK
+dalemsa01,1.50 ,2015,Dallas Mavericks,DAL
+dampier01,12.12 ,2009,Dallas Mavericks,DAL
+dampier01,1.13 ,2010,Miami Heat,MIA
+dampier01,0.85 ,2011,Atlanta Hawks,ATL
+daniean01,5.86 ,2009,Minnesota Timberwolves,MIN
+daniema01,1.99 ,2009,Boston Celtics,BOS
+daniema01,2.47 ,2010,Sacramento Kings,SAC
+daniema01,1.22 ,2011,Boston Celtics,BOS
+daniema01,1.23 ,2012,Milwaukee Bucks,MIL
+danietr01,0.82 ,2014,Charlotte Hornets,CHA
+danietr01,0.95 ,2015,Charlotte Hornets,CHA
+danietr01,3.33 ,2016,Memphis Grizzlies,MEM
+danietr01,3.41 ,2017,Phoenix Suns,PHX
+datomlu01,1.75 ,2014,Boston Celtics,BOS
+davisan02,5.14 ,2012,New Orleans Hornets,NOP
+davisan02,5.38 ,2013,New Orleans Pelicans,NOP
+davisan02,5.61 ,2014,New Orleans Pelicans,NOP
+davisan02,7.07 ,2015,New Orleans Pelicans,NOP
+davisan02,22.12 ,2016,New Orleans Pelicans,NOP
+davisan02,23.78 ,2017,New Orleans Pelicans,NOP
+davisba01,12.15 ,2009,Los Angeles Clippers,LAC
+davisba01,13.00 ,2010,Cleveland Cavaliers,CLE
+davisba01,13.90 ,2011,Cleveland Cavaliers,CLE
+davisba01,1.35 ,2011,New York Knicks,NYK
+davisba01,14.85 ,2012,Cleveland Cavaliers,CLE
+davisde01,1.37 ,2016,Memphis Grizzlies,MEM
+davisde01,1.31 ,2017,Memphis Grizzlies,MEM
+davised01,1.92 ,2010,Toronto Raptors,TOR
+davised01,2.06 ,2011,Toronto Raptors,TOR
+davised01,2.21 ,2012,Memphis Grizzlies,MEM
+davised01,3.15 ,2013,Memphis Grizzlies,MEM
+davised01,0.98 ,2014,Los Angeles Lakers,LAL
+davised01,7.00 ,2015,Portland Trail Blazers,POR
+davised01,6.67 ,2016,Portland Trail Blazers,POR
+davised01,6.35 ,2017,Portland Trail Blazers,POR
+davisgl01,3.00 ,2009,Boston Celtics,BOS
+davisgl01,3.30 ,2010,Boston Celtics,BOS
+davisgl01,6.30 ,2011,Orlando Magic,ORL
+davisgl01,6.40 ,2012,Orlando Magic,ORL
+davisgl01,6.40 ,2013,Orlando Magic,ORL
+davisgl01,6.60 ,2014,Orlando Magic,ORL
+davisgl01,1.23 ,2014,Los Angeles Clippers,LAC
+davisjo02,0.31 ,2011,Memphis Grizzlies,MEM
+davispa01,0.08 ,2009,Washington Wizards,WAS
+davisri01,2.48 ,2009,Los Angeles Clippers,LAC
+dawkian01,0.06 ,2014,Boston Celtics,BOS
+dawsobr01,0.53 ,2015,Los Angeles Clippers,LAC
+dawsoer01,0.04 ,2011,San Antonio Spurs,SAN
+dayeau01,1.68 ,2009,Detroit Pistons,DET
+dayeau01,1.80 ,2010,Detroit Pistons,DET
+dayeau01,1.93 ,2011,Detroit Pistons,DET
+dayeau01,2.96 ,2012,Memphis Grizzlies,MEM
+dayeau01,0.95 ,2013,Toronto Raptors,TOR
+dayeau01,1.06 ,2014,San Antonio Spurs,SAN
+dayeau01,0.13 ,2014,Atlanta Hawks,ATL
+decolna01,1.40 ,2012,San Antonio Spurs,SAN
+decolna01,1.46 ,2013,San Antonio Spurs,SAN
+dedmode01,0.82 ,2014,Orlando Magic,ORL
+dedmode01,0.95 ,2015,Orlando Magic,ORL
+dedmode01,2.90 ,2016,San Antonio Spurs,SAN
+dedmode01,6.00 ,2017,Atlanta Hawks,ATL
+dejeabr01,0.28 ,2015,New Orleans Pelicans,NOP
+dekkesa01,1.65 ,2015,Houston Rockets,HOU
+dekkesa01,1.72 ,2016,Houston Rockets,HOU
+dekkesa01,1.79 ,2017,Los Angeles Clippers,LAC
+delanma01,2.50 ,2016,Atlanta Hawks,ATL
+delanma01,2.50 ,2017,Atlanta Hawks,ATL
+delfica01,3.50 ,2009,Milwaukee Bucks,MIL
+delfica01,3.50 ,2010,Milwaukee Bucks,MIL
+delfica01,3.50 ,2011,Milwaukee Bucks,MIL
+delfica01,3.00 ,2012,Houston Rockets,HOU
+delfica01,3.25 ,2013,Milwaukee Bucks,MIL
+delfica01,0.65 ,2014,Los Angeles Clippers,LAC
+delfica01,0.65 ,2015,Los Angeles Clippers,LAC
+delfica01,0.65 ,2016,Los Angeles Clippers,LAC
+delfica01,0.65 ,2017,Los Angeles Clippers,LAC
+dellama01,0.82 ,2014,Cleveland Cavaliers,CLE
+dellama01,1.15 ,2015,Cleveland Cavaliers,CLE
+dellama01,9.61 ,2016,Milwaukee Bucks,MIL
+dellama01,9.61 ,2017,Milwaukee Bucks,MIL
+denglu01,10.37 ,2009,Chicago Bulls,CHI
+denglu01,11.35 ,2010,Chicago Bulls,CHI
+denglu01,12.33 ,2011,Chicago Bulls,CHI
+denglu01,13.31 ,2012,Chicago Bulls,CHI
+denglu01,14.28 ,2013,Chicago Bulls,CHI
+denglu01,9.71 ,2014,Miami Heat,MIA
+denglu01,10.15 ,2015,Miami Heat,MIA
+denglu01,18.00 ,2016,Los Angeles Lakers,LAL
+denglu01,17.19 ,2017,Los Angeles Lakers,LAL
+derozde01,2.28 ,2009,Toronto Raptors,TOR
+derozde01,2.45 ,2010,Toronto Raptors,TOR
+derozde01,2.63 ,2011,Toronto Raptors,TOR
+derozde01,3.34 ,2012,Toronto Raptors,TOR
+derozde01,9.50 ,2013,Toronto Raptors,TOR
+derozde01,9.50 ,2014,Toronto Raptors,TOR
+derozde01,9.50 ,2015,Toronto Raptors,TOR
+derozde01,26.54 ,2016,Toronto Raptors,TOR
+derozde01,27.74 ,2017,Toronto Raptors,TOR
+diallch01,0.54 ,2016,New Orleans Pelicans,NOP
+diallch01,1.31 ,2017,New Orleans Pelicans,NOP
+diawbo01,9.00 ,2009,Charlotte Hornets,CHA
+diawbo01,9.00 ,2010,Charlotte Hornets,CHA
+diawbo01,9.00 ,2011,Charlotte Hornets,CHA
+diawbo01,4.50 ,2012,San Antonio Spurs,SAN
+diawbo01,4.70 ,2013,San Antonio Spurs,SAN
+diawbo01,7.50 ,2014,San Antonio Spurs,SAN
+diawbo01,7.00 ,2015,San Antonio Spurs,SAN
+diawbo01,7.00 ,2016,Utah Jazz,UTA
+diawaya01,0.95 ,2009,Miami Heat,MIA
+dienetr01,1.74 ,2009,Indiana Pacers,IND
+dienggo01,1.35 ,2013,Minnesota Timberwolves,MIN
+dienggo01,1.41 ,2014,Minnesota Timberwolves,MIN
+dienggo01,1.47 ,2015,Minnesota Timberwolves,MIN
+dienggo01,2.35 ,2016,Minnesota Timberwolves,MIN
+dienggo01,14.11 ,2017,Minnesota Timberwolves,MIN
+dinwisp01,0.70 ,2014,Detroit Pistons,DET
+dinwisp01,0.85 ,2015,Detroit Pistons,DET
+dinwisp01,0.73 ,2016,Brooklyn Nets,BKN
+dinwisp01,1.52 ,2017,Brooklyn Nets,BKN
+dioguik01,0.88 ,2009,New Orleans Hornets,NOP
+dioguik01,0.61 ,2010,Los Angeles Clippers,LAC
+dioguik01,0.06 ,2011,San Antonio Spurs,SAN
+diopde01,6.03 ,2009,Charlotte Hornets,CHA
+diopde01,6.48 ,2010,Charlotte Hornets,CHA
+diopde01,6.93 ,2011,Charlotte Hornets,CHA
+diopde01,7.37 ,2012,Charlotte Hornets,CHA
+doolike01,3.56 ,2009,Brooklyn Nets,BKN
+doolike01,2.00 ,2010,Milwaukee Bucks,MIL
+doolike01,2.25 ,2011,Boston Celtics,BOS
+doolike01,1.35 ,2012,Boston Celtics,BOS
+dorsejo01,0.88 ,2009,Sacramento Kings,SAC
+dorsejo01,0.85 ,2010,Toronto Raptors,TOR
+dorsejo01,0.95 ,2014,Houston Rockets,HOU
+dorsejo01,1.02 ,2015,Denver Nuggets,DEN
+dorsety01,0.82 ,2017,Atlanta Hawks,ATL
+dotsoda01,1.10 ,2017,New York Knicks,NYK
+doubyqu01,0.09 ,2009,Toronto Raptors,TOR
+douglto01,1.00 ,2009,New York Knicks,NYK
+douglto01,1.07 ,2010,New York Knicks,NYK
+douglto01,1.15 ,2011,New York Knicks,NYK
+douglto01,2.07 ,2012,Sacramento Kings,SAC
+douglto01,1.60 ,2013,Golden State Warriors,GSW
+douglto01,0.27 ,2014,New Orleans Pelicans,NOP
+douglto01,1.16 ,2015,New Orleans Pelicans,NOP
+douglto01,0.60 ,2015,Indiana Pacers,IND
+douglto01,0.60 ,2016,Memphis Grizzlies,MEM
+douglch01,0.74 ,2009,Brooklyn Nets,BKN
+douglch01,0.85 ,2010,Milwaukee Bucks,MIL
+douglch01,0.07 ,2012,Dallas Mavericks,DAL
+douglch01,0.92 ,2014,Boston Celtics,BOS
+dowdeza01,0.24 ,2010,Phoenix Suns,PHX
+dragigo01,1.84 ,2009,Phoenix Suns,PHX
+dragigo01,1.97 ,2010,Houston Rockets,HOU
+dragigo01,2.11 ,2011,Houston Rockets,HOU
+dragigo01,7.50 ,2012,Phoenix Suns,PHX
+dragigo01,7.50 ,2013,Phoenix Suns,PHX
+dragigo01,7.50 ,2014,Miami Heat,MIA
+dragigo01,14.78 ,2015,Miami Heat,MIA
+dragigo01,15.89 ,2016,Miami Heat,MIA
+dragigo01,17.00 ,2017,Miami Heat,MIA
+dragizo01,1.96 ,2014,Miami Heat,MIA
+dragizo01,2.05 ,2015,Boston Celtics,BOS
+drewla02,0.06 ,2014,Philadelphia 76ers,PHI
+drewla02,0.15 ,2017,New Orleans Pelicans,NOP
+drewla02,0.07 ,2017,Philadelphia 76ers,PHI
+drumman01,2.36 ,2012,Detroit Pistons,DET
+drumman01,2.46 ,2013,Detroit Pistons,DET
+drumman01,2.57 ,2014,Detroit Pistons,DET
+drumman01,3.27 ,2015,Detroit Pistons,DET
+drumman01,22.12 ,2016,Detroit Pistons,DET
+drumman01,23.78 ,2017,Detroit Pistons,DET
+dudleja01,1.31 ,2009,Phoenix Suns,PHX
+dudleja01,2.15 ,2010,Phoenix Suns,PHX
+dudleja01,4.25 ,2011,Phoenix Suns,PHX
+dudleja01,4.25 ,2012,Phoenix Suns,PHX
+dudleja01,4.25 ,2013,Los Angeles Clippers,LAC
+dudleja01,4.25 ,2014,Milwaukee Bucks,MIL
+dudleja01,4.25 ,2015,Washington Wizards,WAS
+dudleja01,10.47 ,2016,Phoenix Suns,PHX
+dudleja01,10.00 ,2017,Phoenix Suns,PHX
+duhonch01,6.03 ,2009,New York Knicks,NYK
+duhonch01,3.50 ,2010,Orlando Magic,ORL
+duhonch01,3.50 ,2011,Orlando Magic,ORL
+duhonch01,3.50 ,2012,Los Angeles Lakers,LAL
+duhonch01,1.50 ,2013,Los Angeles Lakers,LAL
+dukandu01,0.53 ,2015,Sacramento Kings,SAC
+duncati01,22.18 ,2009,San Antonio Spurs,SAN
+duncati01,18.70 ,2010,San Antonio Spurs,SAN
+duncati01,21.16 ,2011,San Antonio Spurs,SAN
+duncati01,9.64 ,2012,San Antonio Spurs,SAN
+duncati01,10.36 ,2013,San Antonio Spurs,SAN
+duncati01,10.00 ,2014,San Antonio Spurs,SAN
+duncati01,5.00 ,2015,San Antonio Spurs,SAN
+duncati01,1.88 ,2016,San Antonio Spurs,SAN
+duncati01,1.88 ,2017,San Antonio Spurs,SAN
+dunlemi02,9.78 ,2009,Indiana Pacers,IND
+dunlemi02,10.56 ,2010,Indiana Pacers,IND
+dunlemi02,3.75 ,2011,Milwaukee Bucks,MIL
+dunlemi02,3.75 ,2012,Milwaukee Bucks,MIL
+dunlemi02,3.18 ,2013,Chicago Bulls,CHI
+dunlemi02,3.33 ,2014,Chicago Bulls,CHI
+dunlemi02,4.50 ,2015,Chicago Bulls,CHI
+dunlemi02,4.84 ,2016,Atlanta Hawks,ATL
+dunlemi02,1.66 ,2017,Atlanta Hawks,ATL
+dunnkr01,3.87 ,2016,Minnesota Timberwolves,MIN
+dunnkr01,4.05 ,2017,Chicago Bulls,CHI
+duprero01,0.06 ,2010,Toronto Raptors,TOR
+duranke01,4.80 ,2009,Oklahoma City Thunder,OKC
+duranke01,6.05 ,2010,Oklahoma City Thunder,OKC
+duranke01,15.51 ,2011,Oklahoma City Thunder,OKC
+duranke01,16.67 ,2012,Oklahoma City Thunder,OKC
+duranke01,17.83 ,2013,Oklahoma City Thunder,OKC
+duranke01,19.00 ,2014,Oklahoma City Thunder,OKC
+duranke01,20.16 ,2015,Oklahoma City Thunder,OKC
+duranke01,26.54 ,2016,Golden State Warriors,GSW
+duranke01,25.00 ,2017,Golden State Warriors,GSW
+earlycl01,0.51 ,2014,New York Knicks,NYK
+earlycl01,0.85 ,2015,New York Knicks,NYK
+ebankde01,0.47 ,2010,Los Angeles Lakers,LAL
+ebankde01,0.76 ,2011,Los Angeles Lakers,LAL
+ebankde01,1.05 ,2012,Los Angeles Lakers,LAL
+eddieja01,0.03 ,2014,Atlanta Hawks,ATL
+eddieja01,0.56 ,2015,Washington Wizards,WAS
+eddieja01,0.18 ,2016,Washington Wizards,WAS
+eddieja01,0.10 ,2016,Phoenix Suns,PHX
+eddieja01,0.10 ,2017,Chicago Bulls,CHI
+eddieja01,0.08 ,2017,Boston Celtics,BOS
+ellenhe01,1.70 ,2016,Detroit Pistons,DET
+ellenhe01,1.78 ,2017,Detroit Pistons,DET
+ellinwa01,1.00 ,2009,Minnesota Timberwolves,MIN
+ellinwa01,1.08 ,2010,Minnesota Timberwolves,MIN
+ellinwa01,1.15 ,2011,Minnesota Timberwolves,MIN
+ellinwa01,2.08 ,2012,Cleveland Cavaliers,CLE
+ellinwa01,2.65 ,2013,Dallas Mavericks,DAL
+ellinwa01,1.06 ,2014,Los Angeles Lakers,LAL
+ellinwa01,0.92 ,2014,Sacramento Kings,SAC
+ellinwa01,1.50 ,2015,Brooklyn Nets,BKN
+ellinwa01,0.92 ,2015,Sacramento Kings,SAC
+ellinwa01,6.00 ,2016,Miami Heat,MIA
+ellinwa01,0.92 ,2016,Sacramento Kings,SAC
+ellinwa01,6.27 ,2017,Miami Heat,MIA
+ellismo01,11.00 ,2009,Golden State Warriors,GSW
+ellismo01,11.00 ,2010,Golden State Warriors,GSW
+ellismo01,11.00 ,2011,Golden State Warriors,GSW
+ellismo01,11.00 ,2012,Milwaukee Bucks,MIL
+ellismo01,8.00 ,2013,Dallas Mavericks,DAL
+ellismo01,8.36 ,2014,Dallas Mavericks,DAL
+ellismo01,10.30 ,2015,Indiana Pacers,IND
+ellismo01,10.77 ,2016,Indiana Pacers,IND
+ellismo01,2.25 ,2017,Indiana Pacers,IND
+elsonfr01,1.70 ,2009,Philadelphia 76ers,PHI
+elsonfr01,1.15 ,2010,Utah Jazz,UTA
+elsonfr01,0.31 ,2011,Philadelphia 76ers,PHI
+elyme01,1.22 ,2010,Denver Nuggets,DEN
+embiijo01,4.43 ,2014,Philadelphia 76ers,PHI
+embiijo01,4.63 ,2015,Philadelphia 76ers,PHI
+embiijo01,4.83 ,2016,Philadelphia 76ers,PHI
+embiijo01,6.10 ,2017,Philadelphia 76ers,PHI
+emmetan01,0.06 ,2011,Brooklyn Nets,BKN
+engliki01,0.47 ,2012,Detroit Pistons,DET
+ennisja01,0.51 ,2014,Miami Heat,MIA
+ennisja01,0.85 ,2015,Memphis Grizzlies,MEM
+ennisja01,0.07 ,2015,New Orleans Pelicans,NOP
+ennisja01,2.90 ,2016,Memphis Grizzlies,MEM
+ennisja01,3.03 ,2017,Detroit Pistons,DET
+ennisty01,1.59 ,2014,Milwaukee Bucks,MIL
+ennisty01,1.66 ,2015,Milwaukee Bucks,MIL
+ennisty01,1.73 ,2016,Los Angeles Lakers,LAL
+ennisty01,1.52 ,2017,Los Angeles Lakers,LAL
+erdense01,0.47 ,2010,Cleveland Cavaliers,CLE
+erdense01,0.76 ,2011,Cleveland Cavaliers,CLE
+evansja01,0.82 ,2017,Los Angeles Clippers,LAC
+evansje01,0.47 ,2010,Utah Jazz,UTA
+evansje01,0.76 ,2011,Utah Jazz,UTA
+evansje01,1.79 ,2012,Utah Jazz,UTA
+evansje01,1.66 ,2013,Utah Jazz,UTA
+evansje01,1.79 ,2014,Utah Jazz,UTA
+evansje01,1.10 ,2015,Dallas Mavericks,DAL
+evansje01,1.23 ,2016,Indiana Pacers,IND
+evansje01,0.13 ,2017,Atlanta Hawks,ATL
+evansma01,2.50 ,2009,Atlanta Hawks,ATL
+evansma01,2.50 ,2010,Washington Wizards,WAS
+evansma01,1.22 ,2011,Washington Wizards,WAS
+evansre01,4.96 ,2009,Toronto Raptors,TOR
+evansre01,5.08 ,2010,Toronto Raptors,TOR
+evansre01,1.23 ,2011,Los Angeles Clippers,LAC
+evansre01,1.62 ,2012,Brooklyn Nets,BKN
+evansre01,1.70 ,2013,Brooklyn Nets,BKN
+evansre01,1.77 ,2014,Sacramento Kings,SAC
+evansty01,3.61 ,2009,Sacramento Kings,SAC
+evansty01,3.88 ,2010,Sacramento Kings,SAC
+evansty01,4.15 ,2011,Sacramento Kings,SAC
+evansty01,5.25 ,2012,Sacramento Kings,SAC
+evansty01,10.30 ,2013,New Orleans Pelicans,NOP
+evansty01,10.76 ,2014,New Orleans Pelicans,NOP
+evansty01,11.23 ,2015,New Orleans Pelicans,NOP
+evansty01,10.66 ,2016,Sacramento Kings,SAC
+evansty01,3.29 ,2017,Memphis Grizzlies,MEM
+exumda01,3.62 ,2014,Utah Jazz,UTA
+exumda01,3.78 ,2015,Utah Jazz,UTA
+exumda01,3.94 ,2016,Utah Jazz,UTA
+exumda01,4.99 ,2017,Utah Jazz,UTA
+eyengch01,1.02 ,2010,Cleveland Cavaliers,CLE
+eyengch01,1.10 ,2011,Cleveland Cavaliers,CLE
+eyengch01,1.17 ,2012,Orlando Magic,ORL
+ezelife01,1.02 ,2012,Golden State Warriors,GSW
+ezelife01,1.07 ,2013,Golden State Warriors,GSW
+ezelife01,1.11 ,2014,Golden State Warriors,GSW
+ezelife01,2.01 ,2015,Golden State Warriors,GSW
+ezelife01,7.40 ,2016,Portland Trail Blazers,POR
+ezelife01,0.33 ,2017,Portland Trail Blazers,POR
+farieke01,1.25 ,2011,Denver Nuggets,DEN
+farieke01,1.35 ,2012,Denver Nuggets,DEN
+farieke01,1.37 ,2013,Denver Nuggets,DEN
+farieke01,2.25 ,2014,Denver Nuggets,DEN
+farieke01,11.24 ,2015,Denver Nuggets,DEN
+farieke01,12.08 ,2016,Denver Nuggets,DEN
+farieke01,12.92 ,2017,Denver Nuggets,DEN
+farmajo01,1.95 ,2009,Los Angeles Lakers,LAL
+farmajo01,3.75 ,2010,Brooklyn Nets,BKN
+farmajo01,4.00 ,2011,Brooklyn Nets,BKN
+farmajo01,1.50 ,2012,Atlanta Hawks,ATL
+farmajo01,1.11 ,2013,Los Angeles Lakers,LAL
+farmajo01,2.08 ,2014,Los Angeles Clippers,LAC
+farmajo01,0.19 ,2015,Memphis Grizzlies,MEM
+farmajo01,0.51 ,2016,Los Angeles Clippers,LAC
+farmajo01,0.08 ,2016,Sacramento Kings,SAC
+farmajo01,0.51 ,2017,Los Angeles Clippers,LAC
+favervi01,2.09 ,2014,Boston Celtics,BOS
+favorde01,4.13 ,2010,Utah Jazz,UTA
+favorde01,4.44 ,2011,Utah Jazz,UTA
+favorde01,4.75 ,2012,Utah Jazz,UTA
+favorde01,6.01 ,2013,Utah Jazz,UTA
+favorde01,12.83 ,2014,Utah Jazz,UTA
+favorde01,11.93 ,2015,Utah Jazz,UTA
+favorde01,11.05 ,2016,Utah Jazz,UTA
+favorde01,12.00 ,2017,Utah Jazz,UTA
+feliccr01,0.53 ,2015,Chicago Bulls,CHI
+feliccr01,0.87 ,2016,Chicago Bulls,CHI
+feliccr01,7.84 ,2017,Chicago Bulls,CHI
+felixca01,0.82 ,2014,Utah Jazz,UTA
+felixca01,0.14 ,2017,Washington Wizards,WAS
+feltora01,5.50 ,2009,Charlotte Hornets,CHA
+feltora01,7.50 ,2010,Denver Nuggets,DEN
+feltora01,7.56 ,2011,Portland Trail Blazers,POR
+feltora01,3.48 ,2012,New York Knicks,NYK
+feltora01,3.64 ,2013,New York Knicks,NYK
+feltora01,3.79 ,2014,Dallas Mavericks,DAL
+feltora01,3.95 ,2015,Dallas Mavericks,DAL
+feltora01,1.55 ,2016,Los Angeles Clippers,LAC
+feltora01,1.47 ,2017,Oklahoma City Thunder,OKC
+fergute01,1.79 ,2017,Oklahoma City Thunder,OKC
+fernaru01,1.17 ,2009,Portland Trail Blazers,POR
+fernaru01,1.25 ,2010,Portland Trail Blazers,POR
+fernaru01,2.18 ,2011,Denver Nuggets,DEN
+ferreyo01,0.24 ,2016,Dallas Mavericks,DAL
+ferreyo01,0.20 ,2016,Brooklyn Nets,BKN
+ferreyo01,1.31 ,2017,Dallas Mavericks,DAL
+fesenky01,0.87 ,2009,Utah Jazz,UTA
+fesenky01,1.09 ,2010,Utah Jazz,UTA
+fieldla01,0.47 ,2010,New York Knicks,NYK
+fieldla01,0.76 ,2011,New York Knicks,NYK
+fieldla01,6.25 ,2012,Toronto Raptors,TOR
+fieldla01,6.25 ,2013,Toronto Raptors,TOR
+fieldla01,6.25 ,2014,Toronto Raptors,TOR
+finlemi01,2.50 ,2009,San Antonio Spurs,SAN
+finnedo01,0.54 ,2016,Dallas Mavericks,DAL
+finnedo01,1.31 ,2017,Dallas Mavericks,DAL
+fishede01,5.05 ,2009,Los Angeles Lakers,LAL
+fishede01,3.70 ,2010,Los Angeles Lakers,LAL
+fishede01,3.40 ,2011,Los Angeles Lakers,LAL
+fishede01,0.41 ,2012,Oklahoma City Thunder,OKC
+fishede01,0.18 ,2012,Dallas Mavericks,DAL
+fishede01,1.40 ,2013,Oklahoma City Thunder,OKC
+flynnjo01,2.97 ,2009,Minnesota Timberwolves,MIN
+flynnjo01,3.19 ,2010,Minnesota Timberwolves,MIN
+flynnjo01,3.41 ,2011,Houston Rockets,HOU
+footeje01,0.23 ,2011,New Orleans Hornets,NOP
+forbebr01,0.54 ,2016,San Antonio Spurs,SAN
+forbebr01,1.31 ,2017,San Antonio Spurs,SAN
+forbega01,0.47 ,2010,Denver Nuggets,DEN
+forbega01,1.50 ,2011,Toronto Raptors,TOR
+forbega01,1.50 ,2012,Houston Rockets,HOU
+fordtj01,8.50 ,2009,Indiana Pacers,IND
+fordtj01,8.50 ,2010,Indiana Pacers,IND
+fordtj01,1.15 ,2011,San Antonio Spurs,SAN
+fortsco01,0.04 ,2011,Los Angeles Clippers,LAC
+fosteje01,6.08 ,2009,Indiana Pacers,IND
+fosteje01,6.66 ,2010,Indiana Pacers,IND
+fosteje01,3.00 ,2011,Indiana Pacers,IND
+fournev01,1.36 ,2012,Denver Nuggets,DEN
+fournev01,1.42 ,2013,Denver Nuggets,DEN
+fournev01,1.48 ,2014,Orlando Magic,ORL
+fournev01,2.29 ,2015,Orlando Magic,ORL
+fournev01,17.00 ,2016,Orlando Magic,ORL
+fournev01,17.00 ,2017,Orlando Magic,ORL
+foxde01,4.61 ,2017,Sacramento Kings,SAC
+foyera01,3.58 ,2009,Washington Wizards,WAS
+foyera01,4.25 ,2010,Los Angeles Clippers,LAC
+foyera01,4.25 ,2011,Los Angeles Clippers,LAC
+foyera01,2.50 ,2012,Utah Jazz,UTA
+foyera01,3.00 ,2013,Denver Nuggets,DEN
+foyera01,3.14 ,2014,Denver Nuggets,DEN
+foyera01,3.27 ,2015,Oklahoma City Thunder,OKC
+foyera01,2.50 ,2016,Brooklyn Nets,BKN
+foylead01,1.31 ,2009,Orlando Magic,ORL
+frankja01,0.16 ,2014,Memphis Grizzlies,MEM
+frankja01,0.02 ,2014,Denver Nuggets,DEN
+frankja01,0.16 ,2015,Memphis Grizzlies,MEM
+frankja01,0.16 ,2016,Memphis Grizzlies,MEM
+frankja01,0.16 ,2017,Memphis Grizzlies,MEM
+fraziti01,0.06 ,2014,Philadelphia 76ers,PHI
+fraziti01,0.05 ,2014,Portland Trail Blazers,POR
+fraziti01,0.85 ,2015,Portland Trail Blazers,POR
+fraziti01,0.14 ,2015,New Orleans Pelicans,NOP
+fraziti01,2.09 ,2016,New Orleans Pelicans,NOP
+fraziti01,2.00 ,2017,Washington Wizards,WAS
+fredeji01,2.24 ,2011,Sacramento Kings,SAC
+fredeji01,2.41 ,2012,Sacramento Kings,SAC
+fredeji01,2.44 ,2013,Sacramento Kings,SAC
+fredeji01,0.95 ,2014,New Orleans Pelicans,NOP
+fredeji01,0.51 ,2015,San Antonio Spurs,SAN
+fredeji01,0.06 ,2015,New York Knicks,NYK
+fredeji01,0.05 ,2015,New Orleans Pelicans,NOP
+freeljo01,3.01 ,2012,Portland Trail Blazers,POR
+freeljo01,2.90 ,2013,Portland Trail Blazers,POR
+freeljo01,3.01 ,2014,Portland Trail Blazers,POR
+fryech01,2.00 ,2009,Phoenix Suns,PHX
+fryech01,5.20 ,2010,Phoenix Suns,PHX
+fryech01,5.60 ,2011,Phoenix Suns,PHX
+fryech01,6.00 ,2012,Phoenix Suns,PHX
+fryech01,6.40 ,2013,Phoenix Suns,PHX
+fryech01,8.18 ,2014,Orlando Magic,ORL
+fryech01,7.81 ,2015,Cleveland Cavaliers,CLE
+fryech01,7.81 ,2016,Cleveland Cavaliers,CLE
+fryech01,7.42 ,2017,Los Angeles Lakers,LAL
+fultzma01,7.03 ,2017,Philadelphia 76ers,PHI
+gadzuda01,6.75 ,2009,Milwaukee Bucks,MIL
+gadzuda01,7.25 ,2010,Brooklyn Nets,BKN
+gainesu01,0.27 ,2009,Utah Jazz,UTA
+gainesu01,0.24 ,2010,Minnesota Timberwolves,MIN
+gainesu01,0.09 ,2010,Toronto Raptors,TOR
+gainesu01,0.85 ,2011,Brooklyn Nets,BKN
+gallida01,3.09 ,2009,New York Knicks,NYK
+gallida01,3.30 ,2010,Denver Nuggets,DEN
+gallida01,4.19 ,2011,Denver Nuggets,DEN
+gallida01,9.44 ,2012,Denver Nuggets,DEN
+gallida01,10.15 ,2013,Denver Nuggets,DEN
+gallida01,10.85 ,2014,Denver Nuggets,DEN
+gallida01,14.00 ,2015,Denver Nuggets,DEN
+gallida01,15.05 ,2016,Denver Nuggets,DEN
+gallida01,20.56 ,2017,Los Angeles Clippers,LAC
+gallola01,0.24 ,2014,New York Knicks,NYK
+gallola01,0.85 ,2015,New York Knicks,NYK
+gallola01,5.20 ,2016,Sacramento Kings,SAC
+gallola01,6.67 ,2017,Detroit Pistons,DET
+garcifr01,5.80 ,2009,Sacramento Kings,SAC
+garcifr01,5.50 ,2010,Sacramento Kings,SAC
+garcifr01,5.80 ,2011,Sacramento Kings,SAC
+garcifr01,6.10 ,2012,Houston Rockets,HOU
+garcifr01,1.27 ,2013,Houston Rockets,HOU
+garcifr01,1.32 ,2014,Houston Rockets,HOU
+garinpa01,0.10 ,2016,San Antonio Spurs,SAN
+garinpa01,0.03 ,2016,Orlando Magic,ORL
+garneke01,16.40 ,2009,Boston Celtics,BOS
+garneke01,18.80 ,2010,Boston Celtics,BOS
+garneke01,21.25 ,2011,Boston Celtics,BOS
+garneke01,11.57 ,2012,Boston Celtics,BOS
+garneke01,12.44 ,2013,Brooklyn Nets,BKN
+garneke01,12.00 ,2014,Minnesota Timberwolves,MIN
+garneke01,8.50 ,2015,Minnesota Timberwolves,MIN
+garneke01,8.00 ,2016,Minnesota Timberwolves,MIN
+garredi02,0.47 ,2012,Phoenix Suns,PHX
+garredi02,0.92 ,2014,Portland Trail Blazers,POR
+gasolma01,3.24 ,2009,Memphis Grizzlies,MEM
+gasolma01,3.48 ,2010,Memphis Grizzlies,MEM
+gasolma01,12.92 ,2011,Memphis Grizzlies,MEM
+gasolma01,13.89 ,2012,Memphis Grizzlies,MEM
+gasolma01,14.86 ,2013,Memphis Grizzlies,MEM
+gasolma01,15.83 ,2014,Memphis Grizzlies,MEM
+gasolma01,19.70 ,2015,Memphis Grizzlies,MEM
+gasolma01,21.17 ,2016,Memphis Grizzlies,MEM
+gasolma01,22.64 ,2017,Memphis Grizzlies,MEM
+gasolpa01,16.45 ,2009,Los Angeles Lakers,LAL
+gasolpa01,17.82 ,2010,Los Angeles Lakers,LAL
+gasolpa01,18.71 ,2011,Los Angeles Lakers,LAL
+gasolpa01,19.00 ,2012,Los Angeles Lakers,LAL
+gasolpa01,19.29 ,2013,Los Angeles Lakers,LAL
+gasolpa01,7.13 ,2014,Chicago Bulls,CHI
+gasolpa01,7.45 ,2015,Chicago Bulls,CHI
+gasolpa01,15.50 ,2016,San Antonio Spurs,SAN
+gasolpa01,16.00 ,2017,San Antonio Spurs,SAN
+gayru01,3.28 ,2009,Memphis Grizzlies,MEM
+gayru01,13.60 ,2010,Memphis Grizzlies,MEM
+gayru01,15.03 ,2011,Memphis Grizzlies,MEM
+gayru01,16.46 ,2012,Toronto Raptors,TOR
+gayru01,17.89 ,2013,Sacramento Kings,SAC
+gayru01,19.32 ,2014,Sacramento Kings,SAC
+gayru01,12.40 ,2015,Sacramento Kings,SAC
+gayru01,13.33 ,2016,Sacramento Kings,SAC
+gayru01,8.41 ,2017,San Antonio Spurs,SAN
+gbinimi01,0.65 ,2016,Detroit Pistons,DET
+gbinimi01,0.50 ,2017,Detroit Pistons,DET
+geeal01,0.48 ,2010,Cleveland Cavaliers,CLE
+geeal01,0.13 ,2010,Washington Wizards,WAS
+geeal01,0.08 ,2010,San Antonio Spurs,SAN
+geeal01,0.85 ,2011,Cleveland Cavaliers,CLE
+geeal01,3.50 ,2012,Cleveland Cavaliers,CLE
+geeal01,3.25 ,2013,Cleveland Cavaliers,CLE
+geeal01,1.06 ,2014,Portland Trail Blazers,POR
+geeal01,1.38 ,2015,New Orleans Pelicans,NOP
+geeal01,1.40 ,2016,New Orleans Pelicans,NOP
+geeal01,0.50 ,2016,Denver Nuggets,DEN
+gelabmi01,0.45 ,2012,Minnesota Timberwolves,MIN
+georgde01,1.60 ,2009,Golden State Warriors,GSW
+georgpa01,2.24 ,2010,Indiana Pacers,IND
+georgpa01,2.41 ,2011,Indiana Pacers,IND
+georgpa01,2.57 ,2012,Indiana Pacers,IND
+georgpa01,3.28 ,2013,Indiana Pacers,IND
+georgpa01,15.93 ,2014,Indiana Pacers,IND
+georgpa01,17.12 ,2015,Indiana Pacers,IND
+georgpa01,18.31 ,2016,Indiana Pacers,IND
+georgpa01,19.51 ,2017,Oklahoma City Thunder,OKC
+georgma01,0.03 ,2016,Miami Heat,MIA
+georgma01,0.03 ,2016,Orlando Magic,ORL
+georgma01,0.03 ,2016,Boston Celtics,BOS
+georgma01,1.31 ,2017,Minnesota Timberwolves,MIN
+gibsoda01,4.09 ,2009,Cleveland Cavaliers,CLE
+gibsoda01,4.02 ,2010,Cleveland Cavaliers,CLE
+gibsoda01,4.40 ,2011,Cleveland Cavaliers,CLE
+gibsoda01,4.79 ,2012,Cleveland Cavaliers,CLE
+gibsojo01,0.68 ,2016,Dallas Mavericks,DAL
+gibsojo01,0.04 ,2017,Boston Celtics,BOS
+gibsota01,1.04 ,2009,Chicago Bulls,CHI
+gibsota01,1.12 ,2010,Chicago Bulls,CHI
+gibsota01,1.20 ,2011,Chicago Bulls,CHI
+gibsota01,2.16 ,2012,Chicago Bulls,CHI
+gibsota01,7.55 ,2013,Chicago Bulls,CHI
+gibsota01,8.00 ,2014,Chicago Bulls,CHI
+gibsota01,8.50 ,2015,Chicago Bulls,CHI
+gibsota01,8.95 ,2016,Oklahoma City Thunder,OKC
+gibsota01,14.00 ,2017,Minnesota Timberwolves,MIN
+giddejr01,1.03 ,2009,New York Knicks,NYK
+gildetr01,0.03 ,2009,Memphis Grizzlies,MEM
+gilesha01,1.86 ,2017,Sacramento Kings,SAC
+ginobma01,10.73 ,2009,San Antonio Spurs,SAN
+ginobma01,11.85 ,2010,San Antonio Spurs,SAN
+ginobma01,12.98 ,2011,San Antonio Spurs,SAN
+ginobma01,14.11 ,2012,San Antonio Spurs,SAN
+ginobma01,7.50 ,2013,San Antonio Spurs,SAN
+ginobma01,7.00 ,2014,San Antonio Spurs,SAN
+ginobma01,2.81 ,2015,San Antonio Spurs,SAN
+ginobma01,14.00 ,2016,San Antonio Spurs,SAN
+ginobma01,2.50 ,2017,San Antonio Spurs,SAN
+gladnmi01,0.25 ,2011,Miami Heat,MIA
+goberru01,1.08 ,2013,Utah Jazz,UTA
+goberru01,1.13 ,2014,Utah Jazz,UTA
+goberru01,1.18 ,2015,Utah Jazz,UTA
+goberru01,2.12 ,2016,Utah Jazz,UTA
+goberru01,21.97 ,2017,Utah Jazz,UTA
+gomesry01,3.87 ,2009,Minnesota Timberwolves,MIN
+gomesry01,4.00 ,2010,Los Angeles Clippers,LAC
+gomesry01,4.00 ,2011,Los Angeles Clippers,LAC
+gomesry01,4.00 ,2012,Los Angeles Clippers,LAC
+gomesry01,1.19 ,2013,Oklahoma City Thunder,OKC
+goodedr01,4.50 ,2009,Los Angeles Clippers,LAC
+goodedr01,5.76 ,2010,Milwaukee Bucks,MIL
+goodedr01,6.23 ,2011,Milwaukee Bucks,MIL
+goodedr01,6.69 ,2012,Milwaukee Bucks,MIL
+goodedr01,6.68 ,2014,Milwaukee Bucks,MIL
+goodedr01,1.45 ,2014,Washington Wizards,WAS
+goodedr01,3.30 ,2015,Washington Wizards,WAS
+goodwar01,1.06 ,2013,Phoenix Suns,PHX
+goodwar01,1.11 ,2014,Phoenix Suns,PHX
+goodwar01,1.16 ,2015,Phoenix Suns,PHX
+goodwar01,2.09 ,2016,Phoenix Suns,PHX
+goodwar01,0.19 ,2016,Brooklyn Nets,BKN
+goodwar01,0.10 ,2016,New Orleans Pelicans,NOP
+gordoaa01,3.99 ,2014,Orlando Magic,ORL
+gordoaa01,4.17 ,2015,Orlando Magic,ORL
+gordoaa01,4.35 ,2016,Orlando Magic,ORL
+gordoaa01,5.50 ,2017,Orlando Magic,ORL
+gordobe01,10.00 ,2009,Detroit Pistons,DET
+gordobe01,10.80 ,2010,Detroit Pistons,DET
+gordobe01,11.60 ,2011,Detroit Pistons,DET
+gordobe01,12.40 ,2012,Charlotte Hornets,CHA
+gordobe01,13.20 ,2013,Charlotte Hornets,CHA
+gordobe01,4.50 ,2014,Orlando Magic,ORL
+gordodr01,0.04 ,2014,Philadelphia 76ers,PHI
+gordoer01,2.82 ,2009,Los Angeles Clippers,LAC
+gordoer01,3.02 ,2010,Los Angeles Clippers,LAC
+gordoer01,3.83 ,2011,New Orleans Hornets,NOP
+gordoer01,13.67 ,2012,New Orleans Hornets,NOP
+gordoer01,14.28 ,2013,New Orleans Pelicans,NOP
+gordoer01,14.90 ,2014,New Orleans Pelicans,NOP
+gordoer01,15.51 ,2015,New Orleans Pelicans,NOP
+gordoer01,12.39 ,2016,Houston Rockets,HOU
+gordoer01,12.94 ,2017,Houston Rockets,HOU
+gortama01,5.85 ,2009,Orlando Magic,ORL
+gortama01,6.32 ,2010,Phoenix Suns,PHX
+gortama01,6.79 ,2011,Phoenix Suns,PHX
+gortama01,7.26 ,2012,Phoenix Suns,PHX
+gortama01,7.73 ,2013,Washington Wizards,WAS
+gortama01,10.43 ,2014,Washington Wizards,WAS
+gortama01,11.22 ,2015,Washington Wizards,WAS
+gortama01,12.00 ,2016,Washington Wizards,WAS
+gortama01,12.78 ,2017,Washington Wizards,WAS
+goudean01,0.47 ,2011,Los Angeles Lakers,LAL
+goudean01,0.20 ,2015,Houston Rockets,HOU
+grahajo01,0.88 ,2009,Denver Nuggets,DEN
+grahajo01,0.99 ,2010,Cleveland Cavaliers,CLE
+grahast01,0.88 ,2009,Charlotte Hornets,CHA
+grahast01,0.99 ,2010,Brooklyn Nets,BKN
+grahatr01,0.08 ,2015,Utah Jazz,UTA
+grahatr01,0.54 ,2016,Charlotte Hornets,CHA
+grahatr01,1.31 ,2017,Charlotte Hornets,CHA
+grangda01,9.93 ,2009,Indiana Pacers,IND
+grangda01,10.97 ,2010,Indiana Pacers,IND
+grangda01,12.02 ,2011,Indiana Pacers,IND
+grangda01,13.06 ,2012,Indiana Pacers,IND
+grangda01,14.02 ,2013,Philadelphia 76ers,PHI
+grangda01,2.08 ,2014,Phoenix Suns,PHX
+grangda01,2.17 ,2015,Detroit Pistons,DET
+grantje01,0.88 ,2014,Philadelphia 76ers,PHI
+grantje01,0.85 ,2015,Philadelphia 76ers,PHI
+grantje01,0.98 ,2016,Oklahoma City Thunder,OKC
+grantje01,1.52 ,2017,Oklahoma City Thunder,OKC
+grantje02,1.57 ,2015,New York Knicks,NYK
+grantje02,1.64 ,2016,Chicago Bulls,CHI
+grantje02,1.71 ,2017,Chicago Bulls,CHI
+grayaa01,1.00 ,2009,New Orleans Hornets,NOP
+grayaa01,1.03 ,2010,New Orleans Hornets,NOP
+grayaa01,2.50 ,2011,Toronto Raptors,TOR
+grayaa01,2.58 ,2012,Toronto Raptors,TOR
+grayaa01,2.69 ,2013,Toronto Raptors,TOR
+grayaa01,1.23 ,2014,Detroit Pistons,DET
+grayaa01,0.45 ,2015,Detroit Pistons,DET
+grayaa01,0.45 ,2016,Detroit Pistons,DET
+grayjo01,0.10 ,2017,Phoenix Suns,PHX
+greenda02,0.46 ,2009,Cleveland Cavaliers,CLE
+greenda02,0.09 ,2010,San Antonio Spurs,SAN
+greenda02,0.85 ,2011,San Antonio Spurs,SAN
+greenda02,3.50 ,2012,San Antonio Spurs,SAN
+greenda02,3.76 ,2013,San Antonio Spurs,SAN
+greenda02,4.03 ,2014,San Antonio Spurs,SAN
+greenda02,10.00 ,2015,San Antonio Spurs,SAN
+greenda02,10.00 ,2016,San Antonio Spurs,SAN
+greenda02,10.00 ,2017,San Antonio Spurs,SAN
+greendr01,0.85 ,2012,Golden State Warriors,GSW
+greendr01,0.88 ,2013,Golden State Warriors,GSW
+greendr01,0.92 ,2014,Golden State Warriors,GSW
+greendr01,14.30 ,2015,Golden State Warriors,GSW
+greendr01,15.33 ,2016,Golden State Warriors,GSW
+greendr01,16.40 ,2017,Golden State Warriors,GSW
+greener01,0.51 ,2014,Denver Nuggets,DEN
+greener01,0.10 ,2015,Denver Nuggets,DEN
+greener01,0.10 ,2015,Utah Jazz,UTA
+greenge01,0.44 ,2011,Brooklyn Nets,BKN
+greenge01,0.07 ,2011,Los Angeles Lakers,LAL
+greenge01,3.50 ,2012,Indiana Pacers,IND
+greenge01,3.50 ,2013,Phoenix Suns,PHX
+greenge01,3.50 ,2014,Phoenix Suns,PHX
+greenge01,1.36 ,2015,Miami Heat,MIA
+greenge01,1.41 ,2016,Boston Celtics,BOS
+greenge01,0.87 ,2017,Houston Rockets,HOU
+greenja01,0.06 ,2014,Memphis Grizzlies,MEM
+greenja01,0.85 ,2015,Memphis Grizzlies,MEM
+greenja01,0.98 ,2016,Memphis Grizzlies,MEM
+greenja01,8.53 ,2017,Memphis Grizzlies,MEM
+greenje02,3.52 ,2009,Oklahoma City Thunder,OKC
+greenje02,4.46 ,2010,Boston Celtics,BOS
+greenje02,8.39 ,2012,Boston Celtics,BOS
+greenje02,8.97 ,2013,Boston Celtics,BOS
+greenje02,9.45 ,2014,Memphis Grizzlies,MEM
+greenje02,9.20 ,2015,Los Angeles Clippers,LAC
+greenje02,15.00 ,2016,Orlando Magic,ORL
+greenje02,2.12 ,2017,Cleveland Cavaliers,CLE
+greenwi01,3.68 ,2009,Philadelphia 76ers,PHI
+greenwi01,3.98 ,2010,New Orleans Hornets,NOP
+greenwi01,1.22 ,2011,Atlanta Hawks,ATL
+greenwi01,1.48 ,2012,Los Angeles Clippers,LAC
+greenwi01,1.40 ,2013,Los Angeles Clippers,LAC
+greenwi01,1.45 ,2014,Orlando Magic,ORL
+greendo01,1.04 ,2009,Sacramento Kings,SAC
+greendo01,1.12 ,2010,Sacramento Kings,SAC
+greendo01,2.02 ,2011,Sacramento Kings,SAC
+greenor01,0.05 ,2010,Brooklyn Nets,BKN
+griffbl01,4.98 ,2009,Los Angeles Clippers,LAC
+griffbl01,5.36 ,2010,Los Angeles Clippers,LAC
+griffbl01,5.73 ,2011,Los Angeles Clippers,LAC
+griffbl01,7.23 ,2012,Los Angeles Clippers,LAC
+griffbl01,16.44 ,2013,Los Angeles Clippers,LAC
+griffbl01,17.67 ,2014,Los Angeles Clippers,LAC
+griffbl01,18.91 ,2015,Los Angeles Clippers,LAC
+griffbl01,20.14 ,2016,Los Angeles Clippers,LAC
+griffbl01,29.73 ,2017,Detroit Pistons,DET
+griffta01,0.46 ,2009,Phoenix Suns,PHX
+gutiejo01,0.06 ,2014,Milwaukee Bucks,MIL
+gutiejo01,0.30 ,2015,Charlotte Hornets,CHA
+haddaha01,1.63 ,2009,Memphis Grizzlies,MEM
+haddaha01,1.60 ,2010,Memphis Grizzlies,MEM
+haddaha01,1.30 ,2011,Memphis Grizzlies,MEM
+haddaha01,1.30 ,2012,Phoenix Suns,PHX
+haddaha01,0.20 ,2013,Phoenix Suns,PHX
+hairsma01,0.74 ,2009,San Antonio Spurs,SAN
+hairspj02,1.15 ,2014,Charlotte Hornets,CHA
+hairspj02,1.20 ,2015,Memphis Grizzlies,MEM
+hairspj02,0.01 ,2016,Houston Rockets,HOU
+haislma01,0.83 ,2009,San Antonio Spurs,SAN
+hamiljo02,1.07 ,2011,Denver Nuggets,DEN
+hamiljo02,1.15 ,2012,Denver Nuggets,DEN
+hamiljo02,1.17 ,2013,Denver Nuggets,DEN
+hamiljo02,0.15 ,2014,Los Angeles Clippers,LAC
+hamiljo02,0.12 ,2015,New Orleans Pelicans,NOP
+hamilju01,0.82 ,2014,Minnesota Timberwolves,MIN
+hamilju01,3.00 ,2016,Brooklyn Nets,BKN
+hamilju01,1.00 ,2017,Toronto Raptors,TOR
+hamilri01,11.63 ,2009,Detroit Pistons,DET
+hamilri01,12.50 ,2010,Detroit Pistons,DET
+hamilri01,12.50 ,2011,Detroit Pistons,DET
+hamilri01,5.00 ,2011,Chicago Bulls,CHI
+hamilri01,5.00 ,2012,Chicago Bulls,CHI
+hamilri01,1.00 ,2013,Chicago Bulls,CHI
+hamilri01,0.33 ,2014,Chicago Bulls,CHI
+hammoaj01,0.65 ,2016,Dallas Mavericks,DAL
+hammoaj01,1.31 ,2017,Miami Heat,MIA
+hansbbe01,0.47 ,2012,Indiana Pacers,IND
+hansbty01,1.86 ,2009,Indiana Pacers,IND
+hansbty01,2.00 ,2010,Indiana Pacers,IND
+hansbty01,2.14 ,2011,Indiana Pacers,IND
+hansbty01,3.06 ,2012,Indiana Pacers,IND
+hansbty01,3.18 ,2013,Toronto Raptors,TOR
+hansbty01,3.33 ,2014,Toronto Raptors,TOR
+hansbty01,1.19 ,2015,Charlotte Hornets,CHA
+haranlu01,0.47 ,2010,Cleveland Cavaliers,CLE
+haranlu01,0.76 ,2011,Cleveland Cavaliers,CLE
+haranlu01,1.05 ,2012,Cleveland Cavaliers,CLE
+hardati02,1.20 ,2013,New York Knicks,NYK
+hardati02,1.25 ,2014,New York Knicks,NYK
+hardati02,1.30 ,2015,Atlanta Hawks,ATL
+hardati02,2.28 ,2016,Atlanta Hawks,ATL
+hardati02,16.50 ,2017,New York Knicks,NYK
+hardeja01,4.05 ,2009,Oklahoma City Thunder,OKC
+hardeja01,4.30 ,2010,Oklahoma City Thunder,OKC
+hardeja01,4.60 ,2011,Oklahoma City Thunder,OKC
+hardeja01,5.82 ,2012,Houston Rockets,HOU
+hardeja01,13.70 ,2013,Houston Rockets,HOU
+hardeja01,14.73 ,2014,Houston Rockets,HOU
+hardeja01,15.76 ,2015,Houston Rockets,HOU
+hardeja01,26.54 ,2016,Houston Rockets,HOU
+hardeja01,28.30 ,2017,Houston Rockets,HOU
+harklma01,1.73 ,2012,Orlando Magic,ORL
+harklma01,1.81 ,2013,Orlando Magic,ORL
+harklma01,1.89 ,2014,Orlando Magic,ORL
+harklma01,2.89 ,2015,Portland Trail Blazers,POR
+harklma01,8.99 ,2016,Portland Trail Blazers,POR
+harklma01,10.16 ,2017,Portland Trail Blazers,POR
+harpeju01,0.47 ,2011,Orlando Magic,ORL
+harpeju01,0.76 ,2012,Orlando Magic,ORL
+harpeju01,0.10 ,2015,Detroit Pistons,DET
+harpeju01,0.06 ,2016,Philadelphia 76ers,PHI
+harprma01,6.50 ,2009,Oklahoma City Thunder,OKC
+harremo01,1.00 ,2015,Houston Rockets,HOU
+harremo01,1.05 ,2016,Houston Rockets,HOU
+harremo01,1.47 ,2017,Los Angeles Clippers,LAC
+harrejo01,0.47 ,2011,New York Knicks,NYK
+harrejo01,0.35 ,2012,Miami Heat,MIA
+harrejo01,0.88 ,2013,Detroit Pistons,DET
+harrial01,10.03 ,2009,New York Knicks,NYK
+harrial01,5.77 ,2010,Denver Nuggets,DEN
+harrial01,6.23 ,2011,Denver Nuggets,DEN
+harrial01,6.69 ,2012,Orlando Magic,ORL
+harrial01,3.57 ,2013,Orlando Magic,ORL
+harrial01,1.40 ,2013,Washington Wizards,WAS
+harrial01,3.81 ,2014,Orlando Magic,ORL
+harride01,8.40 ,2009,Brooklyn Nets,BKN
+harride01,8.98 ,2010,Utah Jazz,UTA
+harride01,9.32 ,2011,Utah Jazz,UTA
+harride01,8.50 ,2012,Atlanta Hawks,ATL
+harride01,1.27 ,2013,Dallas Mavericks,DAL
+harride01,3.88 ,2014,Dallas Mavericks,DAL
+harride01,4.05 ,2015,Dallas Mavericks,DAL
+harride01,4.23 ,2016,Dallas Mavericks,DAL
+harride01,4.40 ,2017,Denver Nuggets,DEN
+harriga01,1.52 ,2014,Denver Nuggets,DEN
+harriga01,1.59 ,2015,Denver Nuggets,DEN
+harriga01,1.66 ,2016,Denver Nuggets,DEN
+harriga01,2.55 ,2017,Denver Nuggets,DEN
+harrijo01,0.88 ,2014,Cleveland Cavaliers,CLE
+harrijo01,0.85 ,2015,Orlando Magic,ORL
+harrijo01,0.98 ,2016,Brooklyn Nets,BKN
+harrijo01,1.52 ,2017,Brooklyn Nets,BKN
+harrima01,0.47 ,2010,Cleveland Cavaliers,CLE
+harrima01,0.12 ,2011,Cleveland Cavaliers,CLE
+harrima01,0.12 ,2016,Dallas Mavericks,DAL
+harrimi01,0.06 ,2009,Houston Rockets,HOU
+harrite01,0.47 ,2011,Miami Heat,MIA
+harrite01,0.19 ,2012,Miami Heat,MIA
+harrito02,1.42 ,2011,Milwaukee Bucks,MIL
+harrito02,1.52 ,2012,Orlando Magic,ORL
+harrito02,1.55 ,2013,Orlando Magic,ORL
+harrito02,2.38 ,2014,Orlando Magic,ORL
+harrito02,16.00 ,2015,Detroit Pistons,DET
+harrito02,17.20 ,2016,Detroit Pistons,DET
+harrito02,16.00 ,2017,Los Angeles Clippers,LAC
+harriaa01,0.53 ,2015,Charlotte Hornets,CHA
+harriaa01,0.38 ,2016,Charlotte Hornets,CHA
+harriaa01,0.17 ,2017,Dallas Mavericks,DAL
+harrian01,0.95 ,2016,Memphis Grizzlies,MEM
+harrian01,1.31 ,2017,Memphis Grizzlies,MEM
+harrish01,0.27 ,2017,Phoenix Suns,PHX
+hartja01,0.45 ,2009,Phoenix Suns,PHX
+hartja01,0.07 ,2009,New Orleans Hornets,NOP
+hartjo01,1.39 ,2017,Los Angeles Lakers,LAL
+hasleud01,7.10 ,2009,Miami Heat,MIA
+hasleud01,3.50 ,2010,Miami Heat,MIA
+hasleud01,3.78 ,2011,Miami Heat,MIA
+hasleud01,4.06 ,2012,Miami Heat,MIA
+hasleud01,4.34 ,2013,Miami Heat,MIA
+hasleud01,2.73 ,2014,Miami Heat,MIA
+hasleud01,2.85 ,2015,Miami Heat,MIA
+hasleud01,4.00 ,2016,Miami Heat,MIA
+hasleud01,1.47 ,2017,Miami Heat,MIA
+hassetr01,4.35 ,2009,Brooklyn Nets,BKN
+hawessp01,2.33 ,2009,Sacramento Kings,SAC
+hawessp01,2.97 ,2010,Philadelphia 76ers,PHI
+hawessp01,4.05 ,2011,Philadelphia 76ers,PHI
+hawessp01,8.50 ,2012,Philadelphia 76ers,PHI
+hawessp01,6.50 ,2013,Philadelphia 76ers,PHI
+hawessp01,5.31 ,2014,Los Angeles Clippers,LAC
+hawessp01,5.54 ,2015,Charlotte Hornets,CHA
+hawessp01,6.35 ,2016,Milwaukee Bucks,MIL
+hawessp01,2.01 ,2017,Milwaukee Bucks,MIL
+hayesch01,2.11 ,2009,Houston Rockets,HOU
+hayesch01,1.97 ,2010,Houston Rockets,HOU
+hayesch01,5.25 ,2011,Sacramento Kings,SAC
+hayesch01,5.49 ,2012,Sacramento Kings,SAC
+hayesch01,5.72 ,2013,Sacramento Kings,SAC
+hayesch01,5.96 ,2014,Toronto Raptors,TOR
+hayesch01,0.08 ,2015,Houston Rockets,HOU
+hayesja01,2.06 ,2009,Brooklyn Nets,BKN
+hayesni01,0.09 ,2017,Toronto Raptors,TOR
+hayesni01,0.06 ,2017,Sacramento Kings,SAC
+hayesni01,0.05 ,2017,New York Knicks,NYK
+hayesni01,0.05 ,2017,Los Angeles Lakers,LAL
+haywago01,2.36 ,2010,Utah Jazz,UTA
+haywago01,2.53 ,2011,Utah Jazz,UTA
+haywago01,2.71 ,2012,Utah Jazz,UTA
+haywago01,3.45 ,2013,Utah Jazz,UTA
+haywago01,14.75 ,2014,Utah Jazz,UTA
+haywago01,15.41 ,2015,Utah Jazz,UTA
+haywago01,16.07 ,2016,Utah Jazz,UTA
+haywago01,29.73 ,2017,Boston Celtics,BOS
+haywala01,1.02 ,2010,Minnesota Timberwolves,MIN
+haywala01,1.10 ,2011,Oklahoma City Thunder,OKC
+haywala01,1.17 ,2012,Houston Rockets,HOU
+haywala01,0.08 ,2012,Minnesota Timberwolves,MIN
+haywobr01,6.00 ,2009,Dallas Mavericks,DAL
+haywobr01,6.90 ,2010,Dallas Mavericks,DAL
+haywobr01,7.62 ,2011,Dallas Mavericks,DAL
+haywobr01,6.30 ,2012,Dallas Mavericks,DAL
+haywobr01,2.05 ,2012,Charlotte Hornets,CHA
+haywobr01,2.05 ,2013,Charlotte Hornets,CHA
+haywobr01,7.80 ,2014,Dallas Mavericks,DAL
+haywobr01,2.21 ,2014,Cleveland Cavaliers,CLE
+headlu01,0.88 ,2009,Indiana Pacers,IND
+headlu01,0.99 ,2010,Sacramento Kings,SAC
+hendege02,1.96 ,2009,Charlotte Hornets,CHA
+hendege02,2.10 ,2010,Charlotte Hornets,CHA
+hendege02,2.25 ,2011,Charlotte Hornets,CHA
+hendege02,3.10 ,2012,Charlotte Hornets,CHA
+hendege02,6.00 ,2013,Charlotte Hornets,CHA
+hendege02,6.00 ,2014,Charlotte Hornets,CHA
+hendege02,6.00 ,2015,Portland Trail Blazers,POR
+hendege02,9.00 ,2016,Philadelphia 76ers,PHI
+hendege02,1.00 ,2017,Philadelphia 76ers,PHI
+henryxa01,2.02 ,2010,Memphis Grizzlies,MEM
+henryxa01,2.17 ,2011,New Orleans Hornets,NOP
+henryxa01,2.32 ,2012,New Orleans Hornets,NOP
+henryxa01,1.08 ,2014,Los Angeles Lakers,LAL
+hensojo01,1.82 ,2012,Milwaukee Bucks,MIL
+hensojo01,1.91 ,2013,Milwaukee Bucks,MIL
+hensojo01,1.99 ,2014,Milwaukee Bucks,MIL
+hensojo01,2.94 ,2015,Milwaukee Bucks,MIL
+hensojo01,12.52 ,2016,Milwaukee Bucks,MIL
+hensojo01,11.42 ,2017,Milwaukee Bucks,MIL
+hernaju01,1.99 ,2016,Denver Nuggets,DEN
+hernaju01,2.08 ,2017,Denver Nuggets,DEN
+hernawi01,1.38 ,2016,New York Knicks,NYK
+hernawi01,1.44 ,2017,Charlotte Hornets,CHA
+hezonma01,3.74 ,2015,Orlando Magic,ORL
+hezonma01,3.91 ,2016,Orlando Magic,ORL
+hezonma01,4.08 ,2017,Orlando Magic,ORL
+hibbero01,1.58 ,2009,Indiana Pacers,IND
+hibbero01,1.69 ,2010,Indiana Pacers,IND
+hibbero01,2.59 ,2011,Indiana Pacers,IND
+hibbero01,13.69 ,2012,Indiana Pacers,IND
+hibbero01,14.28 ,2013,Indiana Pacers,IND
+hibbero01,14.90 ,2014,Indiana Pacers,IND
+hibbero01,15.50 ,2015,Los Angeles Lakers,LAL
+hibbero01,5.00 ,2016,Denver Nuggets,DEN
+hicksjj01,1.43 ,2009,Cleveland Cavaliers,CLE
+hicksjj01,1.53 ,2010,Cleveland Cavaliers,CLE
+hicksjj01,2.35 ,2011,Sacramento Kings,SAC
+hicksjj01,4.00 ,2012,Portland Trail Blazers,POR
+hicksjj01,5.15 ,2013,Denver Nuggets,DEN
+hicksjj01,5.38 ,2014,Denver Nuggets,DEN
+hicksjj01,5.61 ,2015,Denver Nuggets,DEN
+hicksjj01,0.37 ,2015,Washington Wizards,WAS
+hieldbu01,3.52 ,2016,Sacramento Kings,SAC
+hieldbu01,3.68 ,2017,Sacramento Kings,SAC
+higgico01,0.47 ,2011,Charlotte Hornets,CHA
+higgico01,0.04 ,2012,Charlotte Hornets,CHA
+hilarne01,10.52 ,2009,Denver Nuggets,DEN
+hilarne01,11.36 ,2010,Denver Nuggets,DEN
+hilarne01,13.00 ,2011,Denver Nuggets,DEN
+hilarne01,13.00 ,2012,Washington Wizards,WAS
+hilarne01,13.00 ,2013,Washington Wizards,WAS
+hilarne01,13.00 ,2014,Washington Wizards,WAS
+hilarne01,13.00 ,2015,Washington Wizards,WAS
+hilarne01,2.90 ,2016,Houston Rockets,HOU
+hilarne01,3.48 ,2017,Houston Rockets,HOU
+hillge01,1.08 ,2009,San Antonio Spurs,SAN
+hillge01,1.16 ,2010,San Antonio Spurs,SAN
+hillge01,2.09 ,2011,Indiana Pacers,IND
+hillge01,8.00 ,2012,Indiana Pacers,IND
+hillge01,8.00 ,2013,Indiana Pacers,IND
+hillge01,8.00 ,2014,Indiana Pacers,IND
+hillge01,8.00 ,2015,Indiana Pacers,IND
+hillge01,8.00 ,2016,Utah Jazz,UTA
+hillge01,20.00 ,2017,Cleveland Cavaliers,CLE
+hillgr01,3.00 ,2009,Phoenix Suns,PHX
+hillgr01,3.32 ,2010,Phoenix Suns,PHX
+hillgr01,6.50 ,2011,Phoenix Suns,PHX
+hillgr01,1.98 ,2012,Los Angeles Clippers,LAC
+hilljo01,2.48 ,2009,Houston Rockets,HOU
+hilljo01,2.67 ,2010,Houston Rockets,HOU
+hilljo01,2.86 ,2011,Houston Rockets,HOU
+hilljo01,3.63 ,2012,Los Angeles Lakers,LAL
+hilljo01,3.56 ,2013,Los Angeles Lakers,LAL
+hilljo01,9.00 ,2014,Los Angeles Lakers,LAL
+hilljo01,4.00 ,2015,Indiana Pacers,IND
+hilljo01,3.91 ,2016,Minnesota Timberwolves,MIN
+hillso01,1.25 ,2013,Indiana Pacers,IND
+hillso01,1.30 ,2014,Indiana Pacers,IND
+hillso01,1.36 ,2015,Indiana Pacers,IND
+hillso01,11.24 ,2016,New Orleans Pelicans,NOP
+hillso01,12.24 ,2017,New Orleans Pelicans,NOP
+hinriki01,9.50 ,2009,Chicago Bulls,CHI
+hinriki01,9.00 ,2010,Atlanta Hawks,ATL
+hinriki01,8.10 ,2011,Atlanta Hawks,ATL
+hinriki01,3.94 ,2012,Chicago Bulls,CHI
+hinriki01,4.06 ,2013,Chicago Bulls,CHI
+hinriki01,2.73 ,2014,Chicago Bulls,CHI
+hinriki01,2.87 ,2015,Atlanta Hawks,ATL
+hobsoda01,0.10 ,2010,Milwaukee Bucks,MIL
+hobsoda01,0.25 ,2011,Milwaukee Bucks,MIL
+holidjr01,1.51 ,2009,Philadelphia 76ers,PHI
+holidjr01,1.63 ,2010,Philadelphia 76ers,PHI
+holidjr01,1.74 ,2011,Philadelphia 76ers,PHI
+holidjr01,2.67 ,2012,Philadelphia 76ers,PHI
+holidjr01,9.21 ,2013,New Orleans Pelicans,NOP
+holidjr01,9.90 ,2014,New Orleans Pelicans,NOP
+holidjr01,10.60 ,2015,New Orleans Pelicans,NOP
+holidjr01,11.29 ,2016,New Orleans Pelicans,NOP
+holidjr01,25.69 ,2017,New Orleans Pelicans,NOP
+holidju01,0.82 ,2014,Golden State Warriors,GSW
+holidju01,0.95 ,2015,Chicago Bulls,CHI
+holidju01,1.02 ,2016,New York Knicks,NYK
+holidju01,4.62 ,2017,Chicago Bulls,CHI
+holliry01,2.18 ,2009,Minnesota Timberwolves,MIN
+holliry01,2.33 ,2010,Cleveland Cavaliers,CLE
+holliry01,2.48 ,2011,Cleveland Cavaliers,CLE
+holliry01,1.07 ,2012,Los Angeles Clippers,LAC
+holliry01,1.19 ,2013,Los Angeles Clippers,LAC
+holliry01,1.32 ,2014,Sacramento Kings,SAC
+holliry01,0.59 ,2015,Memphis Grizzlies,MEM
+holliry01,0.18 ,2015,Washington Wizards,WAS
+holliro01,1.34 ,2015,Brooklyn Nets,BKN
+holliro01,1.40 ,2016,Brooklyn Nets,BKN
+holliro01,1.47 ,2017,Brooklyn Nets,BKN
+holmeri01,1.05 ,2015,Philadelphia 76ers,PHI
+holmeri01,1.03 ,2016,Philadelphia 76ers,PHI
+holmeri01,1.47 ,2017,Philadelphia 76ers,PHI
+honeyty01,0.78 ,2011,Sacramento Kings,SAC
+honeyty01,0.81 ,2012,Houston Rockets,HOU
+honeyty01,0.10 ,2013,Houston Rockets,HOU
+hoodro01,1.29 ,2014,Utah Jazz,UTA
+hoodro01,1.35 ,2015,Utah Jazz,UTA
+hoodro01,1.41 ,2016,Utah Jazz,UTA
+hoodro01,2.39 ,2017,Cleveland Cavaliers,CLE
+hopsosc01,0.07 ,2017,Dallas Mavericks,DAL
+horfoal01,4.31 ,2009,Atlanta Hawks,ATL
+horfoal01,5.44 ,2010,Atlanta Hawks,ATL
+horfoal01,12.00 ,2011,Atlanta Hawks,ATL
+horfoal01,12.00 ,2012,Atlanta Hawks,ATL
+horfoal01,12.00 ,2013,Atlanta Hawks,ATL
+horfoal01,12.00 ,2014,Atlanta Hawks,ATL
+horfoal01,12.00 ,2015,Atlanta Hawks,ATL
+horfoal01,26.54 ,2016,Boston Celtics,BOS
+horfoal01,27.73 ,2017,Boston Celtics,BOS
+hornede01,0.09 ,2011,Brooklyn Nets,BKN
+houseed01,2.86 ,2009,New York Knicks,NYK
+houseed01,1.35 ,2010,Miami Heat,MIA
+howardw01,15.20 ,2009,Orlando Magic,ORL
+howardw01,16.65 ,2010,Orlando Magic,ORL
+howardw01,18.09 ,2011,Orlando Magic,ORL
+howardw01,19.54 ,2012,Los Angeles Lakers,LAL
+howardw01,20.51 ,2013,Houston Rockets,HOU
+howardw01,21.44 ,2014,Houston Rockets,HOU
+howardw01,22.36 ,2015,Houston Rockets,HOU
+howardw01,23.18 ,2016,Atlanta Hawks,ATL
+howardw01,23.50 ,2017,Charlotte Hornets,CHA
+howarjo01,10.89 ,2009,Washington Wizards,WAS
+howarjo01,3.00 ,2010,Washington Wizards,WAS
+howarjo01,2.15 ,2011,Utah Jazz,UTA
+howarjo01,1.23 ,2012,Minnesota Timberwolves,MIN
+howarju01,1.31 ,2009,Portland Trail Blazers,POR
+howarju01,1.35 ,2010,Miami Heat,MIA
+howarju01,1.35 ,2011,Miami Heat,MIA
+hudsole01,0.20 ,2009,Memphis Grizzlies,MEM
+hudsole01,0.19 ,2009,Boston Celtics,BOS
+hudsole01,0.19 ,2010,Washington Wizards,WAS
+hudsole01,0.06 ,2014,Los Angeles Clippers,LAC
+huertma01,0.53 ,2015,Los Angeles Lakers,LAL
+huertma01,1.50 ,2016,Houston Rockets,HOU
+huestjo01,1.14 ,2015,Oklahoma City Thunder,OKC
+huestjo01,1.19 ,2016,Oklahoma City Thunder,OKC
+huestjo01,1.47 ,2017,Oklahoma City Thunder,OKC
+hughela01,13.66 ,2009,Sacramento Kings,SAC
+hughela01,0.41 ,2011,Orlando Magic,ORL
+hummero01,0.88 ,2014,Minnesota Timberwolves,MIN
+hummero01,0.15 ,2016,Denver Nuggets,DEN
+humphkr01,3.20 ,2009,Brooklyn Nets,BKN
+humphkr01,3.20 ,2010,Brooklyn Nets,BKN
+humphkr01,8.00 ,2011,Brooklyn Nets,BKN
+humphkr01,12.00 ,2012,Brooklyn Nets,BKN
+humphkr01,12.00 ,2013,Boston Celtics,BOS
+humphkr01,4.30 ,2014,Washington Wizards,WAS
+humphkr01,4.60 ,2015,Phoenix Suns,PHX
+humphkr01,0.39 ,2015,Atlanta Hawks,ATL
+humphkr01,4.00 ,2016,Atlanta Hawks,ATL
+huntech01,0.63 ,2009,Golden State Warriors,GSW
+hunteli01,1.31 ,2009,Chicago Bulls,CHI
+hunteot01,0.31 ,2009,Atlanta Hawks,ATL
+huntest01,3.70 ,2009,Memphis Grizzlies,MEM
+ibakase01,1.12 ,2009,Oklahoma City Thunder,OKC
+ibakase01,1.20 ,2010,Oklahoma City Thunder,OKC
+ibakase01,1.29 ,2011,Oklahoma City Thunder,OKC
+ibakase01,2.25 ,2012,Oklahoma City Thunder,OKC
+ibakase01,12.25 ,2013,Oklahoma City Thunder,OKC
+ibakase01,12.35 ,2014,Oklahoma City Thunder,OKC
+ibakase01,12.35 ,2015,Oklahoma City Thunder,OKC
+ibakase01,12.25 ,2016,Toronto Raptors,TOR
+ibakase01,20.06 ,2017,Toronto Raptors,TOR
+iguodan01,12.20 ,2009,Philadelphia 76ers,PHI
+iguodan01,12.35 ,2010,Philadelphia 76ers,PHI
+iguodan01,13.53 ,2011,Philadelphia 76ers,PHI
+iguodan01,14.97 ,2012,Denver Nuggets,DEN
+iguodan01,12.87 ,2013,Golden State Warriors,GSW
+iguodan01,12.29 ,2014,Golden State Warriors,GSW
+iguodan01,11.71 ,2015,Golden State Warriors,GSW
+iguodan01,11.13 ,2016,Golden State Warriors,GSW
+iguodan01,14.81 ,2017,Golden State Warriors,GSW
+ilgauzy01,11.54 ,2009,Washington Wizards,WAS
+ilgauzy01,1.35 ,2010,Miami Heat,MIA
+mbengdj01,0.96 ,2009,Los Angeles Lakers,LAL
+mbengdj01,1.07 ,2010,New Orleans Hornets,NOP
+ilyaser01,2.10 ,2009,Milwaukee Bucks,MIL
+ilyaser01,2.32 ,2010,Milwaukee Bucks,MIL
+ilyaser01,2.54 ,2011,Milwaukee Bucks,MIL
+ilyaser01,7.90 ,2012,Milwaukee Bucks,MIL
+ilyaser01,7.90 ,2013,Milwaukee Bucks,MIL
+ilyaser01,7.90 ,2014,Detroit Pistons,DET
+ilyaser01,7.90 ,2015,Orlando Magic,ORL
+ilyaser01,8.40 ,2016,Atlanta Hawks,ATL
+ilyaser01,5.43 ,2017,Atlanta Hawks,ATL
+ilyaser01,0.36 ,2017,Philadelphia 76ers,PHI
+inglejo01,0.51 ,2014,Utah Jazz,UTA
+inglejo01,2.25 ,2015,Utah Jazz,UTA
+inglejo01,2.25 ,2016,Utah Jazz,UTA
+inglejo01,14.14 ,2017,Utah Jazz,UTA
+inglida01,0.82 ,2014,Milwaukee Bucks,MIL
+inglida01,0.86 ,2015,Milwaukee Bucks,MIL
+ingraan01,0.01 ,2017,Los Angeles Lakers,LAL
+ingrabr01,5.28 ,2016,Los Angeles Lakers,LAL
+ingrabr01,5.52 ,2017,Los Angeles Lakers,LAL
+irvinky01,5.14 ,2011,Cleveland Cavaliers,CLE
+irvinky01,5.53 ,2012,Cleveland Cavaliers,CLE
+irvinky01,5.61 ,2013,Cleveland Cavaliers,CLE
+irvinky01,7.07 ,2014,Cleveland Cavaliers,CLE
+irvinky01,14.75 ,2015,Cleveland Cavaliers,CLE
+irvinky01,17.64 ,2016,Cleveland Cavaliers,CLE
+irvinky01,18.87 ,2017,Boston Celtics,BOS
+isaacjo01,4.19 ,2017,Orlando Magic,ORL
+iversal01,1.03 ,2009,Philadelphia 76ers,PHI
+iversal01,0.16 ,2009,Memphis Grizzlies,MEM
+iveyro01,1.05 ,2009,Milwaukee Bucks,MIL
+iveyro01,1.20 ,2010,Oklahoma City Thunder,OKC
+iveyro01,1.20 ,2011,Oklahoma City Thunder,OKC
+iveyro01,1.22 ,2012,Philadelphia 76ers,PHI
+iwundwe01,1.05 ,2017,Orlando Magic,ORL
+jackja01,4.50 ,2009,Toronto Raptors,TOR
+jackja01,4.60 ,2010,New Orleans Hornets,NOP
+jackja01,5.00 ,2011,New Orleans Hornets,NOP
+jackja01,5.40 ,2012,Golden State Warriors,GSW
+jackja01,6.30 ,2013,Cleveland Cavaliers,CLE
+jackja01,6.30 ,2014,Brooklyn Nets,BKN
+jackja01,6.30 ,2015,Brooklyn Nets,BKN
+jackja01,1.55 ,2016,Atlanta Hawks,ATL
+jackja01,0.50 ,2016,Brooklyn Nets,BKN
+jackja01,0.09 ,2016,New Orleans Pelicans,NOP
+jackja01,1.47 ,2017,New York Knicks,NYK
+jacksaa01,0.00 ,2017,Houston Rockets,HOU
+jacksce01,0.05 ,2009,Cleveland Cavaliers,CLE
+jacksda01,0.74 ,2009,Cleveland Cavaliers,CLE
+jacksda01,0.85 ,2010,Sacramento Kings,SAC
+jacksfr01,0.82 ,2017,New Orleans Pelicans,NOP
+jacksjo02,5.09 ,2017,Phoenix Suns,PHX
+jacksju01,2.37 ,2017,Sacramento Kings,SAC
+jackspi01,0.40 ,2014,Philadelphia 76ers,PHI
+jackspi01,0.75 ,2015,Philadelphia 76ers,PHI
+jackspi01,0.11 ,2016,Dallas Mavericks,DAL
+jacksre01,1.16 ,2011,Oklahoma City Thunder,OKC
+jacksre01,1.24 ,2012,Oklahoma City Thunder,OKC
+jacksre01,1.26 ,2013,Oklahoma City Thunder,OKC
+jacksre01,2.20 ,2014,Detroit Pistons,DET
+jacksre01,14.00 ,2015,Detroit Pistons,DET
+jacksre01,14.96 ,2016,Detroit Pistons,DET
+jacksre01,16.00 ,2017,Detroit Pistons,DET
+jacksst02,7.65 ,2009,Charlotte Hornets,CHA
+jacksst02,8.45 ,2010,Charlotte Hornets,CHA
+jacksst02,9.26 ,2011,Milwaukee Bucks,MIL
+jacksst02,10.06 ,2012,San Antonio Spurs,SAN
+jamesbe01,0.47 ,2012,Dallas Mavericks,DAL
+jamesbe01,0.79 ,2013,Dallas Mavericks,DAL
+jamesbe01,0.92 ,2014,Dallas Mavericks,DAL
+jamesbe01,0.24 ,2014,Dallas Mavericks,DAL
+jamesda01,1.16 ,2010,Brooklyn Nets,BKN
+jamesda01,1.24 ,2011,Brooklyn Nets,BKN
+jamesda01,0.05 ,2012,Brooklyn Nets,BKN
+jamesje01,6.60 ,2009,Chicago Bulls,CHI
+jamesle01,15.78 ,2009,Cleveland Cavaliers,CLE
+jamesle01,14.50 ,2010,Miami Heat,MIA
+jamesle01,16.02 ,2011,Miami Heat,MIA
+jamesle01,17.55 ,2012,Miami Heat,MIA
+jamesle01,19.07 ,2013,Miami Heat,MIA
+jamesle01,20.64 ,2014,Cleveland Cavaliers,CLE
+jamesle01,22.97 ,2015,Cleveland Cavaliers,CLE
+jamesle01,30.96 ,2016,Cleveland Cavaliers,CLE
+jamesle01,33.29 ,2017,Cleveland Cavaliers,CLE
+jamesmi01,6.47 ,2009,Washington Wizards,WAS
+jamesmi01,0.28 ,2011,Chicago Bulls,CHI
+jamesmi01,0.80 ,2012,Dallas Mavericks,DAL
+jamisan01,11.64 ,2009,Cleveland Cavaliers,CLE
+jamisan01,13.36 ,2010,Cleveland Cavaliers,CLE
+jamisan01,15.08 ,2011,Cleveland Cavaliers,CLE
+jamisan01,1.35 ,2012,Los Angeles Lakers,LAL
+jamisan01,1.40 ,2013,Los Angeles Clippers,LAC
+jaricma01,7.10 ,2009,Memphis Grizzlies,MEM
+jaricma01,7.63 ,2010,Memphis Grizzlies,MEM
+jawaina01,0.74 ,2009,Minnesota Timberwolves,MIN
+jeffeal01,12.00 ,2009,Minnesota Timberwolves,MIN
+jeffeal01,13.00 ,2010,Utah Jazz,UTA
+jeffeal01,14.00 ,2011,Utah Jazz,UTA
+jeffeal01,15.00 ,2012,Utah Jazz,UTA
+jeffeal01,13.50 ,2013,Charlotte Hornets,CHA
+jeffeal01,13.67 ,2014,Charlotte Hornets,CHA
+jeffeal01,13.83 ,2015,Charlotte Hornets,CHA
+jeffeal01,10.23 ,2016,Indiana Pacers,IND
+jeffeal01,9.77 ,2017,Indiana Pacers,IND
+jeffeam01,0.00 ,2017,Minnesota Timberwolves,MIN
+jeffeco01,0.51 ,2014,Brooklyn Nets,BKN
+jeffeco01,0.42 ,2015,Phoenix Suns,PHX
+jefferi01,14.20 ,2009,San Antonio Spurs,SAN
+jefferi01,8.40 ,2010,San Antonio Spurs,SAN
+jefferi01,9.28 ,2011,San Antonio Spurs,SAN
+jefferi01,10.16 ,2012,Golden State Warriors,GSW
+jefferi01,11.05 ,2013,Utah Jazz,UTA
+jefferi01,1.45 ,2014,Dallas Mavericks,DAL
+jefferi01,1.50 ,2015,Cleveland Cavaliers,CLE
+jefferi01,2.50 ,2016,Cleveland Cavaliers,CLE
+jefferi01,2.50 ,2017,Atlanta Hawks,ATL
+jefferi01,1.45 ,2017,Denver Nuggets,DEN
+jeffrja01,6.47 ,2009,Houston Rockets,HOU
+jeffrja01,6.88 ,2010,Houston Rockets,HOU
+jeffrja01,1.23 ,2011,New York Knicks,NYK
+jeffrja01,1.48 ,2012,Portland Trail Blazers,POR
+jenkich01,0.47 ,2011,Golden State Warriors,GSW
+jenkich01,0.76 ,2012,Philadelphia 76ers,PHI
+jenkijo01,1.20 ,2012,Atlanta Hawks,ATL
+jenkijo01,1.26 ,2013,Atlanta Hawks,ATL
+jenkijo01,1.31 ,2014,Atlanta Hawks,ATL
+jenkijo01,0.98 ,2015,Phoenix Suns,PHX
+jenkijo01,0.47 ,2016,Phoenix Suns,PHX
+jennibr01,2.17 ,2009,Milwaukee Bucks,MIL
+jennibr01,2.33 ,2010,Milwaukee Bucks,MIL
+jennibr01,2.49 ,2011,Milwaukee Bucks,MIL
+jennibr01,3.18 ,2012,Milwaukee Bucks,MIL
+jennibr01,7.66 ,2013,Detroit Pistons,DET
+jennibr01,8.00 ,2014,Detroit Pistons,DET
+jennibr01,8.34 ,2015,Orlando Magic,ORL
+jennibr01,4.84 ,2016,New York Knicks,NYK
+jennibr01,1.20 ,2016,Washington Wizards,WAS
+jennibr01,0.30 ,2017,Milwaukee Bucks,MIL
+jerebjo01,0.46 ,2009,Detroit Pistons,DET
+jerebjo01,0.76 ,2010,Detroit Pistons,DET
+jerebjo01,4.50 ,2011,Detroit Pistons,DET
+jerebjo01,4.50 ,2012,Detroit Pistons,DET
+jerebjo01,4.50 ,2013,Detroit Pistons,DET
+jerebjo01,4.50 ,2014,Boston Celtics,BOS
+jerebjo01,5.00 ,2015,Boston Celtics,BOS
+jerebjo01,5.00 ,2016,Boston Celtics,BOS
+jerebjo01,4.00 ,2017,Utah Jazz,UTA
+jerregr01,0.82 ,2014,Utah Jazz,UTA
+jerregr01,0.95 ,2015,Utah Jazz,UTA
+jetereu01,0.47 ,2010,Sacramento Kings,SAC
+jianlyi01,3.19 ,2009,Brooklyn Nets,BKN
+jianlyi01,4.05 ,2010,Washington Wizards,WAS
+jianlyi01,0.83 ,2011,Dallas Mavericks,DAL
+jianlyi01,0.25 ,2016,Los Angeles Lakers,LAL
+johnsam01,3.67 ,2009,Toronto Raptors,TOR
+johnsam01,5.00 ,2010,Toronto Raptors,TOR
+johnsam01,5.50 ,2011,Toronto Raptors,TOR
+johnsam01,6.00 ,2012,Toronto Raptors,TOR
+johnsam01,6.50 ,2013,Toronto Raptors,TOR
+johnsam01,7.00 ,2014,Toronto Raptors,TOR
+johnsam01,12.00 ,2015,Boston Celtics,BOS
+johnsam01,12.00 ,2016,Boston Celtics,BOS
+johnsam01,11.00 ,2017,Philadelphia 76ers,PHI
+johnsan02,2.16 ,2009,Orlando Magic,ORL
+johnsar02,0.47 ,2010,Portland Trail Blazers,POR
+johnsar02,0.76 ,2011,Portland Trail Blazers,POR
+johnsbr02,1.27 ,2016,Los Angeles Clippers,LAC
+johnsbr02,1.33 ,2017,Memphis Grizzlies,MEM
+johnsca01,0.17 ,2011,New Orleans Hornets,NOP
+johnsch03,0.14 ,2010,Boston Celtics,BOS
+johnsch03,0.03 ,2010,Portland Trail Blazers,POR
+johnsch03,0.76 ,2011,Portland Trail Blazers,POR
+johnsch03,0.45 ,2012,Minnesota Timberwolves,MIN
+johnsch03,0.92 ,2013,Minnesota Timberwolves,MIN
+johnsch04,0.06 ,2012,Memphis Grizzlies,MEM
+johnsch04,0.17 ,2014,Utah Jazz,UTA
+johnsch04,0.11 ,2014,Milwaukee Bucks,MIL
+johnsch04,0.98 ,2015,Utah Jazz,UTA
+johnsch04,0.03 ,2017,Houston Rockets,HOU
+johnsda04,0.82 ,2017,Oklahoma City Thunder,OKC
+johnsiv01,0.47 ,2011,Atlanta Hawks,ATL
+johnsiv01,0.96 ,2012,Atlanta Hawks,ATL
+johnsiv01,0.03 ,2014,Dallas Mavericks,DAL
+johnsja02,1.04 ,2011,Boston Celtics,BOS
+johnsja02,1.12 ,2012,Houston Rockets,HOU
+johnsja01,1.59 ,2009,Chicago Bulls,CHI
+johnsja01,1.71 ,2010,Toronto Raptors,TOR
+johnsja01,1.83 ,2011,Toronto Raptors,TOR
+johnsja01,2.81 ,2012,Sacramento Kings,SAC
+johnsja01,2.50 ,2014,Toronto Raptors,TOR
+johnsja01,2.50 ,2015,Toronto Raptors,TOR
+johnsja01,4.00 ,2016,Miami Heat,MIA
+johnsja01,13.95 ,2017,Miami Heat,MIA
+johnsjo02,14.98 ,2009,Atlanta Hawks,ATL
+johnsjo02,16.32 ,2010,Atlanta Hawks,ATL
+johnsjo02,18.04 ,2011,Atlanta Hawks,ATL
+johnsjo02,19.75 ,2012,Brooklyn Nets,BKN
+johnsjo02,21.47 ,2013,Brooklyn Nets,BKN
+johnsjo02,23.18 ,2014,Brooklyn Nets,BKN
+johnsjo02,24.89 ,2015,Brooklyn Nets,BKN
+johnsjo02,0.41 ,2015,Miami Heat,MIA
+johnsjo02,11.00 ,2016,Utah Jazz,UTA
+johnsjo02,9.51 ,2017,Sacramento Kings,SAC
+johnsjo02,0.47 ,2017,Houston Rockets,HOU
+johnsni01,0.51 ,2014,Houston Rockets,HOU
+johnsni01,0.85 ,2015,Denver Nuggets,DEN
+johnsni01,0.98 ,2016,Denver Nuggets,DEN
+johnsom01,0.03 ,2017,Memphis Grizzlies,MEM
+johnsor01,0.55 ,2012,Indiana Pacers,IND
+johnsor01,0.79 ,2013,Indiana Pacers,IND
+johnsor01,0.06 ,2015,New Orleans Pelicans,NOP
+johnsor01,0.06 ,2015,Phoenix Suns,PHX
+johnsst04,2.84 ,2015,Detroit Pistons,DET
+johnsst04,2.97 ,2016,Detroit Pistons,DET
+johnsst04,3.10 ,2017,Detroit Pistons,DET
+johnstr01,0.09 ,2010,Toronto Raptors,TOR
+johnsty01,0.51 ,2014,Miami Heat,MIA
+johnsty01,0.85 ,2015,Miami Heat,MIA
+johnsty01,5.63 ,2016,Miami Heat,MIA
+johnsty01,5.88 ,2017,Miami Heat,MIA
+johnswe01,3.73 ,2010,Minnesota Timberwolves,MIN
+johnswe01,4.01 ,2011,Minnesota Timberwolves,MIN
+johnswe01,4.29 ,2012,Phoenix Suns,PHX
+johnswe01,0.92 ,2013,Los Angeles Lakers,LAL
+johnswe01,0.98 ,2014,Los Angeles Lakers,LAL
+johnswe01,1.10 ,2015,Los Angeles Clippers,LAC
+johnswe01,5.63 ,2016,Los Angeles Clippers,LAC
+johnswe01,5.88 ,2017,Los Angeles Clippers,LAC
+johnsda03,0.19 ,2012,Los Angeles Lakers,LAL
+jokicni01,1.30 ,2015,Denver Nuggets,DEN
+jokicni01,1.36 ,2016,Denver Nuggets,DEN
+jokicni01,1.47 ,2017,Denver Nuggets,DEN
+jonesda02,2.50 ,2009,Indiana Pacers,IND
+jonesda02,2.50 ,2010,Indiana Pacers,IND
+jonesda02,2.70 ,2011,Indiana Pacers,IND
+jonesda02,2.90 ,2012,Atlanta Hawks,ATL
+jonesda02,0.39 ,2014,Los Angeles Clippers,LAC
+jonesda02,0.01 ,2015,Cleveland Cavaliers,CLE
+jonesda02,0.02 ,2016,Cleveland Cavaliers,CLE
+jonesda03,1.17 ,2016,Golden State Warriors,GSW
+jonesda03,1.31 ,2017,Golden State Warriors,GSW
+jonesde01,0.47 ,2012,Orlando Magic,ORL
+jonesdo02,1.11 ,2010,Dallas Mavericks,DAL
+jonesdo02,1.19 ,2011,Dallas Mavericks,DAL
+jonesdo02,1.28 ,2012,Dallas Mavericks,DAL
+jonesja02,4.32 ,2009,Miami Heat,MIA
+jonesja02,1.07 ,2010,Miami Heat,MIA
+jonesja02,1.50 ,2011,Miami Heat,MIA
+jonesja02,1.50 ,2012,Miami Heat,MIA
+jonesja02,1.45 ,2014,Cleveland Cavaliers,CLE
+jonesja02,1.50 ,2015,Cleveland Cavaliers,CLE
+jonesja02,1.55 ,2016,Cleveland Cavaliers,CLE
+joneske01,0.39 ,2012,Cleveland Cavaliers,CLE
+jonespe01,1.04 ,2012,Oklahoma City Thunder,OKC
+jonespe01,1.08 ,2013,Oklahoma City Thunder,OKC
+jonespe01,1.13 ,2014,Oklahoma City Thunder,OKC
+jonespe01,2.04 ,2015,Boston Celtics,BOS
+jonesso01,1.62 ,2009,Indiana Pacers,IND
+jonesso01,1.50 ,2010,Indiana Pacers,IND
+jonesso01,0.28 ,2011,Los Angeles Clippers,LAC
+jonesso01,0.16 ,2011,New Orleans Hornets,NOP
+joneste01,1.49 ,2012,Houston Rockets,HOU
+joneste01,1.55 ,2013,Houston Rockets,HOU
+joneste01,1.62 ,2014,Houston Rockets,HOU
+joneste01,2.49 ,2015,Houston Rockets,HOU
+joneste01,1.05 ,2016,New Orleans Pelicans,NOP
+joneste01,0.24 ,2016,Milwaukee Bucks,MIL
+jonesty01,1.28 ,2015,Minnesota Timberwolves,MIN
+jonesty01,1.34 ,2016,Minnesota Timberwolves,MIN
+jonesty01,1.47 ,2017,Minnesota Timberwolves,MIN
+jordade01,0.74 ,2009,Los Angeles Clippers,LAC
+jordade01,0.85 ,2010,Los Angeles Clippers,LAC
+jordade01,10.08 ,2011,Los Angeles Clippers,LAC
+jordade01,10.53 ,2012,Los Angeles Clippers,LAC
+jordade01,10.99 ,2013,Los Angeles Clippers,LAC
+jordade01,11.44 ,2014,Los Angeles Clippers,LAC
+jordade01,19.50 ,2015,Los Angeles Clippers,LAC
+jordade01,21.17 ,2016,Los Angeles Clippers,LAC
+jordade01,22.64 ,2017,Los Angeles Clippers,LAC
+jordaje01,0.47 ,2011,New York Knicks,NYK
+jordaje01,0.92 ,2014,Brooklyn Nets,BKN
+josepco01,1.03 ,2011,San Antonio Spurs,SAN
+josepco01,1.11 ,2012,San Antonio Spurs,SAN
+josepco01,1.12 ,2013,San Antonio Spurs,SAN
+josepco01,2.02 ,2014,San Antonio Spurs,SAN
+josepco01,7.00 ,2015,Toronto Raptors,TOR
+josepco01,7.33 ,2016,Toronto Raptors,TOR
+josepco01,7.63 ,2017,Indiana Pacers,IND
+josepkr01,0.19 ,2012,Boston Celtics,BOS
+kamanch01,10.40 ,2009,Los Angeles Clippers,LAC
+kamanch01,11.80 ,2010,Los Angeles Clippers,LAC
+kamanch01,14.03 ,2011,New Orleans Hornets,NOP
+kamanch01,8.00 ,2012,Dallas Mavericks,DAL
+kamanch01,3.18 ,2013,Los Angeles Lakers,LAL
+kamanch01,4.80 ,2014,Portland Trail Blazers,POR
+kamanch01,5.00 ,2015,Portland Trail Blazers,POR
+kaminfr01,2.61 ,2015,Charlotte Hornets,CHA
+kaminfr01,2.73 ,2016,Charlotte Hornets,CHA
+kaminfr01,2.85 ,2017,Charlotte Hornets,CHA
+kanteen01,4.13 ,2011,Utah Jazz,UTA
+kanteen01,4.44 ,2012,Utah Jazz,UTA
+kanteen01,4.51 ,2013,Utah Jazz,UTA
+kanteen01,5.69 ,2014,Oklahoma City Thunder,OKC
+kanteen01,16.40 ,2015,Oklahoma City Thunder,OKC
+kanteen01,17.15 ,2016,Oklahoma City Thunder,OKC
+kanteen01,20.57 ,2017,New York Knicks,NYK
+kaponja01,6.21 ,2009,Philadelphia 76ers,PHI
+kaponja01,6.64 ,2010,Philadelphia 76ers,PHI
+kaponja01,1.22 ,2011,Los Angeles Lakers,LAL
+karasse01,1.47 ,2013,Cleveland Cavaliers,CLE
+karasse01,1.53 ,2014,Brooklyn Nets,BKN
+karasse01,1.60 ,2015,Brooklyn Nets,BKN
+karlco01,0.31 ,2009,Cleveland Cavaliers,CLE
+karlco01,0.04 ,2009,Golden State Warriors,GSW
+kaunsa01,1.30 ,2015,Cleveland Cavaliers,CLE
+kaunsa01,1.33 ,2016,Philadelphia 76ers,PHI
+kellyry01,1.65 ,2014,Los Angeles Lakers,LAL
+kellyry01,1.72 ,2015,Los Angeles Lakers,LAL
+kellyry01,0.42 ,2016,Atlanta Hawks,ATL
+kennalu01,2.76 ,2017,Detroit Pistons,DET
+kennedj01,0.05 ,2016,Denver Nuggets,DEN
+kiddja01,8.00 ,2009,Dallas Mavericks,DAL
+kiddja01,8.61 ,2010,Dallas Mavericks,DAL
+kiddja01,10.12 ,2011,Dallas Mavericks,DAL
+kiddja01,3.09 ,2012,New York Knicks,NYK
+kiddgmi01,4.60 ,2012,Charlotte Hornets,CHA
+kiddgmi01,4.81 ,2013,Charlotte Hornets,CHA
+kiddgmi01,5.02 ,2014,Charlotte Hornets,CHA
+kiddgmi01,6.33 ,2015,Charlotte Hornets,CHA
+kiddgmi01,13.00 ,2016,Charlotte Hornets,CHA
+kiddgmi01,13.00 ,2017,Charlotte Hornets,CHA
+kilpase01,0.04 ,2014,Golden State Warriors,GSW
+kilpase01,0.03 ,2014,Minnesota Timberwolves,MIN
+kilpase01,0.32 ,2015,Brooklyn Nets,BKN
+kilpase01,0.10 ,2015,Denver Nuggets,DEN
+kilpase01,0.98 ,2016,Brooklyn Nets,BKN
+kilpase01,2.16 ,2017,Chicago Bulls,CHI
+kilpase01,1.52 ,2017,Brooklyn Nets,BKN
+kilpase01,0.79 ,2017,Milwaukee Bucks,MIL
+kilpase01,0.17 ,2017,Los Angeles Clippers,LAC
+kirilan01,16.45 ,2009,Utah Jazz,UTA
+kirilan01,17.82 ,2010,Utah Jazz,UTA
+kirilan01,9.78 ,2012,Minnesota Timberwolves,MIN
+kirilan01,3.18 ,2013,Brooklyn Nets,BKN
+kirilan01,3.33 ,2014,Philadelphia 76ers,PHI
+kirkal01,0.07 ,2014,New York Knicks,NYK
+klebima01,0.82 ,2017,Dallas Mavericks,DAL
+kleizli01,5.00 ,2010,Toronto Raptors,TOR
+kleizli01,4.61 ,2011,Toronto Raptors,TOR
+kleizli01,4.60 ,2012,Toronto Raptors,TOR
+knighbr03,2.56 ,2011,Detroit Pistons,DET
+knighbr03,2.76 ,2012,Detroit Pistons,DET
+knighbr03,2.79 ,2013,Milwaukee Bucks,MIL
+knighbr03,3.55 ,2014,Phoenix Suns,PHX
+knighbr03,12.00 ,2015,Phoenix Suns,PHX
+knighbr03,12.61 ,2016,Phoenix Suns,PHX
+knighbr03,13.62 ,2017,Phoenix Suns,PHX
+korkmfu01,1.47 ,2017,Philadelphia 76ers,PHI
+korveky01,5.16 ,2009,Utah Jazz,UTA
+korveky01,5.00 ,2010,Chicago Bulls,CHI
+korveky01,5.00 ,2011,Chicago Bulls,CHI
+korveky01,5.00 ,2012,Atlanta Hawks,ATL
+korveky01,6.76 ,2013,Atlanta Hawks,ATL
+korveky01,6.25 ,2014,Atlanta Hawks,ATL
+korveky01,5.75 ,2015,Atlanta Hawks,ATL
+korveky01,5.24 ,2016,Cleveland Cavaliers,CLE
+korveky01,7.00 ,2017,Cleveland Cavaliers,CLE
+koufoko01,1.21 ,2009,Utah Jazz,UTA
+koufoko01,1.35 ,2010,Denver Nuggets,DEN
+koufoko01,2.20 ,2011,Denver Nuggets,DEN
+koufoko01,3.00 ,2012,Denver Nuggets,DEN
+koufoko01,3.00 ,2013,Memphis Grizzlies,MEM
+koufoko01,3.00 ,2014,Memphis Grizzlies,MEM
+koufoko01,7.50 ,2015,Sacramento Kings,SAC
+koufoko01,8.05 ,2016,Sacramento Kings,SAC
+koufoko01,8.39 ,2017,Sacramento Kings,SAC
+kravtvi01,1.50 ,2013,Milwaukee Bucks,MIL
+krstine01,5.40 ,2009,Oklahoma City Thunder,OKC
+krstine01,5.54 ,2010,Boston Celtics,BOS
+kuzmaky01,1.42 ,2017,Los Angeles Lakers,LAL
+kuzmiog01,0.82 ,2014,Golden State Warriors,GSW
+kuzmimi01,2.90 ,2016,New York Knicks,NYK
+kuzmimi01,3.03 ,2017,New York Knicks,NYK
+labissk01,1.19 ,2016,Sacramento Kings,SAC
+labissk01,1.31 ,2017,Sacramento Kings,SAC
+lambdo01,0.65 ,2012,Orlando Magic,ORL
+lambdo01,0.79 ,2013,Orlando Magic,ORL
+lambje01,2.02 ,2012,Oklahoma City Thunder,OKC
+lambje01,2.11 ,2013,Oklahoma City Thunder,OKC
+lambje01,2.20 ,2014,Oklahoma City Thunder,OKC
+lambje01,3.03 ,2015,Charlotte Hornets,CHA
+lambje01,6.51 ,2016,Charlotte Hornets,CHA
+lambje01,7.00 ,2017,Charlotte Hornets,CHA
+landrca01,3.00 ,2009,Sacramento Kings,SAC
+landrca01,3.00 ,2010,New Orleans Hornets,NOP
+landrca01,8.50 ,2011,New Orleans Hornets,NOP
+landrca01,4.00 ,2012,Golden State Warriors,GSW
+landrca01,6.50 ,2013,Sacramento Kings,SAC
+landrca01,6.50 ,2014,Sacramento Kings,SAC
+landrca01,6.50 ,2015,Philadelphia 76ers,PHI
+landrca01,6.50 ,2016,Philadelphia 76ers,PHI
+landrma01,0.46 ,2009,Boston Celtics,BOS
+laproni01,0.21 ,2016,San Antonio Spurs,SAN
+larkish01,1.54 ,2013,Dallas Mavericks,DAL
+larkish01,1.61 ,2014,New York Knicks,NYK
+larkish01,1.50 ,2015,Brooklyn Nets,BKN
+larkish01,1.47 ,2017,Boston Celtics,BOS
+lauvejo01,1.79 ,2014,Denver Nuggets,DEN
+lauvejo01,1.71 ,2015,Denver Nuggets,DEN
+lauvejo01,1.71 ,2016,Chicago Bulls,CHI
+lauvejo01,1.52 ,2017,San Antonio Spurs,SAN
+lavinza01,2.06 ,2014,Minnesota Timberwolves,MIN
+lavinza01,2.15 ,2015,Minnesota Timberwolves,MIN
+lavinza01,2.24 ,2016,Minnesota Timberwolves,MIN
+lavinza01,3.20 ,2017,Chicago Bulls,CHI
+lawac01,2.22 ,2009,Chicago Bulls,CHI
+lawac01,0.66 ,2010,Golden State Warriors,GSW
+lawac01,0.20 ,2010,Memphis Grizzlies,MEM
+lawalga01,0.47 ,2010,Phoenix Suns,PHX
+lawsoty01,1.44 ,2009,Denver Nuggets,DEN
+lawsoty01,1.55 ,2010,Denver Nuggets,DEN
+lawsoty01,1.65 ,2011,Denver Nuggets,DEN
+lawsoty01,2.54 ,2012,Denver Nuggets,DEN
+lawsoty01,10.79 ,2013,Denver Nuggets,DEN
+lawsoty01,11.60 ,2014,Denver Nuggets,DEN
+lawsoty01,12.40 ,2015,Houston Rockets,HOU
+lawsoty01,0.27 ,2015,Indiana Pacers,IND
+lawsoty01,1.32 ,2016,Sacramento Kings,SAC
+lawsoty01,0.01 ,2017,Washington Wizards,WAS
+laymaja01,0.60 ,2016,Portland Trail Blazers,POR
+laymaja01,1.31 ,2017,Portland Trail Blazers,POR
+leaftj01,2.03 ,2017,Indiana Pacers,IND
+ledori01,0.82 ,2014,Dallas Mavericks,DAL
+ledori01,0.10 ,2014,New York Knicks,NYK
+leeco01,1.26 ,2009,Brooklyn Nets,BKN
+leeco01,1.41 ,2010,Houston Rockets,HOU
+leeco01,2.23 ,2011,Houston Rockets,HOU
+leeco01,5.00 ,2012,Boston Celtics,BOS
+leeco01,5.23 ,2013,Memphis Grizzlies,MEM
+leeco01,5.45 ,2014,Memphis Grizzlies,MEM
+leeco01,5.68 ,2015,Charlotte Hornets,CHA
+leeco01,11.24 ,2016,New York Knicks,NYK
+leeco01,11.75 ,2017,New York Knicks,NYK
+leeda03,0.05 ,2016,Boston Celtics,BOS
+leeda03,0.14 ,2017,Atlanta Hawks,ATL
+leeda02,7.00 ,2009,New York Knicks,NYK
+leeda02,10.80 ,2010,Golden State Warriors,GSW
+leeda02,11.61 ,2011,Golden State Warriors,GSW
+leeda02,12.74 ,2012,Golden State Warriors,GSW
+leeda02,13.88 ,2013,Golden State Warriors,GSW
+leeda02,15.01 ,2014,Golden State Warriors,GSW
+leeda02,15.49 ,2015,Boston Celtics,BOS
+leeda02,2.10 ,2015,Dallas Mavericks,DAL
+leeda02,1.55 ,2016,San Antonio Spurs,SAN
+leema01,0.50 ,2011,Minnesota Timberwolves,MIN
+leema01,0.76 ,2012,Minnesota Timberwolves,MIN
+leema01,0.88 ,2013,Phoenix Suns,PHX
+lemonwa01,0.09 ,2017,New Orleans Pelicans,NOP
+lenal01,3.49 ,2013,Phoenix Suns,PHX
+lenal01,3.65 ,2014,Phoenix Suns,PHX
+lenal01,3.81 ,2015,Phoenix Suns,PHX
+lenal01,4.82 ,2016,Phoenix Suns,PHX
+lenal01,4.19 ,2017,Phoenix Suns,PHX
+leonaka01,1.73 ,2011,San Antonio Spurs,SAN
+leonaka01,1.86 ,2012,San Antonio Spurs,SAN
+leonaka01,1.89 ,2013,San Antonio Spurs,SAN
+leonaka01,2.89 ,2014,San Antonio Spurs,SAN
+leonaka01,16.50 ,2015,San Antonio Spurs,SAN
+leonaka01,17.64 ,2016,San Antonio Spurs,SAN
+leonaka01,18.87 ,2017,San Antonio Spurs,SAN
+leoname01,2.13 ,2012,Portland Trail Blazers,POR
+leoname01,2.22 ,2013,Portland Trail Blazers,POR
+leoname01,2.32 ,2014,Portland Trail Blazers,POR
+leoname01,3.08 ,2015,Portland Trail Blazers,POR
+leoname01,9.21 ,2016,Portland Trail Blazers,POR
+leoname01,9.90 ,2017,Portland Trail Blazers,POR
+leslitr01,0.47 ,2011,Los Angeles Clippers,LAC
+leslitr01,0.25 ,2012,Los Angeles Clippers,LAC
+leuerjo01,0.47 ,2011,Milwaukee Bucks,MIL
+leuerjo01,0.76 ,2012,Memphis Grizzlies,MEM
+leuerjo01,0.97 ,2014,Memphis Grizzlies,MEM
+leuerjo01,1.04 ,2015,Phoenix Suns,PHX
+leuerjo01,10.99 ,2016,Detroit Pistons,DET
+leuerjo01,10.50 ,2017,Detroit Pistons,DET
+leverca01,1.56 ,2016,Brooklyn Nets,BKN
+leverca01,1.63 ,2017,Brooklyn Nets,BKN
+lewisra02,18.88 ,2009,Orlando Magic,ORL
+lewisra02,19.57 ,2010,Washington Wizards,WAS
+lewisra02,21.14 ,2011,Washington Wizards,WAS
+lewisra02,13.70 ,2012,New Orleans Hornets,NOP
+lewisra02,1.35 ,2012,Miami Heat,MIA
+lewisra02,1.40 ,2013,Miami Heat,MIA
+liggide01,0.47 ,2011,Orlando Magic,ORL
+liggide01,0.76 ,2012,Oklahoma City Thunder,OKC
+liggide01,1.02 ,2016,Dallas Mavericks,DAL
+liggide01,0.76 ,2017,Milwaukee Bucks,MIL
+liggide01,0.75 ,2017,New Orleans Pelicans,NOP
+liggide01,0.03 ,2017,Atlanta Hawks,ATL
+lillada01,3.07 ,2012,Portland Trail Blazers,POR
+lillada01,3.20 ,2013,Portland Trail Blazers,POR
+lillada01,3.34 ,2014,Portland Trail Blazers,POR
+lillada01,4.24 ,2015,Portland Trail Blazers,POR
+lillada01,24.33 ,2016,Portland Trail Blazers,POR
+lillada01,26.15 ,2017,Portland Trail Blazers,POR
+linje01,0.47 ,2010,Golden State Warriors,GSW
+linje01,0.76 ,2011,New York Knicks,NYK
+linje01,8.37 ,2012,Houston Rockets,HOU
+linje01,8.37 ,2013,Houston Rockets,HOU
+linje01,8.37 ,2014,Los Angeles Lakers,LAL
+linje01,2.10 ,2015,Charlotte Hornets,CHA
+linje01,11.48 ,2016,Brooklyn Nets,BKN
+linje01,12.00 ,2017,Brooklyn Nets,BKN
+livinsh01,0.30 ,2009,Oklahoma City Thunder,OKC
+livinsh01,3.50 ,2010,Charlotte Hornets,CHA
+livinsh01,3.50 ,2011,Milwaukee Bucks,MIL
+livinsh01,1.00 ,2012,Houston Rockets,HOU
+livinsh01,0.77 ,2012,Cleveland Cavaliers,CLE
+livinsh01,0.26 ,2012,Washington Wizards,WAS
+livinsh01,1.27 ,2013,Brooklyn Nets,BKN
+livinsh01,5.31 ,2014,Golden State Warriors,GSW
+livinsh01,5.54 ,2015,Golden State Warriors,GSW
+livinsh01,5.78 ,2016,Golden State Warriors,GSW
+livinsh01,7.69 ,2017,Golden State Warriors,GSW
+longsh01,0.10 ,2016,Philadelphia 76ers,PHI
+looneke01,1.13 ,2015,Golden State Warriors,GSW
+looneke01,1.18 ,2016,Golden State Warriors,GSW
+looneke01,1.47 ,2017,Golden State Warriors,GSW
+lopezbr01,2.23 ,2009,Brooklyn Nets,BKN
+lopezbr01,2.41 ,2010,Brooklyn Nets,BKN
+lopezbr01,3.08 ,2011,Brooklyn Nets,BKN
+lopezbr01,13.67 ,2012,Brooklyn Nets,BKN
+lopezbr01,14.69 ,2013,Brooklyn Nets,BKN
+lopezbr01,15.72 ,2014,Brooklyn Nets,BKN
+lopezbr01,20.00 ,2015,Brooklyn Nets,BKN
+lopezbr01,21.17 ,2016,Brooklyn Nets,BKN
+lopezbr01,22.64 ,2017,Los Angeles Lakers,LAL
+lopezro01,1.75 ,2009,Phoenix Suns,PHX
+lopezro01,1.87 ,2010,Phoenix Suns,PHX
+lopezro01,2.86 ,2011,Phoenix Suns,PHX
+lopezro01,4.90 ,2012,New Orleans Hornets,NOP
+lopezro01,5.90 ,2013,Portland Trail Blazers,POR
+lopezro01,6.12 ,2014,Portland Trail Blazers,POR
+lopezro01,13.00 ,2015,New York Knicks,NYK
+lopezro01,13.22 ,2016,Chicago Bulls,CHI
+lopezro01,13.79 ,2017,Chicago Bulls,CHI
+loveke01,3.40 ,2009,Minnesota Timberwolves,MIN
+loveke01,3.64 ,2010,Minnesota Timberwolves,MIN
+loveke01,4.61 ,2011,Minnesota Timberwolves,MIN
+loveke01,13.67 ,2012,Minnesota Timberwolves,MIN
+loveke01,14.69 ,2013,Minnesota Timberwolves,MIN
+loveke01,15.72 ,2014,Cleveland Cavaliers,CLE
+loveke01,19.50 ,2015,Cleveland Cavaliers,CLE
+loveke01,21.17 ,2016,Cleveland Cavaliers,CLE
+loveke01,22.64 ,2017,Cleveland Cavaliers,CLE
+lowryky01,2.03 ,2009,Houston Rockets,HOU
+lowryky01,5.75 ,2010,Houston Rockets,HOU
+lowryky01,5.75 ,2011,Houston Rockets,HOU
+lowryky01,5.75 ,2012,Toronto Raptors,TOR
+lowryky01,6.21 ,2013,Toronto Raptors,TOR
+lowryky01,12.00 ,2014,Toronto Raptors,TOR
+lowryky01,12.00 ,2015,Toronto Raptors,TOR
+lowryky01,12.00 ,2016,Toronto Raptors,TOR
+lowryky01,28.70 ,2017,Toronto Raptors,TOR
+lucasjo02,0.21 ,2010,Chicago Bulls,CHI
+lucasjo02,0.92 ,2011,Chicago Bulls,CHI
+lucasjo02,1.50 ,2012,Toronto Raptors,TOR
+lucasjo02,1.60 ,2013,Utah Jazz,UTA
+lucasjo02,0.12 ,2014,Detroit Pistons,DET
+lucasjo02,0.64 ,2016,Minnesota Timberwolves,MIN
+luwawti01,1.33 ,2016,Philadelphia 76ers,PHI
+luwawti01,1.39 ,2017,Philadelphia 76ers,PHI
+lydonty01,1.58 ,2017,Denver Nuggets,DEN
+lylestr01,2.24 ,2015,Utah Jazz,UTA
+lylestr01,2.34 ,2016,Utah Jazz,UTA
+lylestr01,2.44 ,2017,Denver Nuggets,DEN
+mcclesh01,0.54 ,2016,Washington Wizards,WAS
+mcclesh01,1.31 ,2017,Atlanta Hawks,ATL
+machasc01,0.19 ,2012,Houston Rockets,HOU
+macksh01,0.47 ,2011,Washington Wizards,WAS
+macksh01,0.09 ,2012,Philadelphia 76ers,PHI
+macksh01,0.07 ,2012,Washington Wizards,WAS
+macksh01,0.88 ,2013,Atlanta Hawks,ATL
+macksh01,2.43 ,2014,Atlanta Hawks,ATL
+macksh01,2.43 ,2015,Utah Jazz,UTA
+macksh01,2.43 ,2016,Utah Jazz,UTA
+macksh01,6.00 ,2017,Orlando Magic,ORL
+macklve01,0.47 ,2011,Detroit Pistons,DET
+madsema01,2.84 ,2009,Los Angeles Clippers,LAC
+maggeco01,8.94 ,2009,Golden State Warriors,GSW
+maggeco01,9.60 ,2010,Milwaukee Bucks,MIL
+maggeco01,10.26 ,2011,Charlotte Hornets,CHA
+maggeco01,10.92 ,2012,Detroit Pistons,DET
+magloja01,1.23 ,2009,Miami Heat,MIA
+magloja01,1.23 ,2010,Miami Heat,MIA
+magloja01,1.35 ,2011,Toronto Raptors,TOR
+mahinia01,1.08 ,2009,San Antonio Spurs,SAN
+mahinia01,0.76 ,2010,Dallas Mavericks,DAL
+mahinia01,4.00 ,2012,Indiana Pacers,IND
+mahinia01,4.00 ,2013,Indiana Pacers,IND
+mahinia01,4.00 ,2014,Indiana Pacers,IND
+mahinia01,4.00 ,2015,Indiana Pacers,IND
+mahinia01,15.94 ,2016,Washington Wizards,WAS
+mahinia01,16.66 ,2017,Washington Wizards,WAS
+makerth01,2.57 ,2016,Milwaukee Bucks,MIL
+makerth01,2.68 ,2017,Milwaukee Bucks,MIL
+marblde01,0.88 ,2014,Orlando Magic,ORL
+marblde01,0.85 ,2015,Orlando Magic,ORL
+mariosh01,6.64 ,2009,Dallas Mavericks,DAL
+mariosh01,7.31 ,2010,Dallas Mavericks,DAL
+mariosh01,8.02 ,2011,Dallas Mavericks,DAL
+mariosh01,8.65 ,2012,Dallas Mavericks,DAL
+mariosh01,9.32 ,2013,Dallas Mavericks,DAL
+mariosh01,1.45 ,2014,Cleveland Cavaliers,CLE
+marjabo01,1.20 ,2015,San Antonio Spurs,SAN
+marjabo01,7.00 ,2016,Detroit Pistons,DET
+marjabo01,7.00 ,2017,Los Angeles Clippers,LAC
+markkla01,3.82 ,2017,Chicago Bulls,CHI
+marksse01,1.19 ,2009,New Orleans Hornets,NOP
+marksse01,1.26 ,2010,Charlotte Hornets,CHA
+marshke01,1.92 ,2012,Phoenix Suns,PHX
+marshke01,2.01 ,2013,Phoenix Suns,PHX
+marshke01,0.92 ,2014,Phoenix Suns,PHX
+marshke01,2.14 ,2015,Philadelphia 76ers,PHI
+martica01,0.09 ,2009,Golden State Warriors,GSW
+martica01,0.85 ,2010,Washington Wizards,WAS
+martica01,0.92 ,2012,Washington Wizards,WAS
+martica01,1.15 ,2014,Detroit Pistons,DET
+martica01,1.27 ,2015,Detroit Pistons,DET
+martija01,1.23 ,2015,Memphis Grizzlies,MEM
+martija01,1.29 ,2016,Memphis Grizzlies,MEM
+martija01,1.47 ,2017,Memphis Grizzlies,MEM
+martike01,15.36 ,2009,Denver Nuggets,DEN
+martike01,16.55 ,2010,Denver Nuggets,DEN
+martike01,2.50 ,2011,Los Angeles Clippers,LAC
+martike01,0.44 ,2012,New York Knicks,NYK
+martike01,1.40 ,2013,New York Knicks,NYK
+martike01,0.41 ,2014,Milwaukee Bucks,MIL
+martike02,10.18 ,2009,Houston Rockets,HOU
+martike02,11.10 ,2010,Houston Rockets,HOU
+martike02,11.52 ,2011,Houston Rockets,HOU
+martike02,12.44 ,2012,Oklahoma City Thunder,OKC
+martike02,6.50 ,2013,Minnesota Timberwolves,MIN
+martike02,6.79 ,2014,Minnesota Timberwolves,MIN
+martike02,7.09 ,2015,Minnesota Timberwolves,MIN
+martike02,0.32 ,2015,San Antonio Spurs,SAN
+martike02,1.36 ,2016,Minnesota Timberwolves,MIN
+martike02,1.36 ,2017,Minnesota Timberwolves,MIN
+masonde01,0.08 ,2009,Sacramento Kings,SAC
+masonfr01,1.18 ,2017,Sacramento Kings,SAC
+masonro01,3.78 ,2009,San Antonio Spurs,SAN
+masonro01,1.40 ,2010,New York Knicks,NYK
+masonro01,1.15 ,2011,Washington Wizards,WAS
+masonro01,1.22 ,2012,New Orleans Hornets,NOP
+matthwe02,0.46 ,2009,Utah Jazz,UTA
+matthwe02,5.77 ,2010,Portland Trail Blazers,POR
+matthwe02,6.14 ,2011,Portland Trail Blazers,POR
+matthwe02,6.51 ,2012,Portland Trail Blazers,POR
+matthwe02,6.88 ,2013,Portland Trail Blazers,POR
+matthwe02,7.25 ,2014,Portland Trail Blazers,POR
+matthwe02,16.40 ,2015,Dallas Mavericks,DAL
+matthwe02,17.10 ,2016,Dallas Mavericks,DAL
+matthwe02,17.88 ,2017,Dallas Mavericks,DAL
+maxieja01,5.00 ,2009,Detroit Pistons,DET
+maxieja01,5.00 ,2010,Detroit Pistons,DET
+maxieja01,5.00 ,2011,Detroit Pistons,DET
+maxieja01,5.00 ,2012,Detroit Pistons,DET
+maxieja01,2.50 ,2013,Orlando Magic,ORL
+maxieja01,1.32 ,2014,Charlotte Hornets,CHA
+mayse01,0.88 ,2009,Sacramento Kings,SAC
+maynoer01,1.32 ,2009,Oklahoma City Thunder,OKC
+maynoer01,1.42 ,2010,Oklahoma City Thunder,OKC
+maynoer01,1.52 ,2011,Oklahoma City Thunder,OKC
+maynoer01,2.34 ,2012,Portland Trail Blazers,POR
+maynoer01,2.02 ,2013,Washington Wizards,WAS
+maynoer01,2.11 ,2014,Philadelphia 76ers,PHI
+mayooj01,4.17 ,2009,Memphis Grizzlies,MEM
+mayooj01,4.46 ,2010,Memphis Grizzlies,MEM
+mayooj01,5.63 ,2011,Memphis Grizzlies,MEM
+mayooj01,4.02 ,2012,Dallas Mavericks,DAL
+mayooj01,8.00 ,2013,Milwaukee Bucks,MIL
+mayooj01,8.00 ,2014,Milwaukee Bucks,MIL
+mayooj01,8.00 ,2015,Milwaukee Bucks,MIL
+mbahalu01,0.74 ,2009,Milwaukee Bucks,MIL
+mbahalu01,0.85 ,2010,Milwaukee Bucks,MIL
+mbahalu01,5.00 ,2011,Milwaukee Bucks,MIL
+mbahalu01,4.80 ,2012,Milwaukee Bucks,MIL
+mbahalu01,4.59 ,2013,Sacramento Kings,SAC
+mbahalu01,4.38 ,2014,Philadelphia 76ers,PHI
+mbahalu01,1.27 ,2015,Los Angeles Clippers,LAC
+mbahalu01,2.20 ,2016,Los Angeles Clippers,LAC
+mbahalu01,1.47 ,2017,Houston Rockets,HOU
+mccalra01,0.82 ,2014,Sacramento Kings,SAC
+mccalra01,0.95 ,2015,San Antonio Spurs,SAN
+mccalra01,0.11 ,2015,Memphis Grizzlies,MEM
+mccalra01,0.12 ,2016,Charlotte Hornets,CHA
+mccalra01,0.01 ,2016,Detroit Pistons,DET
+mccawpa01,0.54 ,2016,Golden State Warriors,GSW
+mccawpa01,1.31 ,2017,Golden State Warriors,GSW
+mccolcj01,2.32 ,2013,Portland Trail Blazers,POR
+mccolcj01,2.42 ,2014,Portland Trail Blazers,POR
+mccolcj01,2.53 ,2015,Portland Trail Blazers,POR
+mccolcj01,3.22 ,2016,Portland Trail Blazers,POR
+mccolcj01,23.96 ,2017,Portland Trail Blazers,POR
+mccontj01,0.53 ,2015,Philadelphia 76ers,PHI
+mccontj01,0.87 ,2016,Philadelphia 76ers,PHI
+mccontj01,1.47 ,2017,Philadelphia 76ers,PHI
+mcculch01,1.14 ,2015,Brooklyn Nets,BKN
+mcculch01,1.19 ,2016,Washington Wizards,WAS
+mcculch01,1.47 ,2017,Washington Wizards,WAS
+mcdankj01,0.51 ,2014,Houston Rockets,HOU
+mcdankj01,3.33 ,2015,Houston Rockets,HOU
+mcdankj01,3.33 ,2016,Brooklyn Nets,BKN
+mcdankj01,0.10 ,2017,Toronto Raptors,TOR
+mcderdo01,2.28 ,2014,Chicago Bulls,CHI
+mcderdo01,2.38 ,2015,Chicago Bulls,CHI
+mcderdo01,2.48 ,2016,Oklahoma City Thunder,OKC
+mcderdo01,3.29 ,2017,Dallas Mavericks,DAL
+mcdyean01,4.50 ,2009,San Antonio Spurs,SAN
+mcdyean01,3.00 ,2009,Denver Nuggets,DEN
+mcdyean01,4.86 ,2010,San Antonio Spurs,SAN
+mcdyean01,2.64 ,2011,San Antonio Spurs,SAN
+mcgarmi01,1.40 ,2014,Oklahoma City Thunder,OKC
+mcgarmi01,1.46 ,2015,Oklahoma City Thunder,OKC
+mcgarmi01,1.53 ,2016,Oklahoma City Thunder,OKC
+mcgeeja01,1.50 ,2009,Washington Wizards,WAS
+mcgeeja01,1.60 ,2010,Washington Wizards,WAS
+mcgeeja01,2.46 ,2011,Washington Wizards,WAS
+mcgeeja01,10.00 ,2012,Denver Nuggets,DEN
+mcgeeja01,10.75 ,2013,Denver Nuggets,DEN
+mcgeeja01,11.25 ,2014,Philadelphia 76ers,PHI
+mcgeeja01,12.00 ,2015,Philadelphia 76ers,PHI
+mcgeeja01,1.27 ,2015,Dallas Mavericks,DAL
+mcgeeja01,1.40 ,2016,Golden State Warriors,GSW
+mcgeeja01,1.47 ,2017,Golden State Warriors,GSW
+mcgratr01,23.24 ,2009,New York Knicks,NYK
+mcgratr01,1.35 ,2010,Detroit Pistons,DET
+mcgratr01,1.35 ,2011,Atlanta Hawks,ATL
+mcgruro01,0.54 ,2016,Miami Heat,MIA
+mcgruro01,1.31 ,2017,Miami Heat,MIA
+mcguido01,0.83 ,2009,Sacramento Kings,SAC
+mcguido01,0.88 ,2010,Charlotte Hornets,CHA
+mcguido01,0.92 ,2011,Golden State Warriors,GSW
+mcguido01,0.18 ,2012,Toronto Raptors,TOR
+mcguido01,0.12 ,2012,Indiana Pacers,IND
+mcguido01,0.11 ,2012,New Orleans Hornets,NOP
+mckintr01,0.05 ,2017,Indiana Pacers,IND
+mckinal01,0.82 ,2017,Toronto Raptors,TOR
+mclembe01,2.90 ,2013,Sacramento Kings,SAC
+mclembe01,3.03 ,2014,Sacramento Kings,SAC
+mclembe01,3.16 ,2015,Sacramento Kings,SAC
+mclembe01,4.01 ,2016,Sacramento Kings,SAC
+mclembe01,5.20 ,2017,Memphis Grizzlies,MEM
+mcneaje01,0.03 ,2014,Phoenix Suns,PHX
+mcraejo01,0.17 ,2015,Cleveland Cavaliers,CLE
+mcraejo01,0.06 ,2015,Phoenix Suns,PHX
+mcraejo01,0.87 ,2016,Cleveland Cavaliers,CLE
+mcrobjo01,0.83 ,2009,Indiana Pacers,IND
+mcrobjo01,0.89 ,2010,Indiana Pacers,IND
+mcrobjo01,3.00 ,2011,Los Angeles Lakers,LAL
+mcrobjo01,3.14 ,2012,Charlotte Hornets,CHA
+mcrobjo01,2.65 ,2013,Charlotte Hornets,CHA
+mcrobjo01,5.31 ,2014,Miami Heat,MIA
+mcrobjo01,5.54 ,2015,Miami Heat,MIA
+mcrobjo01,5.78 ,2016,Miami Heat,MIA
+mcrobjo01,6.02 ,2017,Dallas Mavericks,DAL
+meeksjo01,0.65 ,2009,Philadelphia 76ers,PHI
+meeksjo01,0.76 ,2010,Philadelphia 76ers,PHI
+meeksjo01,0.85 ,2011,Philadelphia 76ers,PHI
+meeksjo01,1.50 ,2012,Los Angeles Lakers,LAL
+meeksjo01,1.55 ,2013,Los Angeles Lakers,LAL
+meeksjo01,6.00 ,2014,Detroit Pistons,DET
+meeksjo01,6.27 ,2015,Detroit Pistons,DET
+meeksjo01,6.54 ,2016,Orlando Magic,ORL
+meeksjo01,3.29 ,2017,Washington Wizards,WAS
+mejrisa01,0.53 ,2015,Dallas Mavericks,DAL
+mejrisa01,0.87 ,2016,Dallas Mavericks,DAL
+mejrisa01,1.47 ,2017,Dallas Mavericks,DAL
+mekelga01,0.82 ,2014,Dallas Mavericks,DAL
+mekelga01,0.63 ,2014,New Orleans Pelicans,NOP
+mekelga01,0.32 ,2015,Dallas Mavericks,DAL
+mekelga01,0.32 ,2016,Dallas Mavericks,DAL
+mekelga01,0.32 ,2017,Dallas Mavericks,DAL
+melofa01,1.25 ,2012,Boston Celtics,BOS
+melofa01,1.31 ,2013,Memphis Grizzlies,MEM
+melofa01,0.79 ,2013,Dallas Mavericks,DAL
+melofa01,0.44 ,2014,Memphis Grizzlies,MEM
+mensapo01,0.24 ,2009,Toronto Raptors,TOR
+mensapo01,0.09 ,2009,Houston Rockets,HOU
+mensapo01,0.36 ,2010,New Orleans Hornets,NOP
+mickejo01,1.20 ,2015,Boston Celtics,BOS
+mickejo01,1.22 ,2016,Boston Celtics,BOS
+mickejo01,1.47 ,2017,Miami Heat,MIA
+middlkh01,0.47 ,2012,Detroit Pistons,DET
+middlkh01,0.79 ,2013,Milwaukee Bucks,MIL
+middlkh01,0.92 ,2014,Milwaukee Bucks,MIL
+middlkh01,15.00 ,2015,Milwaukee Bucks,MIL
+middlkh01,15.20 ,2016,Milwaukee Bucks,MIL
+middlkh01,14.10 ,2017,Milwaukee Bucks,MIL
+milescj01,3.70 ,2009,Utah Jazz,UTA
+milescj01,3.70 ,2010,Utah Jazz,UTA
+milescj01,3.70 ,2011,Utah Jazz,UTA
+milescj01,2.23 ,2012,Cleveland Cavaliers,CLE
+milescj01,2.23 ,2013,Cleveland Cavaliers,CLE
+milescj01,4.21 ,2014,Indiana Pacers,IND
+milescj01,4.39 ,2015,Indiana Pacers,IND
+milescj01,4.58 ,2016,Indiana Pacers,IND
+milescj01,7.94 ,2017,Toronto Raptors,TOR
+milesda01,9.00 ,2009,Portland Trail Blazers,POR
+milicda01,7.50 ,2009,Minnesota Timberwolves,MIN
+milicda01,4.33 ,2010,Minnesota Timberwolves,MIN
+milicda01,4.78 ,2011,Minnesota Timberwolves,MIN
+milicda01,5.23 ,2012,Minnesota Timberwolves,MIN
+milicda01,0.16 ,2012,Boston Celtics,BOS
+millean02,6.73 ,2009,Portland Trail Blazers,POR
+millean02,7.27 ,2010,Portland Trail Blazers,POR
+millean02,7.81 ,2011,Denver Nuggets,DEN
+millean02,5.00 ,2012,Denver Nuggets,DEN
+millean02,5.00 ,2013,Denver Nuggets,DEN
+millean02,4.63 ,2014,Sacramento Kings,SAC
+millean02,1.50 ,2015,Minnesota Timberwolves,MIN
+millean02,0.40 ,2015,San Antonio Spurs,SAN
+millebr01,12.25 ,2009,Chicago Bulls,CHI
+millebr01,4.40 ,2010,Houston Rockets,HOU
+millebr01,4.75 ,2011,Minnesota Timberwolves,MIN
+millebr01,0.85 ,2012,Phoenix Suns,PHX
+milleda01,0.47 ,2012,New Orleans Hornets,NOP
+milleda01,0.79 ,2013,New Orleans Pelicans,NOP
+milleda01,0.40 ,2014,New Orleans Pelicans,NOP
+milleda01,2.10 ,2017,New Orleans Pelicans,NOP
+millemi01,9.75 ,2009,Washington Wizards,WAS
+millemi01,5.00 ,2010,Miami Heat,MIA
+millemi01,5.40 ,2011,Miami Heat,MIA
+millemi01,5.80 ,2012,Miami Heat,MIA
+millemi01,1.40 ,2013,Memphis Grizzlies,MEM
+millemi01,6.60 ,2014,Miami Heat,MIA
+millemi01,2.73 ,2014,Cleveland Cavaliers,CLE
+millemi01,2.85 ,2015,Portland Trail Blazers,POR
+millemi01,1.50 ,2015,Denver Nuggets,DEN
+millemi01,3.50 ,2016,Denver Nuggets,DEN
+millequ01,0.47 ,2012,Denver Nuggets,DEN
+millequ01,0.79 ,2013,Denver Nuggets,DEN
+millequ01,0.15 ,2014,Denver Nuggets,DEN
+millequ01,0.11 ,2014,Sacramento Kings,SAC
+millequ01,0.11 ,2014,Detroit Pistons,DET
+millequ01,0.05 ,2015,Brooklyn Nets,BKN
+millspa02,0.46 ,2009,Portland Trail Blazers,POR
+millspa02,0.94 ,2010,Portland Trail Blazers,POR
+millspa02,1.09 ,2012,San Antonio Spurs,SAN
+millspa02,1.13 ,2013,San Antonio Spurs,SAN
+millspa02,3.84 ,2014,San Antonio Spurs,SAN
+millspa02,3.58 ,2015,San Antonio Spurs,SAN
+millspa02,3.58 ,2016,San Antonio Spurs,SAN
+millspa02,10.71 ,2017,San Antonio Spurs,SAN
+millsel01,0.24 ,2014,Utah Jazz,UTA
+millsel01,0.36 ,2015,Utah Jazz,UTA
+millsel01,0.02 ,2016,Phoenix Suns,PHX
+millspa01,7.69 ,2009,Utah Jazz,UTA
+millspa01,7.60 ,2010,Utah Jazz,UTA
+millspa01,8.10 ,2011,Utah Jazz,UTA
+millspa01,8.60 ,2012,Utah Jazz,UTA
+millspa01,9.50 ,2013,Atlanta Hawks,ATL
+millspa01,9.50 ,2014,Atlanta Hawks,ATL
+millspa01,19.00 ,2015,Atlanta Hawks,ATL
+millspa01,20.07 ,2016,Atlanta Hawks,ATL
+millspa01,31.27 ,2017,Denver Nuggets,DEN
+mingya01,16.38 ,2009,Houston Rockets,HOU
+mingya01,17.69 ,2010,Houston Rockets,HOU
+mirotni01,5.31 ,2014,Chicago Bulls,CHI
+mirotni01,5.54 ,2015,Chicago Bulls,CHI
+mirotni01,5.78 ,2016,Chicago Bulls,CHI
+mirotni01,12.50 ,2017,New Orleans Pelicans,NOP
+mitchdo01,2.62 ,2017,Utah Jazz,UTA
+mitchto02,0.82 ,2014,Phoenix Suns,PHX
+moblecu01,9.50 ,2009,New York Knicks,NYK
+mohamna01,6.47 ,2009,Charlotte Hornets,CHA
+mohamna01,6.88 ,2010,Oklahoma City Thunder,OKC
+mohamna01,3.75 ,2011,Oklahoma City Thunder,OKC
+mohamna01,1.35 ,2012,Chicago Bulls,CHI
+mohamna01,1.40 ,2013,Chicago Bulls,CHI
+mohamna01,1.45 ,2014,Chicago Bulls,CHI
+mohamna01,0.35 ,2015,Oklahoma City Thunder,OKC
+monkma01,2.90 ,2017,Charlotte Hornets,CHA
+monrogr01,2.80 ,2010,Detroit Pistons,DET
+monrogr01,3.01 ,2011,Detroit Pistons,DET
+monrogr01,3.22 ,2012,Detroit Pistons,DET
+monrogr01,4.09 ,2013,Detroit Pistons,DET
+monrogr01,5.48 ,2014,Detroit Pistons,DET
+monrogr01,16.40 ,2015,Milwaukee Bucks,MIL
+monrogr01,17.10 ,2016,Milwaukee Bucks,MIL
+monrogr01,16.38 ,2017,Phoenix Suns,PHX
+monrogr01,5.00 ,2017,Boston Celtics,BOS
+moonja01,2.75 ,2009,Cleveland Cavaliers,CLE
+moonja01,3.00 ,2010,Los Angeles Clippers,LAC
+mooreet01,0.47 ,2011,Boston Celtics,BOS
+mooreet01,0.76 ,2012,Orlando Magic,ORL
+mooreet01,0.88 ,2013,Orlando Magic,ORL
+mooreet01,0.95 ,2014,Chicago Bulls,CHI
+mooreet01,1.02 ,2015,Chicago Bulls,CHI
+mooreet01,8.08 ,2016,New Orleans Pelicans,NOP
+mooreet01,8.45 ,2017,New Orleans Pelicans,NOP
+mooremi01,2.00 ,2009,Sacramento Kings,SAC
+mooremi01,0.54 ,2009,Golden State Warriors,GSW
+moreler01,0.51 ,2014,Sacramento Kings,SAC
+moreler01,0.85 ,2015,Sacramento Kings,SAC
+moreler01,1.74 ,2017,Detroit Pistons,DET
+morrida01,0.47 ,2011,Los Angeles Lakers,LAL
+morrida01,0.96 ,2012,Los Angeles Lakers,LAL
+morrida01,1.05 ,2013,Philadelphia 76ers,PHI
+morrida01,0.70 ,2014,Brooklyn Nets,BKN
+morrija01,0.19 ,2017,Atlanta Hawks,ATL
+morrima03,1.82 ,2011,Houston Rockets,HOU
+morrima03,1.96 ,2012,Phoenix Suns,PHX
+morrima03,1.99 ,2013,Phoenix Suns,PHX
+morrima03,2.94 ,2014,Phoenix Suns,PHX
+morrima03,5.00 ,2015,Detroit Pistons,DET
+morrima03,4.63 ,2016,Detroit Pistons,DET
+morrima03,5.00 ,2017,Boston Celtics,BOS
+morrima02,1.92 ,2011,Phoenix Suns,PHX
+morrima02,2.06 ,2012,Phoenix Suns,PHX
+morrima02,2.09 ,2013,Phoenix Suns,PHX
+morrima02,2.99 ,2014,Phoenix Suns,PHX
+morrima02,8.00 ,2015,Washington Wizards,WAS
+morrima02,7.40 ,2016,Washington Wizards,WAS
+morrima02,8.00 ,2017,Washington Wizards,WAS
+morrira01,0.86 ,2009,Atlanta Hawks,ATL
+morriad01,5.26 ,2009,Los Angeles Lakers,LAL
+morroan01,0.74 ,2009,Golden State Warriors,GSW
+morroan01,4.00 ,2010,Brooklyn Nets,BKN
+morroan01,4.00 ,2011,Brooklyn Nets,BKN
+morroan01,4.00 ,2012,Dallas Mavericks,DAL
+morroan01,1.03 ,2013,New Orleans Pelicans,NOP
+morroan01,3.20 ,2014,Oklahoma City Thunder,OKC
+morroan01,3.34 ,2015,Oklahoma City Thunder,OKC
+morroan01,3.49 ,2016,Chicago Bulls,CHI
+motiedo01,1.45 ,2012,Houston Rockets,HOU
+motiedo01,1.42 ,2013,Houston Rockets,HOU
+motiedo01,1.48 ,2014,Houston Rockets,HOU
+motiedo01,2.29 ,2015,Houston Rockets,HOU
+motiedo01,0.58 ,2016,New Orleans Pelicans,NOP
+moultar01,1.04 ,2012,Philadelphia 76ers,PHI
+moultar01,1.09 ,2013,Philadelphia 76ers,PHI
+moultar01,1.14 ,2014,New York Knicks,NYK
+mozgoti01,3.57 ,2010,Denver Nuggets,DEN
+mozgoti01,3.34 ,2011,Denver Nuggets,DEN
+mozgoti01,3.14 ,2012,Denver Nuggets,DEN
+mozgoti01,4.40 ,2013,Denver Nuggets,DEN
+mozgoti01,4.65 ,2014,Cleveland Cavaliers,CLE
+mozgoti01,4.95 ,2015,Cleveland Cavaliers,CLE
+mozgoti01,16.00 ,2016,Los Angeles Lakers,LAL
+mozgoti01,15.28 ,2017,Brooklyn Nets,BKN
+mudiaem01,3.10 ,2015,Denver Nuggets,DEN
+mudiaem01,3.24 ,2016,Denver Nuggets,DEN
+mudiaem01,3.38 ,2017,New York Knicks,NYK
+muhamsh01,1.89 ,2013,Minnesota Timberwolves,MIN
+muhamsh01,1.97 ,2014,Minnesota Timberwolves,MIN
+muhamsh01,2.06 ,2015,Minnesota Timberwolves,MIN
+muhamsh01,3.05 ,2016,Minnesota Timberwolves,MIN
+muhamsh01,1.24 ,2017,Minnesota Timberwolves,MIN
+muhamsh01,0.32 ,2017,Milwaukee Bucks,MIL
+mulleby01,1.12 ,2009,Oklahoma City Thunder,OKC
+mulleby01,1.20 ,2010,Oklahoma City Thunder,OKC
+mulleby01,1.29 ,2011,Charlotte Hornets,CHA
+mulleby01,2.25 ,2012,Charlotte Hornets,CHA
+mulleby01,0.95 ,2013,Los Angeles Clippers,LAC
+murpher01,0.10 ,2014,Boston Celtics,BOS
+murphke01,0.47 ,2012,Utah Jazz,UTA
+murphke01,0.07 ,2014,Utah Jazz,UTA
+murphtr01,11.05 ,2009,Indiana Pacers,IND
+murphtr01,11.97 ,2010,Golden State Warriors,GSW
+murphtr01,1.35 ,2011,Los Angeles Lakers,LAL
+murphtr01,0.21 ,2012,Dallas Mavericks,DAL
+murrade01,1.18 ,2016,San Antonio Spurs,SAN
+murrade01,1.31 ,2017,San Antonio Spurs,SAN
+murraja01,3.21 ,2016,Denver Nuggets,DEN
+murraja01,3.36 ,2017,Denver Nuggets,DEN
+murraro01,1.99 ,2009,Chicago Bulls,CHI
+murryto01,0.25 ,2014,Utah Jazz,UTA
+murryto01,0.10 ,2014,Washington Wizards,WAS
+muscami01,0.82 ,2014,Atlanta Hawks,ATL
+muscami01,0.95 ,2015,Atlanta Hawks,ATL
+muscami01,1.02 ,2016,Atlanta Hawks,ATL
+muscami01,5.00 ,2017,Atlanta Hawks,ATL
+ndiayha01,0.47 ,2010,Washington Wizards,WAS
+ndiayha01,0.27 ,2011,Washington Wizards,WAS
+naderab01,1.17 ,2017,Boston Celtics,BOS
+najered01,3.10 ,2009,Dallas Mavericks,DAL
+najered01,3.00 ,2010,Charlotte Hornets,CHA
+najered01,2.75 ,2011,Charlotte Hornets,CHA
+nancela02,1.16 ,2015,Los Angeles Lakers,LAL
+nancela02,1.21 ,2016,Los Angeles Lakers,LAL
+nancela02,1.47 ,2017,Cleveland Cavaliers,CLE
+napiesh01,1.24 ,2014,Miami Heat,MIA
+napiesh01,1.29 ,2015,Orlando Magic,ORL
+napiesh01,1.35 ,2016,Portland Trail Blazers,POR
+napiesh01,2.36 ,2017,Portland Trail Blazers,POR
+nashst01,13.13 ,2009,Phoenix Suns,PHX
+nashst01,10.31 ,2010,Phoenix Suns,PHX
+nashst01,11.69 ,2011,Phoenix Suns,PHX
+nashst01,8.90 ,2012,Los Angeles Lakers,LAL
+nashst01,9.30 ,2013,Los Angeles Lakers,LAL
+nashst01,9.70 ,2014,Los Angeles Lakers,LAL
+ndourma01,0.53 ,2015,Dallas Mavericks,DAL
+ndourma01,0.54 ,2016,New York Knicks,NYK
+ndourma01,0.44 ,2016,Dallas Mavericks,DAL
+nealga01,0.53 ,2010,San Antonio Spurs,SAN
+nealga01,0.76 ,2011,San Antonio Spurs,SAN
+nealga01,0.85 ,2012,San Antonio Spurs,SAN
+nealga01,3.25 ,2013,Milwaukee Bucks,MIL
+nealga01,3.25 ,2014,Minnesota Timberwolves,MIN
+nealga01,2.10 ,2015,Washington Wizards,WAS
+nealga01,0.07 ,2016,Atlanta Hawks,ATL
+nedovne01,1.06 ,2013,Golden State Warriors,GSW
+nedovne01,1.10 ,2014,Golden State Warriors,GSW
+nelsoja01,6.14 ,2009,Orlando Magic,ORL
+nelsoja01,7.80 ,2010,Orlando Magic,ORL
+nelsoja01,7.80 ,2011,Orlando Magic,ORL
+nelsoja01,8.60 ,2012,Orlando Magic,ORL
+nelsoja01,8.60 ,2013,Orlando Magic,ORL
+nelsoja01,2.73 ,2014,Denver Nuggets,DEN
+nelsoja01,4.50 ,2015,Denver Nuggets,DEN
+nelsoja01,4.54 ,2016,Denver Nuggets,DEN
+nelsoja01,4.74 ,2017,Denver Nuggets,DEN
+nelsoja01,1.43 ,2017,Detroit Pistons,DET
+nestera01,1.99 ,2009,Toronto Raptors,TOR
+netora01,1.00 ,2015,Utah Jazz,UTA
+netora01,0.94 ,2016,Utah Jazz,UTA
+netora01,1.47 ,2017,Utah Jazz,UTA
+nichoan01,1.42 ,2012,Orlando Magic,ORL
+nichoan01,1.48 ,2013,Orlando Magic,ORL
+nichoan01,1.55 ,2014,Orlando Magic,ORL
+nichoan01,2.38 ,2015,Orlando Magic,ORL
+nichoan01,6.09 ,2016,Brooklyn Nets,BKN
+nichoan01,2.84 ,2017,Portland Trail Blazers,POR
+noahjo01,2.46 ,2009,Chicago Bulls,CHI
+noahjo01,3.13 ,2010,Chicago Bulls,CHI
+noahjo01,12.00 ,2011,Chicago Bulls,CHI
+noahjo01,11.30 ,2012,Chicago Bulls,CHI
+noahjo01,11.10 ,2013,Chicago Bulls,CHI
+noahjo01,12.20 ,2014,Chicago Bulls,CHI
+noahjo01,13.40 ,2015,Chicago Bulls,CHI
+noahjo01,17.00 ,2016,New York Knicks,NYK
+noahjo01,17.77 ,2017,New York Knicks,NYK
+nocioan01,7.50 ,2009,Sacramento Kings,SAC
+nocioan01,6.85 ,2010,Philadelphia 76ers,PHI
+nocioan01,6.65 ,2011,Philadelphia 76ers,PHI
+noelne01,3.17 ,2013,Philadelphia 76ers,PHI
+noelne01,3.32 ,2014,Philadelphia 76ers,PHI
+noelne01,3.46 ,2015,Philadelphia 76ers,PHI
+noelne01,4.38 ,2016,Dallas Mavericks,DAL
+noelne01,4.19 ,2017,Dallas Mavericks,DAL
+noguelu01,1.76 ,2014,Toronto Raptors,TOR
+noguelu01,1.84 ,2015,Toronto Raptors,TOR
+noguelu01,1.92 ,2016,Toronto Raptors,TOR
+noguelu01,2.95 ,2017,Toronto Raptors,TOR
+novakst01,0.86 ,2009,Los Angeles Clippers,LAC
+novakst01,0.38 ,2010,Dallas Mavericks,DAL
+novakst01,0.35 ,2010,San Antonio Spurs,SAN
+novakst01,0.99 ,2011,New York Knicks,NYK
+novakst01,4.05 ,2012,New York Knicks,NYK
+novakst01,3.75 ,2013,Toronto Raptors,TOR
+novakst01,3.45 ,2014,Oklahoma City Thunder,OKC
+novakst01,3.75 ,2015,Denver Nuggets,DEN
+novakst01,0.42 ,2015,Milwaukee Bucks,MIL
+novakst01,1.55 ,2016,Milwaukee Bucks,MIL
+nowitdi01,19.80 ,2009,Dallas Mavericks,DAL
+nowitdi01,17.28 ,2010,Dallas Mavericks,DAL
+nowitdi01,19.09 ,2011,Dallas Mavericks,DAL
+nowitdi01,20.91 ,2012,Dallas Mavericks,DAL
+nowitdi01,22.72 ,2013,Dallas Mavericks,DAL
+nowitdi01,7.97 ,2014,Dallas Mavericks,DAL
+nowitdi01,8.33 ,2015,Dallas Mavericks,DAL
+nowitdi01,25.00 ,2016,Dallas Mavericks,DAL
+nowitdi01,5.00 ,2017,Dallas Mavericks,DAL
+ntilila01,3.50 ,2017,New York Knicks,NYK
+nurkiju01,1.76 ,2014,Denver Nuggets,DEN
+nurkiju01,1.84 ,2015,Denver Nuggets,DEN
+nurkiju01,1.92 ,2016,Portland Trail Blazers,POR
+nurkiju01,2.95 ,2017,Portland Trail Blazers,POR
+nwabada01,0.14 ,2016,Los Angeles Lakers,LAL
+nwabada01,1.31 ,2017,Chicago Bulls,CHI
+obriejj01,0.11 ,2015,Utah Jazz,UTA
+obryajo01,0.60 ,2014,Milwaukee Bucks,MIL
+obryajo01,0.85 ,2015,Milwaukee Bucks,MIL
+obryajo01,0.28 ,2016,Charlotte Hornets,CHA
+obryajo01,0.12 ,2016,Denver Nuggets,DEN
+obryajo01,1.52 ,2017,New York Knicks,NYK
+obryapa01,1.62 ,2009,Toronto Raptors,TOR
+onealje01,23.02 ,2009,Miami Heat,MIA
+onealje01,5.77 ,2010,Boston Celtics,BOS
+onealje01,6.23 ,2011,Boston Celtics,BOS
+onealje01,1.35 ,2012,Phoenix Suns,PHX
+onealje01,2.00 ,2013,Golden State Warriors,GSW
+onealsh01,20.00 ,2009,Cleveland Cavaliers,CLE
+onealsh01,1.35 ,2010,Boston Celtics,BOS
+onealro01,0.82 ,2017,Utah Jazz,UTA
+oquinky01,0.79 ,2012,Orlando Magic,ORL
+oquinky01,0.79 ,2013,Orlando Magic,ORL
+oquinky01,0.92 ,2014,Orlando Magic,ORL
+oquinky01,3.75 ,2015,New York Knicks,NYK
+oquinky01,3.90 ,2016,New York Knicks,NYK
+oquinky01,4.09 ,2017,New York Knicks,NYK
+obertfa01,2.10 ,2009,Washington Wizards,WAS
+obertfa01,1.80 ,2009,Detroit Pistons,DET
+obertfa01,0.99 ,2010,Portland Trail Blazers,POR
+ochefda01,0.54 ,2016,Washington Wizards,WAS
+ochefda01,0.05 ,2017,Washington Wizards,WAS
+odengr01,5.36 ,2009,Portland Trail Blazers,POR
+odengr01,6.76 ,2010,Portland Trail Blazers,POR
+odengr01,1.50 ,2011,Portland Trail Blazers,POR
+odengr01,1.03 ,2013,Miami Heat,MIA
+odomla01,7.50 ,2009,Los Angeles Lakers,LAL
+odomla01,8.20 ,2010,Los Angeles Lakers,LAL
+odomla01,8.90 ,2011,Dallas Mavericks,DAL
+odomla01,8.20 ,2012,Los Angeles Clippers,LAC
+ohlbrti01,0.14 ,2012,Houston Rockets,HOU
+ohlbrti01,0.79 ,2013,Philadelphia 76ers,PHI
+ojelese01,1.29 ,2017,Boston Celtics,BOS
+okafoem01,10.54 ,2009,New Orleans Hornets,NOP
+okafoem01,11.50 ,2010,New Orleans Hornets,NOP
+okafoem01,12.54 ,2011,New Orleans Hornets,NOP
+okafoem01,13.49 ,2012,Washington Wizards,WAS
+okafoem01,14.49 ,2013,Phoenix Suns,PHX
+okafoem01,0.77 ,2017,New Orleans Pelicans,NOP
+okafoja01,4.58 ,2015,Philadelphia 76ers,PHI
+okafoja01,4.79 ,2016,Philadelphia 76ers,PHI
+okafoja01,5.00 ,2017,Brooklyn Nets,BKN
+okurme01,9.00 ,2009,Utah Jazz,UTA
+okurme01,9.95 ,2010,Utah Jazz,UTA
+okurme01,10.89 ,2011,Brooklyn Nets,BKN
+oladivi01,4.76 ,2013,Orlando Magic,ORL
+oladivi01,4.98 ,2014,Orlando Magic,ORL
+oladivi01,5.19 ,2015,Orlando Magic,ORL
+oladivi01,6.55 ,2016,Oklahoma City Thunder,OKC
+oladivi01,21.00 ,2017,Indiana Pacers,IND
+ollieke01,1.31 ,2009,Oklahoma City Thunder,OKC
+olynyke01,1.99 ,2013,Boston Celtics,BOS
+olynyke01,2.08 ,2014,Boston Celtics,BOS
+olynyke01,2.17 ,2015,Boston Celtics,BOS
+olynyke01,3.09 ,2016,Boston Celtics,BOS
+olynyke01,10.61 ,2017,Miami Heat,MIA
+onuakar01,0.04 ,2014,Minnesota Timberwolves,MIN
+onuakar01,0.44 ,2016,Orlando Magic,ORL
+onuakch01,0.54 ,2016,Houston Rockets,HOU
+onuakch01,1.31 ,2017,Houston Rockets,HOU
+ortonda01,1.03 ,2010,Orlando Magic,ORL
+ortonda01,1.11 ,2011,Orlando Magic,ORL
+ortonda01,0.76 ,2012,Oklahoma City Thunder,OKC
+osmande01,2.64 ,2017,Cleveland Cavaliers,CLE
+oubreke01,1.92 ,2015,Washington Wizards,WAS
+oubreke01,2.01 ,2016,Washington Wizards,WAS
+oubreke01,2.09 ,2017,Washington Wizards,WAS
+outlatr01,4.00 ,2009,Los Angeles Clippers,LAC
+outlatr01,7.00 ,2010,Brooklyn Nets,BKN
+outlatr01,4.00 ,2011,Brooklyn Nets,BKN
+outlatr01,3.00 ,2011,Sacramento Kings,SAC
+outlatr01,3.00 ,2012,Sacramento Kings,SAC
+outlatr01,1.00 ,2012,Brooklyn Nets,BKN
+outlatr01,3.00 ,2013,Sacramento Kings,SAC
+outlatr01,4.00 ,2014,Brooklyn Nets,BKN
+outlatr01,3.00 ,2014,Philadelphia 76ers,PHI
+owensla01,0.06 ,2010,San Antonio Spurs,SAN
+owensla01,0.09 ,2011,Brooklyn Nets,BKN
+pachuza01,4.75 ,2009,Atlanta Hawks,ATL
+pachuza01,4.25 ,2010,Atlanta Hawks,ATL
+pachuza01,4.75 ,2011,Atlanta Hawks,ATL
+pachuza01,5.25 ,2012,Atlanta Hawks,ATL
+pachuza01,5.20 ,2013,Milwaukee Bucks,MIL
+pachuza01,5.20 ,2014,Milwaukee Bucks,MIL
+pachuza01,5.20 ,2015,Dallas Mavericks,DAL
+pachuza01,2.90 ,2016,Golden State Warriors,GSW
+pachuza01,3.48 ,2017,Golden State Warriors,GSW
+papagge01,2.20 ,2016,Sacramento Kings,SAC
+papagge01,2.30 ,2017,Sacramento Kings,SAC
+papagge01,0.26 ,2017,Portland Trail Blazers,POR
+papanko01,4.80 ,2014,Houston Rockets,HOU
+papanko01,0.35 ,2015,Denver Nuggets,DEN
+pargoja01,2.00 ,2009,Chicago Bulls,CHI
+pargoja01,1.22 ,2011,Atlanta Hawks,ATL
+pargoja01,0.17 ,2012,Atlanta Hawks,ATL
+pargoja01,0.12 ,2012,Washington Wizards,WAS
+pargoja01,1.40 ,2013,Charlotte Hornets,CHA
+pargoja01,1.45 ,2014,Charlotte Hornets,CHA
+pargoje01,1.00 ,2011,Memphis Grizzlies,MEM
+pargoje01,0.76 ,2012,Cleveland Cavaliers,CLE
+pargoje01,0.44 ,2012,Philadelphia 76ers,PHI
+parkean01,2.64 ,2009,Cleveland Cavaliers,CLE
+parkean01,2.86 ,2010,Cleveland Cavaliers,CLE
+parkean01,2.25 ,2011,Cleveland Cavaliers,CLE
+parkeja01,4.93 ,2014,Milwaukee Bucks,MIL
+parkeja01,5.15 ,2015,Milwaukee Bucks,MIL
+parkeja01,5.37 ,2016,Milwaukee Bucks,MIL
+parkeja01,6.78 ,2017,Milwaukee Bucks,MIL
+parketo01,12.60 ,2009,San Antonio Spurs,SAN
+parketo01,13.50 ,2010,San Antonio Spurs,SAN
+parketo01,12.50 ,2011,San Antonio Spurs,SAN
+parketo01,12.50 ,2012,San Antonio Spurs,SAN
+parketo01,12.50 ,2013,San Antonio Spurs,SAN
+parketo01,12.50 ,2014,San Antonio Spurs,SAN
+parketo01,13.44 ,2015,San Antonio Spurs,SAN
+parketo01,14.45 ,2016,San Antonio Spurs,SAN
+parketo01,15.45 ,2017,San Antonio Spurs,SAN
+parsoch01,0.85 ,2011,Houston Rockets,HOU
+parsoch01,0.89 ,2012,Houston Rockets,HOU
+parsoch01,0.93 ,2013,Houston Rockets,HOU
+parsoch01,14.70 ,2014,Dallas Mavericks,DAL
+parsoch01,15.36 ,2015,Dallas Mavericks,DAL
+parsoch01,22.12 ,2016,Memphis Grizzlies,MEM
+parsoch01,23.11 ,2017,Memphis Grizzlies,MEM
+pattela01,0.53 ,2015,Atlanta Hawks,ATL
+pattela01,0.13 ,2016,Atlanta Hawks,ATL
+pattela01,0.10 ,2016,Sacramento Kings,SAC
+pattepa01,1.82 ,2010,Houston Rockets,HOU
+pattepa01,1.96 ,2011,Houston Rockets,HOU
+pattepa01,2.10 ,2012,Sacramento Kings,SAC
+pattepa01,3.11 ,2013,Sacramento Kings,SAC
+pattepa01,5.83 ,2014,Toronto Raptors,TOR
+pattepa01,6.27 ,2015,Toronto Raptors,TOR
+pattepa01,6.05 ,2016,Toronto Raptors,TOR
+pattepa01,5.19 ,2017,Oklahoma City Thunder,OKC
+pattoju01,2.25 ,2017,Minnesota Timberwolves,MIN
+paulbr01,0.16 ,2016,Philadelphia 76ers,PHI
+paulbr01,0.82 ,2017,San Antonio Spurs,SAN
+paulch01,13.52 ,2009,New Orleans Hornets,NOP
+paulch01,14.94 ,2010,New Orleans Hornets,NOP
+paulch01,16.36 ,2011,Los Angeles Clippers,LAC
+paulch01,17.78 ,2012,Los Angeles Clippers,LAC
+paulch01,18.67 ,2013,Los Angeles Clippers,LAC
+paulch01,20.07 ,2014,Los Angeles Clippers,LAC
+paulch01,21.47 ,2015,Los Angeles Clippers,LAC
+paulch01,22.87 ,2016,Los Angeles Clippers,LAC
+paulch01,24.60 ,2017,Houston Rockets,HOU
+pavloal01,1.50 ,2009,Minnesota Timberwolves,MIN
+pavloal01,1.25 ,2009,Phoenix Suns,PHX
+pavloal01,0.13 ,2010,Dallas Mavericks,DAL
+pavloal01,0.07 ,2010,New Orleans Hornets,NOP
+pavloal01,1.22 ,2011,Boston Celtics,BOS
+pavloal01,1.23 ,2012,Portland Trail Blazers,POR
+payneca01,2.02 ,2015,Oklahoma City Thunder,OKC
+payneca01,2.11 ,2016,Chicago Bulls,CHI
+payneca01,2.20 ,2017,Chicago Bulls,CHI
+paytoel01,2.40 ,2014,Orlando Magic,ORL
+paytoel01,2.51 ,2015,Orlando Magic,ORL
+paytoel01,2.61 ,2016,Orlando Magic,ORL
+paytoel01,3.33 ,2017,Phoenix Suns,PHX
+pecheol01,1.55 ,2009,Minnesota Timberwolves,MIN
+pekovni01,4.00 ,2010,Minnesota Timberwolves,MIN
+pekovni01,4.50 ,2011,Minnesota Timberwolves,MIN
+pekovni01,4.84 ,2012,Minnesota Timberwolves,MIN
+pekovni01,12.10 ,2013,Minnesota Timberwolves,MIN
+pekovni01,12.10 ,2014,Minnesota Timberwolves,MIN
+pekovni01,12.10 ,2015,Minnesota Timberwolves,MIN
+pekovni01,12.10 ,2016,Minnesota Timberwolves,MIN
+perkike01,4.25 ,2009,Boston Celtics,BOS
+perkike01,4.64 ,2010,Oklahoma City Thunder,OKC
+perkike01,7.12 ,2011,Oklahoma City Thunder,OKC
+perkike01,7.80 ,2012,Oklahoma City Thunder,OKC
+perkike01,8.48 ,2013,Oklahoma City Thunder,OKC
+perkike01,9.65 ,2014,Utah Jazz,UTA
+perkike01,0.43 ,2014,Cleveland Cavaliers,CLE
+perkike01,1.50 ,2015,New Orleans Pelicans,NOP
+perkike01,0.01 ,2017,Cleveland Cavaliers,CLE
+petermo01,6.21 ,2009,New Orleans Hornets,NOP
+petermo01,6.67 ,2010,Charlotte Hornets,CHA
+petrojo01,0.88 ,2009,Denver Nuggets,DEN
+petrojo01,3.25 ,2010,Brooklyn Nets,BKN
+petrojo01,3.25 ,2011,Brooklyn Nets,BKN
+petrojo01,3.50 ,2012,Atlanta Hawks,ATL
+piercpa01,19.80 ,2009,Boston Celtics,BOS
+piercpa01,13.88 ,2010,Boston Celtics,BOS
+piercpa01,15.33 ,2011,Boston Celtics,BOS
+piercpa01,16.79 ,2012,Boston Celtics,BOS
+piercpa01,15.33 ,2013,Brooklyn Nets,BKN
+piercpa01,5.31 ,2014,Washington Wizards,WAS
+piercpa01,3.40 ,2015,Los Angeles Clippers,LAC
+piercpa01,3.50 ,2016,Los Angeles Clippers,LAC
+piercpa01,1.10 ,2017,Los Angeles Clippers,LAC
+pietrmi01,5.30 ,2009,Orlando Magic,ORL
+pietrmi01,5.30 ,2010,Phoenix Suns,PHX
+pietrmi01,5.30 ,2011,Phoenix Suns,PHX
+pietrmi01,1.22 ,2011,Boston Celtics,BOS
+pietrmi01,1.01 ,2012,Toronto Raptors,TOR
+pittmde01,0.47 ,2010,Miami Heat,MIA
+pittmde01,0.76 ,2011,Miami Heat,MIA
+pittmde01,0.85 ,2012,Memphis Grizzlies,MEM
+pleisti01,3.00 ,2015,Utah Jazz,UTA
+pleisti01,3.00 ,2016,Philadelphia 76ers,PHI
+pleisti01,0.50 ,2017,Philadelphia 76ers,PHI
+plumlma01,1.30 ,2013,Brooklyn Nets,BKN
+plumlma01,1.36 ,2014,Brooklyn Nets,BKN
+plumlma01,1.42 ,2015,Portland Trail Blazers,POR
+plumlma01,2.33 ,2016,Denver Nuggets,DEN
+plumlma01,14.04 ,2017,Denver Nuggets,DEN
+plumlmi01,1.07 ,2012,Indiana Pacers,IND
+plumlmi01,1.12 ,2013,Phoenix Suns,PHX
+plumlmi01,1.17 ,2014,Milwaukee Bucks,MIL
+plumlmi01,2.11 ,2015,Milwaukee Bucks,MIL
+plumlmi01,12.50 ,2016,Milwaukee Bucks,MIL
+plumlmi01,12.50 ,2017,Atlanta Hawks,ATL
+poeltja01,2.70 ,2016,Toronto Raptors,TOR
+poeltja01,2.83 ,2017,Toronto Raptors,TOR
+pondequ01,1.07 ,2010,New Orleans Hornets,NOP
+pondequ01,1.15 ,2011,Memphis Grizzlies,MEM
+pondequ01,1.23 ,2012,Memphis Grizzlies,MEM
+pondequ01,2.23 ,2013,Memphis Grizzlies,MEM
+pondequ01,3.15 ,2014,New Orleans Pelicans,NOP
+pondequ01,3.38 ,2015,New Orleans Pelicans,NOP
+pondequ01,3.62 ,2016,New Orleans Pelicans,NOP
+pondequ01,3.85 ,2017,Chicago Bulls,CHI
+porteot01,4.28 ,2013,Washington Wizards,WAS
+porteot01,4.47 ,2014,Washington Wizards,WAS
+porteot01,4.66 ,2015,Washington Wizards,WAS
+porteot01,5.89 ,2016,Washington Wizards,WAS
+porteot01,24.77 ,2017,Washington Wizards,WAS
+portibo01,1.39 ,2015,Chicago Bulls,CHI
+portibo01,1.45 ,2016,Chicago Bulls,CHI
+portibo01,1.52 ,2017,Chicago Bulls,CHI
+porzikr01,4.13 ,2015,New York Knicks,NYK
+porzikr01,4.32 ,2016,New York Knicks,NYK
+porzikr01,4.50 ,2017,New York Knicks,NYK
+poseyja01,6.03 ,2009,New Orleans Hornets,NOP
+poseyja01,7.15 ,2010,Indiana Pacers,IND
+poseyja01,7.60 ,2011,Indiana Pacers,IND
+powele01,0.86 ,2009,Cleveland Cavaliers,CLE
+powele01,0.92 ,2010,Cleveland Cavaliers,CLE
+poweldw01,0.51 ,2014,Dallas Mavericks,DAL
+poweldw01,0.85 ,2015,Dallas Mavericks,DAL
+poweldw01,8.38 ,2016,Dallas Mavericks,DAL
+poweldw01,9.00 ,2017,Dallas Mavericks,DAL
+poweljo01,0.96 ,2009,Los Angeles Lakers,LAL
+poweljo01,1.07 ,2010,Atlanta Hawks,ATL
+powelno01,0.65 ,2015,Toronto Raptors,TOR
+powelno01,0.87 ,2016,Toronto Raptors,TOR
+powelno01,1.47 ,2017,Toronto Raptors,TOR
+poythal01,0.04 ,2016,Philadelphia 76ers,PHI
+poythal01,0.04 ,2016,Indiana Pacers,IND
+poythal01,0.78 ,2017,Indiana Pacers,IND
+pressph01,0.82 ,2014,Boston Celtics,BOS
+pressph01,0.17 ,2015,Philadelphia 76ers,PHI
+pressph01,0.11 ,2015,Phoenix Suns,PHX
+pressph01,0.04 ,2016,Golden State Warriors,GSW
+priceaj01,0.46 ,2009,Indiana Pacers,IND
+priceaj01,0.76 ,2010,Indiana Pacers,IND
+priceaj01,0.85 ,2011,Indiana Pacers,IND
+priceaj01,0.89 ,2012,Washington Wizards,WAS
+priceaj01,0.06 ,2014,Phoenix Suns,PHX
+pricero01,1.25 ,2009,Utah Jazz,UTA
+pricero01,1.38 ,2010,Utah Jazz,UTA
+pricero01,1.07 ,2011,Phoenix Suns,PHX
+pricero01,1.27 ,2013,Orlando Magic,ORL
+pricero01,1.32 ,2014,Los Angeles Lakers,LAL
+pricero01,1.50 ,2015,Phoenix Suns,PHX
+pricero01,2.56 ,2016,Oklahoma City Thunder,OKC
+pricero01,0.47 ,2016,Phoenix Suns,PHX
+pricero01,2.44 ,2017,Oklahoma City Thunder,OKC
+prigipa01,0.47 ,2012,New York Knicks,NYK
+prigipa01,1.59 ,2013,New York Knicks,NYK
+prigipa01,1.66 ,2014,Houston Rockets,HOU
+prigipa01,0.98 ,2015,Los Angeles Clippers,LAC
+prigipa01,1.05 ,2016,Houston Rockets,HOU
+princta01,10.32 ,2009,Detroit Pistons,DET
+princta01,11.15 ,2010,Detroit Pistons,DET
+princta01,6.29 ,2011,Detroit Pistons,DET
+princta01,6.76 ,2012,Memphis Grizzlies,MEM
+princta01,7.24 ,2013,Memphis Grizzlies,MEM
+princta01,7.71 ,2014,Detroit Pistons,DET
+princta01,1.50 ,2015,Minnesota Timberwolves,MIN
+przybjo01,6.86 ,2009,Portland Trail Blazers,POR
+przybjo01,7.41 ,2010,Charlotte Hornets,CHA
+przybjo01,1.15 ,2011,Portland Trail Blazers,POR
+przybjo01,1.35 ,2012,Milwaukee Bucks,MIL
+purviro01,0.16 ,2017,Orlando Magic,ORL
+qizh01,0.82 ,2017,Houston Rockets,HOU
+quartti01,0.10 ,2017,Houston Rockets,HOU
+quinnch01,1.06 ,2009,Brooklyn Nets,BKN
+quinnch01,0.86 ,2010,San Antonio Spurs,SAN
+rabbiv01,0.95 ,2017,Memphis Grizzlies,MEM
+radmavl01,6.47 ,2009,Golden State Warriors,GSW
+radmavl01,6.88 ,2010,Golden State Warriors,GSW
+radmavl01,1.35 ,2011,Atlanta Hawks,ATL
+radmavl01,1.35 ,2012,Chicago Bulls,CHI
+radulmi01,0.30 ,2014,Los Angeles Clippers,LAC
+radulmi01,0.10 ,2014,Minnesota Timberwolves,MIN
+radulmi01,0.30 ,2015,Los Angeles Clippers,LAC
+radulmi01,0.30 ,2016,Los Angeles Clippers,LAC
+radulmi01,0.25 ,2017,Los Angeles Clippers,LAC
+randlch01,0.30 ,2016,Philadelphia 76ers,PHI
+randlch01,0.24 ,2016,New York Knicks,NYK
+randlju01,3.00 ,2014,Los Angeles Lakers,LAL
+randlju01,3.13 ,2015,Los Angeles Lakers,LAL
+randlju01,3.27 ,2016,Los Angeles Lakers,LAL
+randlju01,4.15 ,2017,Los Angeles Lakers,LAL
+randoan01,1.84 ,2009,Golden State Warriors,GSW
+randoan01,1.97 ,2010,Minnesota Timberwolves,MIN
+randoan01,2.91 ,2011,Minnesota Timberwolves,MIN
+randoan01,1.67 ,2012,Denver Nuggets,DEN
+randoan01,1.75 ,2013,Denver Nuggets,DEN
+randoan01,1.83 ,2014,Orlando Magic,ORL
+randosh01,0.26 ,2009,Miami Heat,MIA
+randosh01,0.09 ,2009,Portland Trail Blazers,POR
+randosh01,1.23 ,2014,Denver Nuggets,DEN
+randoza01,16.00 ,2009,Memphis Grizzlies,MEM
+randoza01,17.67 ,2010,Memphis Grizzlies,MEM
+randoza01,15.20 ,2011,Memphis Grizzlies,MEM
+randoza01,16.50 ,2012,Memphis Grizzlies,MEM
+randoza01,17.80 ,2013,Memphis Grizzlies,MEM
+randoza01,16.50 ,2014,Memphis Grizzlies,MEM
+randoza01,9.64 ,2015,Memphis Grizzlies,MEM
+randoza01,10.36 ,2016,Memphis Grizzlies,MEM
+randoza01,12.31 ,2017,Sacramento Kings,SAC
+rathaxa01,0.05 ,2017,Memphis Grizzlies,MEM
+ratlith01,1.31 ,2009,Charlotte Hornets,CHA
+ratlith01,1.35 ,2010,Los Angeles Lakers,LAL
+rautian01,0.60 ,2010,New York Knicks,NYK
+rautian01,0.79 ,2011,Dallas Mavericks,DAL
+reddmi01,17.04 ,2009,Milwaukee Bucks,MIL
+reddmi01,18.30 ,2010,Milwaukee Bucks,MIL
+reddmi01,1.31 ,2011,Phoenix Suns,PHX
+redicjj01,2.84 ,2009,Orlando Magic,ORL
+redicjj01,7.25 ,2010,Orlando Magic,ORL
+redicjj01,6.75 ,2011,Orlando Magic,ORL
+redicjj01,6.19 ,2012,Milwaukee Bucks,MIL
+redicjj01,6.30 ,2013,Los Angeles Clippers,LAC
+redicjj01,6.58 ,2014,Los Angeles Clippers,LAC
+redicjj01,6.87 ,2015,Los Angeles Clippers,LAC
+redicjj01,7.38 ,2016,Los Angeles Clippers,LAC
+redicjj01,23.00 ,2017,Philadelphia 76ers,PHI
+reedda01,0.82 ,2017,Phoenix Suns,PHX
+reedwi02,0.95 ,2015,Brooklyn Nets,BKN
+reedwi02,1.02 ,2016,Miami Heat,MIA
+reedwi02,1.47 ,2017,Chicago Bulls,CHI
+reidry01,0.48 ,2011,Oklahoma City Thunder,OKC
+ricegl02,0.40 ,2014,Washington Wizards,WAS
+richach01,0.04 ,2009,Chicago Bulls,CHI
+richaja01,13.33 ,2009,Phoenix Suns,PHX
+richaja01,14.44 ,2010,Orlando Magic,ORL
+richaja01,5.40 ,2011,Orlando Magic,ORL
+richaja01,5.80 ,2012,Philadelphia 76ers,PHI
+richaja01,6.20 ,2013,Philadelphia 76ers,PHI
+richaja01,6.60 ,2014,Philadelphia 76ers,PHI
+richajo01,0.53 ,2015,Miami Heat,MIA
+richajo01,0.87 ,2016,Miami Heat,MIA
+richajo01,1.47 ,2017,Miami Heat,MIA
+richama01,1.44 ,2016,Sacramento Kings,SAC
+richama01,1.50 ,2017,Toronto Raptors,TOR
+richaqu01,9.35 ,2009,Miami Heat,MIA
+richaqu01,2.27 ,2010,Orlando Magic,ORL
+richaqu01,2.45 ,2011,Orlando Magic,ORL
+richaqu01,2.63 ,2012,Orlando Magic,ORL
+richaqu01,2.81 ,2013,Orlando Magic,ORL
+richaqu01,1.40 ,2013,Toronto Raptors,TOR
+ridnolu01,6.50 ,2009,Milwaukee Bucks,MIL
+ridnolu01,4.00 ,2010,Minnesota Timberwolves,MIN
+ridnolu01,3.68 ,2011,Minnesota Timberwolves,MIN
+ridnolu01,4.00 ,2012,Minnesota Timberwolves,MIN
+ridnolu01,4.32 ,2013,Milwaukee Bucks,MIL
+ridnolu01,2.75 ,2014,Orlando Magic,ORL
+riverau01,2.24 ,2012,New Orleans Hornets,NOP
+riverau01,2.34 ,2013,New Orleans Pelicans,NOP
+riverau01,2.44 ,2014,Los Angeles Clippers,LAC
+riverau01,3.10 ,2015,Los Angeles Clippers,LAC
+riverau01,11.00 ,2016,Los Angeles Clippers,LAC
+riverau01,11.83 ,2017,Los Angeles Clippers,LAC
+roberan03,1.11 ,2013,Oklahoma City Thunder,OKC
+roberan03,1.16 ,2014,Oklahoma City Thunder,OKC
+roberan03,1.21 ,2015,Oklahoma City Thunder,OKC
+roberan03,2.18 ,2016,Oklahoma City Thunder,OKC
+roberan03,9.26 ,2017,Oklahoma City Thunder,OKC
+roberbr01,0.47 ,2012,New Orleans Hornets,NOP
+roberbr01,0.79 ,2013,New Orleans Pelicans,NOP
+roberbr01,2.73 ,2014,Charlotte Hornets,CHA
+roberbr01,2.85 ,2015,Portland Trail Blazers,POR
+roberbr01,1.05 ,2016,Charlotte Hornets,CHA
+robingl02,0.51 ,2014,Philadelphia 76ers,PHI
+robingl02,0.85 ,2015,Indiana Pacers,IND
+robingl02,1.05 ,2016,Indiana Pacers,IND
+robingl02,1.52 ,2017,Indiana Pacers,IND
+robinna01,4.00 ,2009,Boston Celtics,BOS
+robinna01,4.20 ,2010,Oklahoma City Thunder,OKC
+robinna01,4.50 ,2011,Oklahoma City Thunder,OKC
+robinna01,0.98 ,2011,Golden State Warriors,GSW
+robinna01,1.15 ,2012,Chicago Bulls,CHI
+robinna01,2.02 ,2013,Denver Nuggets,DEN
+robinna01,2.11 ,2014,Boston Celtics,BOS
+robinna01,0.15 ,2014,Los Angeles Clippers,LAC
+robinna01,0.04 ,2015,New Orleans Pelicans,NOP
+robinth01,3.37 ,2012,Houston Rockets,HOU
+robinth01,3.53 ,2013,Portland Trail Blazers,POR
+robinth01,3.68 ,2014,Philadelphia 76ers,PHI
+robinth01,0.98 ,2015,Brooklyn Nets,BKN
+robinth01,1.05 ,2016,Los Angeles Lakers,LAL
+rodrise01,1.89 ,2009,New York Knicks,NYK
+rodrise01,8.00 ,2016,Philadelphia 76ers,PHI
+rondora01,2.09 ,2009,Boston Celtics,BOS
+rondora01,9.09 ,2010,Boston Celtics,BOS
+rondora01,10.05 ,2011,Boston Celtics,BOS
+rondora01,11.00 ,2012,Boston Celtics,BOS
+rondora01,11.95 ,2013,Boston Celtics,BOS
+rondora01,12.91 ,2014,Dallas Mavericks,DAL
+rondora01,9.50 ,2015,Sacramento Kings,SAC
+rondora01,14.00 ,2016,Chicago Bulls,CHI
+rondora01,3.30 ,2017,New Orleans Pelicans,NOP
+rondora01,3.00 ,2017,Chicago Bulls,CHI
+rosede01,5.18 ,2009,Chicago Bulls,CHI
+rosede01,5.55 ,2010,Chicago Bulls,CHI
+rosede01,6.99 ,2011,Chicago Bulls,CHI
+rosede01,16.40 ,2012,Chicago Bulls,CHI
+rosede01,17.63 ,2013,Chicago Bulls,CHI
+rosede01,18.86 ,2014,Chicago Bulls,CHI
+rosede01,20.09 ,2015,Chicago Bulls,CHI
+rosede01,21.32 ,2016,New York Knicks,NYK
+rosede01,1.36 ,2017,Cleveland Cavaliers,CLE
+rosede01,0.75 ,2017,Utah Jazz,UTA
+rosede01,0.29 ,2017,Minnesota Timberwolves,MIN
+rossqu01,1.03 ,2009,Washington Wizards,WAS
+rossqu01,1.15 ,2010,Brooklyn Nets,BKN
+rosste01,2.56 ,2012,Toronto Raptors,TOR
+rosste01,2.68 ,2013,Toronto Raptors,TOR
+rosste01,2.79 ,2014,Toronto Raptors,TOR
+rosste01,3.55 ,2015,Toronto Raptors,TOR
+rosste01,10.00 ,2016,Orlando Magic,ORL
+rosste01,10.50 ,2017,Orlando Magic,ORL
+roybr01,3.91 ,2009,Portland Trail Blazers,POR
+roybr01,13.52 ,2010,Portland Trail Blazers,POR
+roybr01,16.03 ,2011,Portland Trail Blazers,POR
+roybr01,16.36 ,2012,Portland Trail Blazers,POR
+roybr01,5.10 ,2012,Minnesota Timberwolves,MIN
+roybr01,19.32 ,2014,Portland Trail Blazers,POR
+roziete01,1.82 ,2015,Boston Celtics,BOS
+roziete01,1.91 ,2016,Boston Celtics,BOS
+roziete01,1.99 ,2017,Boston Celtics,BOS
+rubiori01,3.48 ,2011,Minnesota Timberwolves,MIN
+rubiori01,3.74 ,2012,Minnesota Timberwolves,MIN
+rubiori01,4.00 ,2013,Minnesota Timberwolves,MIN
+rubiori01,5.07 ,2014,Minnesota Timberwolves,MIN
+rubiori01,12.37 ,2015,Minnesota Timberwolves,MIN
+rubiori01,13.55 ,2016,Minnesota Timberwolves,MIN
+rubiori01,14.28 ,2017,Utah Jazz,UTA
+rudezda01,1.10 ,2014,Indiana Pacers,IND
+rudezda01,1.15 ,2015,Minnesota Timberwolves,MIN
+rudezda01,0.98 ,2016,Orlando Magic,ORL
+rushbr01,1.93 ,2009,Indiana Pacers,IND
+rushbr01,2.07 ,2010,Indiana Pacers,IND
+rushbr01,2.96 ,2011,Golden State Warriors,GSW
+rushbr01,4.00 ,2012,Golden State Warriors,GSW
+rushbr01,4.00 ,2013,Utah Jazz,UTA
+rushbr01,1.15 ,2014,Golden State Warriors,GSW
+rushbr01,1.27 ,2015,Golden State Warriors,GSW
+rushbr01,3.50 ,2016,Minnesota Timberwolves,MIN
+rushbr01,0.08 ,2017,Portland Trail Blazers,POR
+rushka01,0.53 ,2009,Los Angeles Clippers,LAC
+russeda01,5.10 ,2015,Los Angeles Lakers,LAL
+russeda01,5.33 ,2016,Los Angeles Lakers,LAL
+russeda01,5.56 ,2017,Brooklyn Nets,BKN
+russewa02,0.37 ,2011,Detroit Pistons,DET
+sabondo01,2.44 ,2016,Oklahoma City Thunder,OKC
+sabondo01,2.55 ,2017,Indiana Pacers,IND
+sacrero01,0.47 ,2012,Los Angeles Lakers,LAL
+sacrero01,0.79 ,2013,Los Angeles Lakers,LAL
+sacrero01,0.92 ,2014,Los Angeles Lakers,LAL
+sacrero01,0.98 ,2015,Los Angeles Lakers,LAL
+salmojo01,5.46 ,2009,Milwaukee Bucks,MIL
+salmojo01,8.00 ,2010,Milwaukee Bucks,MIL
+salmojo01,8.50 ,2011,Sacramento Kings,SAC
+salmojo01,8.08 ,2012,Sacramento Kings,SAC
+salmojo01,7.58 ,2013,Sacramento Kings,SAC
+salmojo01,2.00 ,2014,Phoenix Suns,PHX
+salmojo01,1.00 ,2014,Atlanta Hawks,ATL
+samuesa01,0.50 ,2010,Cleveland Cavaliers,CLE
+samuesa01,0.76 ,2011,Cleveland Cavaliers,CLE
+samuesa01,0.34 ,2012,Cleveland Cavaliers,CLE
+sandela01,1.73 ,2010,Milwaukee Bucks,MIL
+sandela01,1.86 ,2011,Milwaukee Bucks,MIL
+sandela01,1.99 ,2012,Milwaukee Bucks,MIL
+sandela01,3.05 ,2013,Milwaukee Bucks,MIL
+sandela01,11.00 ,2014,Milwaukee Bucks,MIL
+sandela01,1.87 ,2015,Milwaukee Bucks,MIL
+sandela01,1.87 ,2016,Milwaukee Bucks,MIL
+sandela01,0.21 ,2016,Cleveland Cavaliers,CLE
+sandela01,1.87 ,2017,Milwaukee Bucks,MIL
+saricda01,2.32 ,2016,Philadelphia 76ers,PHI
+saricda01,2.42 ,2017,Philadelphia 76ers,PHI
+satorto01,2.87 ,2016,Washington Wizards,WAS
+satorto01,3.00 ,2017,Washington Wizards,WAS
+scalabr01,3.41 ,2009,Boston Celtics,BOS
+scalabr01,1.23 ,2010,Chicago Bulls,CHI
+scalabr01,1.35 ,2011,Chicago Bulls,CHI
+schrode01,1.35 ,2013,Atlanta Hawks,ATL
+schrode01,1.69 ,2014,Atlanta Hawks,ATL
+schrode01,1.76 ,2015,Atlanta Hawks,ATL
+schrode01,2.71 ,2016,Atlanta Hawks,ATL
+schrode01,15.50 ,2017,Atlanta Hawks,ATL
+scolalu01,3.38 ,2009,Houston Rockets,HOU
+scolalu01,7.78 ,2010,Houston Rockets,HOU
+scolalu01,8.59 ,2011,Houston Rockets,HOU
+scolalu01,5.26 ,2012,Houston Rockets,HOU
+scolalu01,4.15 ,2012,Phoenix Suns,PHX
+scolalu01,4.51 ,2013,Indiana Pacers,IND
+scolalu01,6.54 ,2014,Houston Rockets,HOU
+scolalu01,6.17 ,2014,Houston Rockets,HOU
+scolalu01,4.87 ,2014,Indiana Pacers,IND
+scolalu01,3.00 ,2015,Toronto Raptors,TOR
+scolalu01,5.00 ,2016,Brooklyn Nets,BKN
+scottmi01,0.47 ,2012,Atlanta Hawks,ATL
+scottmi01,0.79 ,2013,Atlanta Hawks,ATL
+scottmi01,3.33 ,2014,Atlanta Hawks,ATL
+scottmi01,3.33 ,2015,Atlanta Hawks,ATL
+scottmi01,3.33 ,2016,Phoenix Suns,PHX
+scottmi01,1.47 ,2017,Washington Wizards,WAS
+sefolth01,2.76 ,2009,Oklahoma City Thunder,OKC
+sefolth01,3.25 ,2010,Oklahoma City Thunder,OKC
+sefolth01,3.30 ,2011,Oklahoma City Thunder,OKC
+sefolth01,3.60 ,2012,Oklahoma City Thunder,OKC
+sefolth01,3.90 ,2013,Oklahoma City Thunder,OKC
+sefolth01,4.15 ,2014,Atlanta Hawks,ATL
+sefolth01,4.00 ,2015,Atlanta Hawks,ATL
+sefolth01,3.85 ,2016,Atlanta Hawks,ATL
+sefolth01,5.25 ,2017,Utah Jazz,UTA
+selbyjo01,0.55 ,2011,Memphis Grizzlies,MEM
+selbyjo01,0.76 ,2012,Cleveland Cavaliers,CLE
+seldewa01,0.08 ,2016,Memphis Grizzlies,MEM
+seldewa01,0.03 ,2016,New Orleans Pelicans,NOP
+seldewa01,1.31 ,2017,Memphis Grizzlies,MEM
+serapke01,1.56 ,2010,Washington Wizards,WAS
+serapke01,1.68 ,2011,Washington Wizards,WAS
+serapke01,1.80 ,2012,Washington Wizards,WAS
+serapke01,2.76 ,2013,Washington Wizards,WAS
+serapke01,3.90 ,2014,Washington Wizards,WAS
+serapke01,2.80 ,2015,New York Knicks,NYK
+serapke01,1.80 ,2016,Indiana Pacers,IND
+sessira01,3.67 ,2009,Minnesota Timberwolves,MIN
+sessira01,3.96 ,2010,Cleveland Cavaliers,CLE
+sessira01,4.26 ,2011,Cleveland Cavaliers,CLE
+sessira01,5.00 ,2012,Charlotte Hornets,CHA
+sessira01,5.00 ,2013,Charlotte Hornets,CHA
+sessira01,2.08 ,2014,Washington Wizards,WAS
+sessira01,2.17 ,2015,Washington Wizards,WAS
+sessira01,6.00 ,2016,Charlotte Hornets,CHA
+sessira01,1.47 ,2017,New York Knicks,NYK
+sessira01,0.39 ,2017,Washington Wizards,WAS
+shakumu01,0.09 ,2010,Washington Wizards,WAS
+shumpim01,1.56 ,2011,New York Knicks,NYK
+shumpim01,1.68 ,2012,New York Knicks,NYK
+shumpim01,1.70 ,2013,New York Knicks,NYK
+shumpim01,2.62 ,2014,Cleveland Cavaliers,CLE
+shumpim01,9.00 ,2015,Cleveland Cavaliers,CLE
+shumpim01,9.70 ,2016,Cleveland Cavaliers,CLE
+shumpim01,10.34 ,2017,Sacramento Kings,SAC
+shvedal01,2.93 ,2012,Minnesota Timberwolves,MIN
+shvedal01,3.15 ,2013,Minnesota Timberwolves,MIN
+shvedal01,3.28 ,2014,New York Knicks,NYK
+siakapa01,1.20 ,2016,Toronto Raptors,TOR
+siakapa01,1.31 ,2017,Toronto Raptors,TOR
+siberjo01,0.10 ,2015,Orlando Magic,ORL
+silasxa01,0.07 ,2017,Boston Celtics,BOS
+silerga01,0.47 ,2010,Phoenix Suns,PHX
+silerga01,0.05 ,2011,Phoenix Suns,PHX
+simmobe01,5.90 ,2016,Philadelphia 76ers,PHI
+simmobe01,6.17 ,2017,Philadelphia 76ers,PHI
+simmobo01,10.56 ,2009,Brooklyn Nets,BKN
+simmobo01,0.07 ,2010,San Antonio Spurs,SAN
+simmobo01,0.59 ,2011,Los Angeles Clippers,LAC
+simmojo02,0.53 ,2015,San Antonio Spurs,SAN
+simmojo02,0.87 ,2016,San Antonio Spurs,SAN
+simmojo02,6.30 ,2017,Orlando Magic,ORL
+simshe01,0.92 ,2014,Philadelphia 76ers,PHI
+simshe01,0.16 ,2015,Brooklyn Nets,BKN
+simshe01,0.08 ,2016,Utah Jazz,UTA
+singlky01,1.00 ,2012,Detroit Pistons,DET
+singlky01,1.05 ,2013,Detroit Pistons,DET
+singlky01,1.09 ,2014,Oklahoma City Thunder,OKC
+singlky01,5.00 ,2015,Oklahoma City Thunder,OKC
+singlky01,4.84 ,2016,Oklahoma City Thunder,OKC
+singlky01,4.67 ,2017,Oklahoma City Thunder,OKC
+singlch01,1.49 ,2011,Washington Wizards,WAS
+singlch01,1.60 ,2012,Washington Wizards,WAS
+singlch01,1.62 ,2013,Washington Wizards,WAS
+singlja01,1.03 ,2009,Washington Wizards,WAS
+sivape01,0.10 ,2014,Orlando Magic,ORL
+skinnbr01,1.31 ,2009,Los Angeles Clippers,LAC
+skinnbr01,0.27 ,2010,Milwaukee Bucks,MIL
+skinnbr01,0.07 ,2011,Memphis Grizzlies,MEM
+sloando01,0.12 ,2011,Atlanta Hawks,ATL
+sloando01,0.08 ,2011,New Orleans Hornets,NOP
+sloando01,0.25 ,2012,Cleveland Cavaliers,CLE
+sloando01,0.04 ,2012,New Orleans Hornets,NOP
+sloando01,0.88 ,2013,Indiana Pacers,IND
+sloando01,0.95 ,2014,Indiana Pacers,IND
+sloando01,1.02 ,2015,Brooklyn Nets,BKN
+smartma01,3.28 ,2014,Boston Celtics,BOS
+smartma01,3.43 ,2015,Boston Celtics,BOS
+smartma01,3.58 ,2016,Boston Celtics,BOS
+smartma01,4.54 ,2017,Boston Celtics,BOS
+smithcr01,2.50 ,2009,Los Angeles Clippers,LAC
+smithcr01,2.30 ,2010,Los Angeles Clippers,LAC
+smithcr01,0.99 ,2011,Portland Trail Blazers,POR
+smithde03,3.22 ,2017,Dallas Mavericks,DAL
+smithgr02,0.30 ,2011,Houston Rockets,HOU
+smithgr02,0.76 ,2012,Houston Rockets,HOU
+smithgr02,0.88 ,2013,Houston Rockets,HOU
+smithgr02,0.95 ,2014,Dallas Mavericks,DAL
+smithgr02,0.25 ,2015,Minnesota Timberwolves,MIN
+smithis01,0.47 ,2010,Memphis Grizzlies,MEM
+smithis01,0.52 ,2011,Orlando Magic,ORL
+smithis01,0.12 ,2011,Golden State Warriors,GSW
+smithis01,0.85 ,2012,Milwaukee Bucks,MIL
+smithis01,0.95 ,2013,Milwaukee Bucks,MIL
+smithis01,0.98 ,2014,Philadelphia 76ers,PHI
+smithis01,0.98 ,2014,Houston Rockets,HOU
+smithis01,1.10 ,2015,Philadelphia 76ers,PHI
+smithis01,6.00 ,2016,Detroit Pistons,DET
+smithis01,6.00 ,2017,Detroit Pistons,DET
+smithjr01,5.51 ,2009,Denver Nuggets,DEN
+smithjr01,6.76 ,2010,Denver Nuggets,DEN
+smithjr01,2.38 ,2011,New York Knicks,NYK
+smithjr01,2.81 ,2012,New York Knicks,NYK
+smithjr01,5.57 ,2013,New York Knicks,NYK
+smithjr01,6.52 ,2014,Cleveland Cavaliers,CLE
+smithjr01,5.00 ,2015,Cleveland Cavaliers,CLE
+smithjr01,12.80 ,2016,Cleveland Cavaliers,CLE
+smithjr01,13.76 ,2017,Cleveland Cavaliers,CLE
+smithja02,1.42 ,2009,Philadelphia 76ers,PHI
+smithja02,2.19 ,2010,New Orleans Hornets,NOP
+smithja02,2.50 ,2011,New Orleans Hornets,NOP
+smithja02,2.50 ,2012,New Orleans Hornets,NOP
+smithja02,2.50 ,2013,New Orleans Pelicans,NOP
+smithja02,3.28 ,2014,New York Knicks,NYK
+smithja02,4.30 ,2015,Orlando Magic,ORL
+smithja02,5.00 ,2016,Washington Wizards,WAS
+smithja02,5.23 ,2017,Washington Wizards,WAS
+smithjo02,1.31 ,2009,Atlanta Hawks,ATL
+smithjo02,1.35 ,2010,Los Angeles Lakers,LAL
+smithjo03,10.80 ,2009,Atlanta Hawks,ATL
+smithjo03,11.60 ,2010,Atlanta Hawks,ATL
+smithjo03,12.40 ,2011,Atlanta Hawks,ATL
+smithjo03,13.20 ,2012,Atlanta Hawks,ATL
+smithjo03,13.50 ,2013,Detroit Pistons,DET
+smithjo03,14.00 ,2014,Detroit Pistons,DET
+smithjo03,2.08 ,2014,Houston Rockets,HOU
+smithjo03,5.40 ,2015,Detroit Pistons,DET
+smithjo03,1.50 ,2015,Houston Rockets,HOU
+smithjo03,5.40 ,2016,Detroit Pistons,DET
+smithjo03,5.33 ,2017,Detroit Pistons,DET
+smithjo03,0.21 ,2017,New Orleans Pelicans,NOP
+smithno01,1.31 ,2011,Portland Trail Blazers,POR
+smithno01,1.40 ,2012,Portland Trail Blazers,POR
+smithru01,0.82 ,2014,Memphis Grizzlies,MEM
+smithru01,0.82 ,2015,Memphis Grizzlies,MEM
+snellto01,1.41 ,2013,Chicago Bulls,CHI
+snellto01,1.47 ,2014,Chicago Bulls,CHI
+snellto01,1.54 ,2015,Chicago Bulls,CHI
+snellto01,2.37 ,2016,Milwaukee Bucks,MIL
+snellto01,9.82 ,2017,Milwaukee Bucks,MIL
+songada01,4.53 ,2009,New Orleans Hornets,NOP
+songada01,4.82 ,2010,Philadelphia 76ers,PHI
+speigma01,1.66 ,2009,Philadelphia 76ers,PHI
+speigma01,1.77 ,2010,Philadelphia 76ers,PHI
+speigma01,2.72 ,2011,Memphis Grizzlies,MEM
+speigma01,4.20 ,2012,Cleveland Cavaliers,CLE
+speigma01,3.50 ,2013,Golden State Warriors,GSW
+speigma01,3.66 ,2014,Golden State Warriors,GSW
+speigma01,3.82 ,2015,Golden State Warriors,GSW
+speigma01,1.40 ,2016,Los Angeles Clippers,LAC
+speigma01,1.47 ,2017,Orlando Magic,ORL
+splitti01,3.40 ,2010,San Antonio Spurs,SAN
+splitti01,3.67 ,2011,San Antonio Spurs,SAN
+splitti01,3.94 ,2012,San Antonio Spurs,SAN
+splitti01,10.00 ,2013,San Antonio Spurs,SAN
+splitti01,9.25 ,2014,San Antonio Spurs,SAN
+splitti01,8.50 ,2015,Atlanta Hawks,ATL
+splitti01,8.55 ,2016,Philadelphia 76ers,PHI
+stackje01,2.00 ,2009,Memphis Grizzlies,MEM
+stackje01,0.67 ,2009,Milwaukee Bucks,MIL
+stackje01,0.22 ,2010,Miami Heat,MIA
+stackje01,1.35 ,2011,Atlanta Hawks,ATL
+stackje01,1.35 ,2012,Brooklyn Nets,BKN
+stausni01,2.75 ,2014,Sacramento Kings,SAC
+stausni01,2.87 ,2015,Philadelphia 76ers,PHI
+stausni01,2.99 ,2016,Philadelphia 76ers,PHI
+stausni01,3.81 ,2017,Brooklyn Nets,BKN
+stephdj01,0.04 ,2016,Memphis Grizzlies,MEM
+stephla01,0.75 ,2010,Indiana Pacers,IND
+stephla01,0.81 ,2011,Indiana Pacers,IND
+stephla01,0.87 ,2012,Indiana Pacers,IND
+stephla01,1.01 ,2013,Indiana Pacers,IND
+stephla01,9.00 ,2014,Charlotte Hornets,CHA
+stephla01,9.00 ,2015,Memphis Grizzlies,MEM
+stephla01,4.00 ,2016,Indiana Pacers,IND
+stephla01,1.23 ,2016,New Orleans Pelicans,NOP
+stephla01,0.14 ,2016,Minnesota Timberwolves,MIN
+stephla01,4.18 ,2017,Indiana Pacers,IND
+stephal01,0.06 ,2015,Los Angeles Clippers,LAC
+stephal01,0.03 ,2015,Memphis Grizzlies,MEM
+stevede01,3.89 ,2009,Dallas Mavericks,DAL
+stevede01,4.15 ,2010,Dallas Mavericks,DAL
+stevede01,2.50 ,2011,Brooklyn Nets,BKN
+stevede01,2.24 ,2012,Atlanta Hawks,ATL
+stiemgr01,0.76 ,2011,Boston Celtics,BOS
+stiemgr01,2.58 ,2012,Minnesota Timberwolves,MIN
+stiemgr01,2.68 ,2013,New Orleans Pelicans,NOP
+stiemgr01,0.98 ,2014,Toronto Raptors,TOR
+stockda01,0.03 ,2014,Sacramento Kings,SAC
+stockda01,0.19 ,2017,Utah Jazz,UTA
+stojape01,13.39 ,2009,New Orleans Hornets,NOP
+stojape01,14.90 ,2010,Toronto Raptors,TOR
+stojape01,0.64 ,2010,Dallas Mavericks,DAL
+stokeja01,0.73 ,2014,Memphis Grizzlies,MEM
+stokeja01,0.85 ,2015,New Orleans Pelicans,NOP
+stokeja01,0.15 ,2016,Denver Nuggets,DEN
+stonedi01,0.54 ,2016,Los Angeles Clippers,LAC
+stonedi01,1.31 ,2017,Atlanta Hawks,ATL
+stonedi01,0.05 ,2017,Chicago Bulls,CHI
+stoneju01,0.47 ,2011,Denver Nuggets,DEN
+stoneju01,0.76 ,2012,Denver Nuggets,DEN
+stoneju01,0.05 ,2016,Indiana Pacers,IND
+stoneju01,1.52 ,2017,Charlotte Hornets,CHA
+stoudam01,16.38 ,2009,Phoenix Suns,PHX
+stoudam01,16.49 ,2010,New York Knicks,NYK
+stoudam01,18.22 ,2011,New York Knicks,NYK
+stoudam01,19.95 ,2012,New York Knicks,NYK
+stoudam01,21.68 ,2013,New York Knicks,NYK
+stoudam01,23.41 ,2014,New York Knicks,NYK
+stoudam01,0.49 ,2014,Dallas Mavericks,DAL
+stoudam01,1.50 ,2015,Miami Heat,MIA
+stuckro01,1.81 ,2009,Detroit Pistons,DET
+stuckro01,2.77 ,2010,Detroit Pistons,DET
+stuckro01,8.50 ,2011,Detroit Pistons,DET
+stuckro01,8.50 ,2012,Detroit Pistons,DET
+stuckro01,8.50 ,2013,Detroit Pistons,DET
+stuckro01,1.23 ,2014,Indiana Pacers,IND
+stuckro01,6.50 ,2015,Indiana Pacers,IND
+stuckro01,7.00 ,2016,Indiana Pacers,IND
+sullija01,1.31 ,2012,Boston Celtics,BOS
+sullija01,1.37 ,2013,Boston Celtics,BOS
+sullija01,1.42 ,2014,Boston Celtics,BOS
+sullija01,2.27 ,2015,Boston Celtics,BOS
+sullija01,5.63 ,2016,Phoenix Suns,PHX
+summeda01,0.46 ,2009,Detroit Pistons,DET
+summeda01,0.76 ,2010,Detroit Pistons,DET
+summeda01,0.30 ,2011,New Orleans Hornets,NOP
+swanica01,1.47 ,2017,Portland Trail Blazers,POR
+sypa01,0.47 ,2010,Atlanta Hawks,ATL
+tatumja01,5.65 ,2017,Boston Celtics,BOS
+tavarwa01,1.00 ,2015,Atlanta Hawks,ATL
+tavarwa01,1.00 ,2016,Atlanta Hawks,ATL
+tavarwa01,0.01 ,2016,Cleveland Cavaliers,CLE
+taylois01,0.31 ,2016,Houston Rockets,HOU
+taylois01,1.31 ,2017,Atlanta Hawks,ATL
+tayloje03,0.58 ,2012,Charlotte Hornets,CHA
+tayloje03,0.79 ,2013,Charlotte Hornets,CHA
+tayloje03,0.92 ,2014,Charlotte Hornets,CHA
+tayloje02,0.73 ,2009,Houston Rockets,HOU
+tayloje02,0.78 ,2010,Sacramento Kings,SAC
+tayloty01,0.47 ,2012,Brooklyn Nets,BKN
+tayloty01,0.79 ,2013,Brooklyn Nets,BKN
+teaguje01,1.37 ,2009,Atlanta Hawks,ATL
+teaguje01,1.48 ,2010,Atlanta Hawks,ATL
+teaguje01,1.58 ,2011,Atlanta Hawks,ATL
+teaguje01,2.43 ,2012,Atlanta Hawks,ATL
+teaguje01,8.00 ,2013,Atlanta Hawks,ATL
+teaguje01,8.00 ,2014,Atlanta Hawks,ATL
+teaguje01,8.00 ,2015,Atlanta Hawks,ATL
+teaguje01,8.80 ,2016,Indiana Pacers,IND
+teaguje01,19.00 ,2017,Minnesota Timberwolves,MIN
+teaguma01,1.03 ,2012,Chicago Bulls,CHI
+teaguma01,1.07 ,2013,Chicago Bulls,CHI
+teaguma01,1.12 ,2014,Philadelphia 76ers,PHI
+teaguma01,0.16 ,2017,Memphis Grizzlies,MEM
+teletmi01,3.09 ,2012,Brooklyn Nets,BKN
+teletmi01,3.23 ,2013,Brooklyn Nets,BKN
+teletmi01,3.37 ,2014,Brooklyn Nets,BKN
+teletmi01,5.50 ,2015,Phoenix Suns,PHX
+teletmi01,10.50 ,2016,Milwaukee Bucks,MIL
+teletmi01,10.50 ,2017,Milwaukee Bucks,MIL
+telfase01,2.50 ,2009,Cleveland Cavaliers,CLE
+telfase01,2.70 ,2010,Minnesota Timberwolves,MIN
+telfase01,1.50 ,2011,Phoenix Suns,PHX
+telfase01,1.57 ,2012,Toronto Raptors,TOR
+telfase01,0.92 ,2014,Oklahoma City Thunder,OKC
+templga01,0.10 ,2010,Milwaukee Bucks,MIL
+templga01,0.07 ,2010,San Antonio Spurs,SAN
+templga01,0.57 ,2012,Washington Wizards,WAS
+templga01,0.92 ,2013,Washington Wizards,WAS
+templga01,0.98 ,2014,Washington Wizards,WAS
+templga01,1.10 ,2015,Washington Wizards,WAS
+templga01,8.00 ,2016,Sacramento Kings,SAC
+templga01,8.00 ,2017,Sacramento Kings,SAC
+teodomi01,6.00 ,2017,Los Angeles Clippers,LAC
+terryja01,9.86 ,2009,Dallas Mavericks,DAL
+terryja01,10.65 ,2010,Dallas Mavericks,DAL
+terryja01,11.16 ,2011,Dallas Mavericks,DAL
+terryja01,5.00 ,2012,Boston Celtics,BOS
+terryja01,5.63 ,2013,Brooklyn Nets,BKN
+terryja01,5.85 ,2014,Houston Rockets,HOU
+terryja01,1.50 ,2015,Houston Rockets,HOU
+terryja01,1.55 ,2016,Milwaukee Bucks,MIL
+terryja01,1.47 ,2017,Milwaukee Bucks,MIL
+thabeha01,4.46 ,2009,Memphis Grizzlies,MEM
+thabeha01,4.79 ,2010,Houston Rockets,HOU
+thabeha01,5.13 ,2011,Houston Rockets,HOU
+thabeha01,1.20 ,2012,Oklahoma City Thunder,OKC
+thabeha01,1.20 ,2013,Oklahoma City Thunder,OKC
+theisda01,0.82 ,2017,Boston Celtics,BOS
+thomaad01,0.06 ,2015,Detroit Pistons,DET
+thomaet01,7.35 ,2009,Oklahoma City Thunder,OKC
+thomaet01,1.22 ,2010,Atlanta Hawks,ATL
+thomais02,0.47 ,2011,Sacramento Kings,SAC
+thomais02,0.76 ,2012,Sacramento Kings,SAC
+thomais02,0.88 ,2013,Sacramento Kings,SAC
+thomais02,7.24 ,2014,Boston Celtics,BOS
+thomais02,6.91 ,2015,Boston Celtics,BOS
+thomais02,6.59 ,2016,Boston Celtics,BOS
+thomais02,6.26 ,2017,Los Angeles Lakers,LAL
+thomake01,8.78 ,2009,Sacramento Kings,SAC
+thomaku01,3.80 ,2009,Milwaukee Bucks,MIL
+thomaku01,1.35 ,2010,Chicago Bulls,CHI
+thomala01,0.33 ,2011,New Orleans Hornets,NOP
+thomala01,0.76 ,2012,New Orleans Hornets,NOP
+thomala01,0.88 ,2013,New Orleans Pelicans,NOP
+thomala01,0.40 ,2014,New York Knicks,NYK
+thomala01,1.65 ,2015,New York Knicks,NYK
+thomala01,6.19 ,2016,New York Knicks,NYK
+thomala01,6.66 ,2017,New York Knicks,NYK
+thomama01,0.10 ,2011,San Antonio Spurs,SAN
+thomama01,0.47 ,2014,Philadelphia 76ers,PHI
+thomati01,6.47 ,2009,Chicago Bulls,CHI
+thomati01,1.31 ,2009,Dallas Mavericks,DAL
+thomaty01,4.74 ,2009,Charlotte Hornets,CHA
+thomaty01,6.61 ,2010,Charlotte Hornets,CHA
+thomaty01,7.31 ,2011,Charlotte Hornets,CHA
+thomaty01,8.00 ,2012,Charlotte Hornets,CHA
+thomaty01,9.39 ,2014,Charlotte Hornets,CHA
+thomaty01,0.07 ,2014,Memphis Grizzlies,MEM
+thomptr02,0.47 ,2011,Los Angeles Clippers,LAC
+thomptr02,0.76 ,2012,Los Angeles Clippers,LAC
+thompho01,0.82 ,2014,Philadelphia 76ers,PHI
+thompho01,0.95 ,2015,Philadelphia 76ers,PHI
+thompho01,0.44 ,2016,Philadelphia 76ers,PHI
+thompho01,0.12 ,2016,New Orleans Pelicans,NOP
+thompja02,2.04 ,2009,Sacramento Kings,SAC
+thompja02,2.18 ,2010,Sacramento Kings,SAC
+thompja02,3.00 ,2011,Sacramento Kings,SAC
+thompja02,5.25 ,2012,Sacramento Kings,SAC
+thompja02,5.64 ,2013,Sacramento Kings,SAC
+thompja02,6.04 ,2014,Sacramento Kings,SAC
+thompja02,6.43 ,2015,Golden State Warriors,GSW
+thompja02,0.33 ,2015,Toronto Raptors,TOR
+thompja02,0.95 ,2016,Golden State Warriors,GSW
+thompja02,0.95 ,2017,Golden State Warriors,GSW
+thompkl01,2.13 ,2011,Golden State Warriors,GSW
+thompkl01,2.29 ,2012,Golden State Warriors,GSW
+thompkl01,2.32 ,2013,Golden State Warriors,GSW
+thompkl01,3.08 ,2014,Golden State Warriors,GSW
+thompkl01,15.50 ,2015,Golden State Warriors,GSW
+thompkl01,16.66 ,2016,Golden State Warriors,GSW
+thompkl01,17.83 ,2017,Golden State Warriors,GSW
+thompmy02,0.17 ,2011,Cleveland Cavaliers,CLE
+thomptr01,3.73 ,2011,Cleveland Cavaliers,CLE
+thomptr01,4.01 ,2012,Cleveland Cavaliers,CLE
+thomptr01,4.06 ,2013,Cleveland Cavaliers,CLE
+thomptr01,5.14 ,2014,Cleveland Cavaliers,CLE
+thomptr01,14.26 ,2015,Cleveland Cavaliers,CLE
+thomptr01,15.33 ,2016,Cleveland Cavaliers,CLE
+thomptr01,16.40 ,2017,Cleveland Cavaliers,CLE
+thornal01,1.90 ,2009,Washington Wizards,WAS
+thornal01,2.81 ,2010,Washington Wizards,WAS
+thornma01,0.46 ,2009,New Orleans Hornets,NOP
+thornma01,0.76 ,2010,Sacramento Kings,SAC
+thornma01,7.00 ,2011,Sacramento Kings,SAC
+thornma01,7.53 ,2012,Sacramento Kings,SAC
+thornma01,8.05 ,2013,Sacramento Kings,SAC
+thornma01,8.58 ,2014,Phoenix Suns,PHX
+thornma01,1.19 ,2015,Houston Rockets,HOU
+thornma01,0.25 ,2015,Washington Wizards,WAS
+thornma01,1.32 ,2016,Brooklyn Nets,BKN
+thornsi01,0.82 ,2017,Los Angeles Clippers,LAC
+tinslja01,5.20 ,2009,Indiana Pacers,IND
+tinslja01,0.99 ,2009,Memphis Grizzlies,MEM
+tinslja01,5.50 ,2010,Indiana Pacers,IND
+tobeymi01,0.14 ,2016,Charlotte Hornets,CHA
+tollian01,0.36 ,2009,Golden State Warriors,GSW
+tollian01,0.05 ,2009,Portland Trail Blazers,POR
+tollian01,2.20 ,2010,Minnesota Timberwolves,MIN
+tollian01,2.05 ,2011,Minnesota Timberwolves,MIN
+tollian01,0.92 ,2012,Atlanta Hawks,ATL
+tollian01,1.03 ,2013,Charlotte Hornets,CHA
+tollian01,3.00 ,2014,Detroit Pistons,DET
+tollian01,3.00 ,2015,Detroit Pistons,DET
+tollian01,8.00 ,2016,Sacramento Kings,SAC
+tollian01,3.29 ,2017,Detroit Pistons,DET
+tollian01,2.00 ,2017,Sacramento Kings,SAC
+toupaax01,0.12 ,2015,Denver Nuggets,DEN
+toupaax01,0.03 ,2015,Toronto Raptors,TOR
+toupaax01,0.05 ,2016,Milwaukee Bucks,MIL
+toupaax01,0.02 ,2016,New Orleans Pelicans,NOP
+toupaax01,0.03 ,2017,New Orleans Pelicans,NOP
+townska01,5.70 ,2015,Minnesota Timberwolves,MIN
+townska01,5.96 ,2016,Minnesota Timberwolves,MIN
+townska01,6.22 ,2017,Minnesota Timberwolves,MIN
+tuckeal02,1.07 ,2009,Minnesota Timberwolves,MIN
+tuckepj01,0.76 ,2012,Phoenix Suns,PHX
+tuckepj01,0.88 ,2013,Phoenix Suns,PHX
+tuckepj01,5.70 ,2014,Phoenix Suns,PHX
+tuckepj01,5.50 ,2015,Phoenix Suns,PHX
+tuckepj01,5.30 ,2016,Toronto Raptors,TOR
+tuckepj01,7.59 ,2017,Houston Rockets,HOU
+turiaro01,4.14 ,2009,Golden State Warriors,GSW
+turiaro01,4.00 ,2010,New York Knicks,NYK
+turiaro01,4.36 ,2011,Washington Wizards,WAS
+turiaro01,1.15 ,2012,Los Angeles Clippers,LAC
+turiaro01,1.50 ,2013,Minnesota Timberwolves,MIN
+turiaro01,1.50 ,2014,Philadelphia 76ers,PHI
+turkohe01,9.00 ,2009,Toronto Raptors,TOR
+turkohe01,10.22 ,2010,Orlando Magic,ORL
+turkohe01,11.02 ,2011,Orlando Magic,ORL
+turkohe01,11.82 ,2012,Orlando Magic,ORL
+turkohe01,12.00 ,2013,Orlando Magic,ORL
+turkohe01,1.45 ,2014,Los Angeles Clippers,LAC
+turneev01,4.60 ,2010,Philadelphia 76ers,PHI
+turneev01,4.95 ,2011,Philadelphia 76ers,PHI
+turneev01,5.29 ,2012,Philadelphia 76ers,PHI
+turneev01,6.68 ,2013,Philadelphia 76ers,PHI
+turneev01,3.28 ,2014,Boston Celtics,BOS
+turneev01,3.43 ,2015,Boston Celtics,BOS
+turneev01,16.39 ,2016,Portland Trail Blazers,POR
+turneev01,17.13 ,2017,Portland Trail Blazers,POR
+turnemy01,2.36 ,2015,Indiana Pacers,IND
+turnemy01,2.46 ,2016,Indiana Pacers,IND
+turnemy01,2.57 ,2017,Indiana Pacers,IND
+tylerje01,0.65 ,2011,Golden State Warriors,GSW
+tylerje01,0.76 ,2012,Atlanta Hawks,ATL
+tylerje01,0.88 ,2013,New York Knicks,NYK
+tylerje01,0.10 ,2013,Atlanta Hawks,ATL
+udohek01,3.07 ,2010,Golden State Warriors,GSW
+udohek01,3.29 ,2011,Golden State Warriors,GSW
+udohek01,3.52 ,2012,Milwaukee Bucks,MIL
+udohek01,4.47 ,2013,Milwaukee Bucks,MIL
+udohek01,0.98 ,2014,Los Angeles Clippers,LAC
+udohek01,3.20 ,2017,Utah Jazz,UTA
+udokaim01,0.84 ,2009,Sacramento Kings,SAC
+udokaim01,0.26 ,2010,San Antonio Spurs,SAN
+udrihbe01,6.03 ,2009,Sacramento Kings,SAC
+udrihbe01,6.48 ,2010,Sacramento Kings,SAC
+udrihbe01,6.93 ,2011,Milwaukee Bucks,MIL
+udrihbe01,7.37 ,2012,Orlando Magic,ORL
+udrihbe01,1.27 ,2013,New York Knicks,NYK
+udrihbe01,2.08 ,2014,Memphis Grizzlies,MEM
+udrihbe01,2.17 ,2015,Miami Heat,MIA
+udrihbe01,1.55 ,2016,Detroit Pistons,DET
+udrihbe01,0.03 ,2017,Detroit Pistons,DET
+ukicro01,0.30 ,2009,Milwaukee Bucks,MIL
+ulisty01,0.92 ,2016,Phoenix Suns,PHX
+ulisty01,1.31 ,2017,Phoenix Suns,PHX
+uthofja01,0.06 ,2016,Dallas Mavericks,DAL
+uthofja01,0.05 ,2016,Toronto Raptors,TOR
+uthofja01,0.01 ,2017,Indiana Pacers,IND
+uzohbe01,0.47 ,2010,Brooklyn Nets,BKN
+uzohbe01,0.06 ,2011,Cleveland Cavaliers,CLE
+valanjo01,3.63 ,2012,Toronto Raptors,TOR
+valanjo01,3.53 ,2013,Toronto Raptors,TOR
+valanjo01,3.68 ,2014,Toronto Raptors,TOR
+valanjo01,4.66 ,2015,Toronto Raptors,TOR
+valanjo01,14.38 ,2016,Toronto Raptors,TOR
+valanjo01,15.46 ,2017,Toronto Raptors,TOR
+valende01,2.09 ,2016,Chicago Bulls,CHI
+valende01,2.19 ,2017,Chicago Bulls,CHI
+vanvlfr01,0.54 ,2016,Toronto Raptors,TOR
+vanvlfr01,1.31 ,2017,Toronto Raptors,TOR
+varejan01,6.30 ,2009,Cleveland Cavaliers,CLE
+varejan01,7.28 ,2010,Cleveland Cavaliers,CLE
+varejan01,7.70 ,2011,Cleveland Cavaliers,CLE
+varejan01,8.37 ,2012,Cleveland Cavaliers,CLE
+varejan01,9.04 ,2013,Cleveland Cavaliers,CLE
+varejan01,9.70 ,2014,Cleveland Cavaliers,CLE
+varejan01,9.64 ,2015,Portland Trail Blazers,POR
+varejan01,0.46 ,2015,Golden State Warriors,GSW
+varejan01,1.98 ,2016,Portland Trail Blazers,POR
+varejan01,1.55 ,2016,Golden State Warriors,GSW
+varejan01,1.91 ,2017,Portland Trail Blazers,POR
+varnaja01,0.28 ,2012,Miami Heat,MIA
+varnaja01,0.03 ,2012,Boston Celtics,BOS
+varnaja01,0.79 ,2013,Miami Heat,MIA
+varnaja01,0.08 ,2014,Philadelphia 76ers,PHI
+vasqugr01,1.04 ,2010,Memphis Grizzlies,MEM
+vasqugr01,1.11 ,2011,New Orleans Hornets,NOP
+vasqugr01,1.19 ,2012,New Orleans Hornets,NOP
+vasqugr01,2.15 ,2013,Sacramento Kings,SAC
+vasqugr01,6.40 ,2014,Toronto Raptors,TOR
+vasqugr01,6.60 ,2015,Milwaukee Bucks,MIL
+vasqugr01,4.35 ,2016,Brooklyn Nets,BKN
+vaughra01,1.73 ,2015,Milwaukee Bucks,MIL
+vaughra01,1.81 ,2016,Milwaukee Bucks,MIL
+vaughra01,1.89 ,2017,New Orleans Pelicans,NOP
+vaughra01,0.17 ,2017,Orlando Magic,ORL
+veselja01,3.07 ,2011,Washington Wizards,WAS
+veselja01,3.29 ,2012,Washington Wizards,WAS
+veselja01,3.34 ,2013,Washington Wizards,WAS
+villach01,6.50 ,2009,Detroit Pistons,DET
+villach01,7.02 ,2010,Detroit Pistons,DET
+villach01,7.54 ,2011,Detroit Pistons,DET
+villach01,8.06 ,2012,Detroit Pistons,DET
+villach01,8.58 ,2013,Detroit Pistons,DET
+villach01,1.32 ,2014,Dallas Mavericks,DAL
+villach01,1.50 ,2015,Dallas Mavericks,DAL
+vonleno01,2.52 ,2014,Charlotte Hornets,CHA
+vonleno01,2.64 ,2015,Portland Trail Blazers,POR
+vonleno01,2.75 ,2016,Portland Trail Blazers,POR
+vonleno01,3.51 ,2017,Chicago Bulls,CHI
+vucevni01,1.65 ,2011,Philadelphia 76ers,PHI
+vucevni01,1.77 ,2012,Orlando Magic,ORL
+vucevni01,1.79 ,2013,Orlando Magic,ORL
+vucevni01,2.75 ,2014,Orlando Magic,ORL
+vucevni01,11.25 ,2015,Orlando Magic,ORL
+vucevni01,11.75 ,2016,Orlando Magic,ORL
+vucevni01,12.25 ,2017,Orlando Magic,ORL
+vujacsa01,5.00 ,2009,Los Angeles Lakers,LAL
+vujacsa01,5.48 ,2010,Brooklyn Nets,BKN
+vujacsa01,1.36 ,2015,New York Knicks,NYK
+vujacsa01,1.41 ,2016,New York Knicks,NYK
+wadedw01,15.78 ,2009,Miami Heat,MIA
+wadedw01,14.20 ,2010,Miami Heat,MIA
+wadedw01,15.69 ,2011,Miami Heat,MIA
+wadedw01,17.18 ,2012,Miami Heat,MIA
+wadedw01,18.67 ,2013,Miami Heat,MIA
+wadedw01,15.00 ,2014,Miami Heat,MIA
+wadedw01,20.00 ,2015,Miami Heat,MIA
+wadedw01,23.20 ,2016,Chicago Bulls,CHI
+wadedw01,15.55 ,2017,Chicago Bulls,CHI
+wadedw01,1.47 ,2017,Miami Heat,MIA
+wafervo01,0.92 ,2010,Boston Celtics,BOS
+waitedi01,3.73 ,2012,Cleveland Cavaliers,CLE
+waitedi01,3.89 ,2013,Cleveland Cavaliers,CLE
+waitedi01,4.06 ,2014,Oklahoma City Thunder,OKC
+waitedi01,5.14 ,2015,Oklahoma City Thunder,OKC
+waitedi01,2.90 ,2016,Miami Heat,MIA
+waitedi01,11.00 ,2017,Miami Heat,MIA
+walkebi01,0.74 ,2009,New York Knicks,NYK
+walkebi01,0.85 ,2010,New York Knicks,NYK
+walkebi01,0.12 ,2014,Miami Heat,MIA
+walkeke02,2.36 ,2011,Charlotte Hornets,CHA
+walkeke02,2.53 ,2012,Charlotte Hornets,CHA
+walkeke02,2.57 ,2013,Charlotte Hornets,CHA
+walkeke02,3.27 ,2014,Charlotte Hornets,CHA
+walkeke02,12.00 ,2015,Charlotte Hornets,CHA
+walkeke02,12.00 ,2016,Charlotte Hornets,CHA
+walkeke02,12.00 ,2017,Charlotte Hornets,CHA
+walljo01,5.14 ,2010,Washington Wizards,WAS
+walljo01,5.53 ,2011,Washington Wizards,WAS
+walljo01,5.92 ,2012,Washington Wizards,WAS
+walljo01,7.46 ,2013,Washington Wizards,WAS
+walljo01,14.75 ,2014,Washington Wizards,WAS
+walljo01,15.85 ,2015,Washington Wizards,WAS
+walljo01,16.96 ,2016,Washington Wizards,WAS
+walljo01,18.06 ,2017,Washington Wizards,WAS
+wallabe01,1.31 ,2009,Detroit Pistons,DET
+wallabe01,2.08 ,2010,Detroit Pistons,DET
+wallabe01,2.25 ,2011,Detroit Pistons,DET
+wallage01,9.08 ,2009,Charlotte Hornets,CHA
+wallage01,10.50 ,2010,Portland Trail Blazers,POR
+wallage01,9.50 ,2011,Portland Trail Blazers,POR
+wallage01,9.68 ,2012,Brooklyn Nets,BKN
+wallage01,10.11 ,2013,Boston Celtics,BOS
+wallage01,10.11 ,2014,Boston Celtics,BOS
+wallage01,10.11 ,2015,Philadelphia 76ers,PHI
+wallara01,5.85 ,2009,Boston Celtics,BOS
+wallara01,6.32 ,2010,Boston Celtics,BOS
+wallara01,1.35 ,2012,New York Knicks,NYK
+princta02,2.32 ,2016,Atlanta Hawks,ATL
+princta02,2.42 ,2017,Atlanta Hawks,ATL
+waltolu01,4.84 ,2009,Los Angeles Lakers,LAL
+waltolu01,5.26 ,2010,Los Angeles Lakers,LAL
+waltolu01,5.68 ,2011,Los Angeles Lakers,LAL
+waltolu01,6.09 ,2012,Cleveland Cavaliers,CLE
+warneja01,0.02 ,2016,Dallas Mavericks,DAL
+warneja01,0.05 ,2017,Dallas Mavericks,DAL
+warretj01,1.95 ,2014,Phoenix Suns,PHX
+warretj01,2.04 ,2015,Phoenix Suns,PHX
+warretj01,2.13 ,2016,Phoenix Suns,PHX
+warretj01,3.15 ,2017,Phoenix Suns,PHX
+warrewi01,0.50 ,2010,Los Angeles Clippers,LAC
+warriha01,3.00 ,2009,Chicago Bulls,CHI
+warriha01,4.25 ,2010,Phoenix Suns,PHX
+warriha01,4.00 ,2011,Phoenix Suns,PHX
+warriha01,4.00 ,2012,Orlando Magic,ORL
+watsocj01,1.00 ,2009,Golden State Warriors,GSW
+watsocj01,3.10 ,2010,Chicago Bulls,CHI
+watsocj01,3.40 ,2011,Chicago Bulls,CHI
+watsocj01,2.02 ,2013,Indiana Pacers,IND
+watsocj01,2.11 ,2014,Indiana Pacers,IND
+watsocj01,5.00 ,2015,Orlando Magic,ORL
+watsocj01,5.00 ,2016,Orlando Magic,ORL
+watsocj01,0.33 ,2017,Orlando Magic,ORL
+watsoea01,6.60 ,2009,Oklahoma City Thunder,OKC
+watsoea01,2.80 ,2009,Indiana Pacers,IND
+watsoea01,1.23 ,2010,Utah Jazz,UTA
+watsoea01,2.00 ,2011,Utah Jazz,UTA
+watsoea01,2.00 ,2012,Utah Jazz,UTA
+watsoea01,1.40 ,2013,Portland Trail Blazers,POR
+waynsma01,0.22 ,2012,Philadelphia 76ers,PHI
+wearda01,0.03 ,2014,Sacramento Kings,SAC
+weartr01,0.51 ,2014,New York Knicks,NYK
+weartr01,0.30 ,2017,Los Angeles Lakers,LAL
+weaveky01,0.87 ,2009,Oklahoma City Thunder,OKC
+webstma02,4.34 ,2009,Portland Trail Blazers,POR
+webstma02,4.80 ,2010,Minnesota Timberwolves,MIN
+webstma02,5.26 ,2011,Minnesota Timberwolves,MIN
+webstma02,1.60 ,2012,Washington Wizards,WAS
+webstma02,0.60 ,2012,Minnesota Timberwolves,MIN
+webstma02,5.15 ,2013,Washington Wizards,WAS
+webstma02,5.38 ,2014,Washington Wizards,WAS
+webstma02,5.61 ,2015,Washington Wizards,WAS
+webstma02,0.83 ,2016,Washington Wizards,WAS
+webstma02,0.83 ,2017,Washington Wizards,WAS
+weemsso01,0.74 ,2009,Toronto Raptors,TOR
+weemsso01,0.85 ,2010,Toronto Raptors,TOR
+weemsso01,2.80 ,2015,Philadelphia 76ers,PHI
+westda01,9.08 ,2009,New Orleans Hornets,NOP
+westda01,8.29 ,2010,New Orleans Hornets,NOP
+westda01,10.00 ,2011,Indiana Pacers,IND
+westda01,10.00 ,2012,Indiana Pacers,IND
+westda01,12.00 ,2013,Indiana Pacers,IND
+westda01,12.00 ,2014,Indiana Pacers,IND
+westda01,1.50 ,2015,San Antonio Spurs,SAN
+westda01,1.55 ,2016,Golden State Warriors,GSW
+westda01,1.47 ,2017,Golden State Warriors,GSW
+westde01,4.25 ,2009,Cleveland Cavaliers,CLE
+westde01,1.07 ,2010,Boston Celtics,BOS
+westde01,1.15 ,2011,Dallas Mavericks,DAL
+westde01,0.99 ,2012,Dallas Mavericks,DAL
+westma02,0.45 ,2009,Atlanta Hawks,ATL
+westbru01,3.76 ,2009,Oklahoma City Thunder,OKC
+westbru01,4.02 ,2010,Oklahoma City Thunder,OKC
+westbru01,5.08 ,2011,Oklahoma City Thunder,OKC
+westbru01,13.67 ,2012,Oklahoma City Thunder,OKC
+westbru01,14.69 ,2013,Oklahoma City Thunder,OKC
+westbru01,15.72 ,2014,Oklahoma City Thunder,OKC
+westbru01,16.74 ,2015,Oklahoma City Thunder,OKC
+westbru01,26.54 ,2016,Oklahoma City Thunder,OKC
+westbru01,28.53 ,2017,Oklahoma City Thunder,OKC
+whitedj01,1.04 ,2009,Oklahoma City Thunder,OKC
+whitedj01,1.11 ,2010,Charlotte Hornets,CHA
+whitedj01,2.00 ,2011,Charlotte Hornets,CHA
+whitedj01,0.27 ,2012,Boston Celtics,BOS
+whitede01,1.40 ,2017,San Antonio Spurs,SAN
+whiteja02,0.85 ,2012,New York Knicks,NYK
+whiteok01,0.37 ,2016,Miami Heat,MIA
+whiteok01,1.31 ,2017,Atlanta Hawks,ATL
+whiteok01,0.11 ,2017,Cleveland Cavaliers,CLE
+whitero03,1.72 ,2013,Philadelphia 76ers,PHI
+whiteis01,1.07 ,2016,Brooklyn Nets,BKN
+whiteis01,1.31 ,2017,Brooklyn Nets,BKN
+whiteha01,0.73 ,2010,Sacramento Kings,SAC
+whiteha01,0.76 ,2011,Sacramento Kings,SAC
+whiteha01,0.77 ,2014,Miami Heat,MIA
+whiteha01,0.98 ,2015,Miami Heat,MIA
+whiteha01,22.12 ,2016,Miami Heat,MIA
+whiteha01,23.78 ,2017,Miami Heat,MIA
+whittsh01,0.51 ,2014,Indiana Pacers,IND
+whittsh01,0.85 ,2015,Indiana Pacers,IND
+wiggian01,5.51 ,2014,Minnesota Timberwolves,MIN
+wiggian01,5.76 ,2015,Minnesota Timberwolves,MIN
+wiggian01,6.01 ,2016,Minnesota Timberwolves,MIN
+wiggian01,7.57 ,2017,Minnesota Timberwolves,MIN
+wilcoch01,3.00 ,2009,Detroit Pistons,DET
+wilcoch01,3.00 ,2010,Detroit Pistons,DET
+wilcoch01,3.00 ,2011,Boston Celtics,BOS
+wilcoch01,1.35 ,2012,Boston Celtics,BOS
+wilkida02,3.30 ,2009,Minnesota Timberwolves,MIN
+wilkida02,0.75 ,2010,Atlanta Hawks,ATL
+wilkida02,1.15 ,2011,Detroit Pistons,DET
+wilkida02,1.22 ,2012,Philadelphia 76ers,PHI
+wilkida02,1.02 ,2017,Indiana Pacers,IND
+wilksmi01,0.18 ,2009,Oklahoma City Thunder,OKC
+willial03,0.11 ,2015,Phoenix Suns,PHX
+willial03,0.87 ,2016,Phoenix Suns,PHX
+willial03,6.00 ,2017,Phoenix Suns,PHX
+willide01,12.32 ,2009,Utah Jazz,UTA
+willide01,14.94 ,2010,Brooklyn Nets,BKN
+willide01,16.36 ,2011,Brooklyn Nets,BKN
+willide01,17.18 ,2012,Brooklyn Nets,BKN
+willide01,18.47 ,2013,Brooklyn Nets,BKN
+willide01,19.75 ,2014,Brooklyn Nets,BKN
+willide01,5.50 ,2015,Brooklyn Nets,BKN
+willide01,5.50 ,2015,Dallas Mavericks,DAL
+willide01,9.00 ,2016,Dallas Mavericks,DAL
+willide01,5.50 ,2016,Brooklyn Nets,BKN
+willide01,0.26 ,2016,Cleveland Cavaliers,CLE
+willide01,5.47 ,2017,Brooklyn Nets,BKN
+willide02,4.60 ,2011,Minnesota Timberwolves,MIN
+willide02,4.95 ,2012,Minnesota Timberwolves,MIN
+willide02,5.02 ,2013,Minnesota Timberwolves,MIN
+willide02,6.33 ,2014,Sacramento Kings,SAC
+willide02,4.90 ,2015,New York Knicks,NYK
+willide02,4.60 ,2016,Miami Heat,MIA
+willide02,0.40 ,2016,Cleveland Cavaliers,CLE
+willide02,0.08 ,2017,Los Angeles Lakers,LAL
+williel01,1.25 ,2010,Portland Trail Blazers,POR
+williel01,1.35 ,2011,Portland Trail Blazers,POR
+williel01,1.44 ,2012,Portland Trail Blazers,POR
+williel01,0.11 ,2014,New Orleans Pelicans,NOP
+williel01,0.05 ,2014,Utah Jazz,UTA
+williel01,0.05 ,2014,Charlotte Hornets,CHA
+williel01,0.08 ,2015,Charlotte Hornets,CHA
+williel01,0.06 ,2015,Memphis Grizzlies,MEM
+williel01,0.25 ,2016,Golden State Warriors,GSW
+willija02,1.31 ,2009,Orlando Magic,ORL
+willija02,1.35 ,2010,Orlando Magic,ORL
+willija02,0.52 ,2010,Memphis Grizzlies,MEM
+willija04,0.74 ,2009,Cleveland Cavaliers,CLE
+willija04,0.32 ,2010,Cleveland Cavaliers,CLE
+willijo03,0.47 ,2011,Brooklyn Nets,BKN
+willijo03,0.76 ,2012,Atlanta Hawks,ATL
+willilo02,4.97 ,2009,Philadelphia 76ers,PHI
+willilo02,5.00 ,2010,Philadelphia 76ers,PHI
+willilo02,5.18 ,2011,Philadelphia 76ers,PHI
+willilo02,5.00 ,2012,Atlanta Hawks,ATL
+willilo02,5.23 ,2013,Atlanta Hawks,ATL
+willilo02,5.45 ,2014,Toronto Raptors,TOR
+willilo02,7.00 ,2015,Los Angeles Lakers,LAL
+willilo02,7.00 ,2016,Houston Rockets,HOU
+willilo02,7.00 ,2017,Los Angeles Clippers,LAC
+willima03,0.86 ,2009,Memphis Grizzlies,MEM
+willima02,7.50 ,2009,Atlanta Hawks,ATL
+willima02,6.71 ,2010,Atlanta Hawks,ATL
+willima02,7.50 ,2011,Atlanta Hawks,ATL
+willima02,8.29 ,2012,Utah Jazz,UTA
+willima02,7.50 ,2013,Utah Jazz,UTA
+willima02,7.00 ,2014,Charlotte Hornets,CHA
+willima02,7.00 ,2015,Charlotte Hornets,CHA
+willima02,12.25 ,2016,Charlotte Hornets,CHA
+willima02,13.17 ,2017,Charlotte Hornets,CHA
+willima01,8.86 ,2009,Cleveland Cavaliers,CLE
+willima01,9.30 ,2010,Los Angeles Clippers,LAC
+willima01,8.50 ,2011,Los Angeles Clippers,LAC
+willima01,8.50 ,2012,Utah Jazz,UTA
+willima01,2.65 ,2013,Portland Trail Blazers,POR
+willima01,3.75 ,2014,Charlotte Hornets,CHA
+willima01,2.10 ,2015,Cleveland Cavaliers,CLE
+willima01,2.20 ,2016,Denver Nuggets,DEN
+willire02,0.76 ,2010,Golden State Warriors,GSW
+willire02,2.50 ,2011,Charlotte Hornets,CHA
+willire02,2.61 ,2012,Charlotte Hornets,CHA
+willire02,0.95 ,2013,Houston Rockets,HOU
+willire02,0.13 ,2014,San Antonio Spurs,SAN
+willire02,0.25 ,2016,New Orleans Pelicans,NOP
+willire02,0.05 ,2016,Oklahoma City Thunder,OKC
+willise01,1.63 ,2009,Brooklyn Nets,BKN
+willish03,2.42 ,2009,Brooklyn Nets,BKN
+willish03,0.89 ,2010,New York Knicks,NYK
+willish03,3.00 ,2011,Brooklyn Nets,BKN
+willish03,2.60 ,2012,Portland Trail Blazers,POR
+willish03,1.23 ,2014,Milwaukee Bucks,MIL
+willish02,0.83 ,2009,Boston Celtics,BOS
+willish02,0.92 ,2010,New York Knicks,NYK
+willish02,0.99 ,2011,Brooklyn Nets,BKN
+willite01,2.06 ,2009,Brooklyn Nets,BKN
+willite01,2.21 ,2010,Houston Rockets,HOU
+willite01,2.37 ,2011,Houston Rockets,HOU
+willite01,0.30 ,2012,Boston Celtics,BOS
+willitr02,0.54 ,2016,Memphis Grizzlies,MEM
+willitr02,0.18 ,2016,Houston Rockets,HOU
+willitr02,1.47 ,2017,Houston Rockets,HOU
+willitr02,0.37 ,2017,New York Knicks,NYK
+wilsodj01,2.14 ,2017,Milwaukee Bucks,MIL
+winslju01,2.48 ,2015,Miami Heat,MIA
+winslju01,2.59 ,2016,Miami Heat,MIA
+winslju01,2.71 ,2017,Miami Heat,MIA
+witheje01,0.82 ,2014,New Orleans Pelicans,NOP
+witheje01,0.95 ,2015,Utah Jazz,UTA
+witheje01,1.02 ,2016,Utah Jazz,UTA
+witheje01,1.58 ,2017,Dallas Mavericks,DAL
+woodch01,0.31 ,2015,Philadelphia 76ers,PHI
+woodch01,0.87 ,2016,Charlotte Hornets,CHA
+artesro01,5.85 ,2009,Los Angeles Lakers,LAL
+artesro01,6.32 ,2010,Los Angeles Lakers,LAL
+artesro01,6.79 ,2011,Los Angeles Lakers,LAL
+artesro01,7.26 ,2012,Los Angeles Lakers,LAL
+artesro01,1.59 ,2013,New York Knicks,NYK
+artesro01,1.50 ,2015,Los Angeles Lakers,LAL
+artesro01,1.55 ,2016,Los Angeles Lakers,LAL
+wrighan01,2.11 ,2009,Toronto Raptors,TOR
+wrighan01,0.99 ,2010,Sacramento Kings,SAC
+wrighbr03,2.67 ,2009,Golden State Warriors,GSW
+wrighbr03,3.40 ,2010,Brooklyn Nets,BKN
+wrighbr03,5.00 ,2013,Dallas Mavericks,DAL
+wrighbr03,5.00 ,2014,Phoenix Suns,PHX
+wrighbr03,5.50 ,2015,Memphis Grizzlies,MEM
+wrighbr03,5.70 ,2016,Memphis Grizzlies,MEM
+wrighbr03,5.18 ,2017,Memphis Grizzlies,MEM
+wrighbr03,0.49 ,2017,Houston Rockets,HOU
+wrighch01,0.47 ,2011,Golden State Warriors,GSW
+wrighch01,0.10 ,2016,Oklahoma City Thunder,OKC
+wrighde01,1.51 ,2015,Toronto Raptors,TOR
+wrighde01,1.58 ,2016,Toronto Raptors,TOR
+wrighde01,1.65 ,2017,Toronto Raptors,TOR
+wrighdo01,2.75 ,2009,Miami Heat,MIA
+wrighdo01,3.50 ,2010,Golden State Warriors,GSW
+wrighdo01,3.82 ,2011,Golden State Warriors,GSW
+wrighdo01,4.11 ,2012,Philadelphia 76ers,PHI
+wrighdo01,3.00 ,2013,Portland Trail Blazers,POR
+wrighdo01,3.15 ,2014,Portland Trail Blazers,POR
+wrighdo01,0.02 ,2015,Miami Heat,MIA
+wrighju01,2.00 ,2009,New Orleans Hornets,NOP
+wrighju01,2.86 ,2010,Toronto Raptors,TOR
+wroteto01,1.11 ,2012,Memphis Grizzlies,MEM
+wroteto01,1.16 ,2013,Memphis Grizzlies,MEM
+wroteto01,1.21 ,2014,Philadelphia 76ers,PHI
+wroteto01,2.18 ,2015,Philadelphia 76ers,PHI
+wroteto01,0.17 ,2015,New York Knicks,NYK
+wroteto01,0.03 ,2016,Memphis Grizzlies,MEM
+yabusgu01,2.25 ,2017,Boston Celtics,BOS
+youngjo01,1.00 ,2015,Indiana Pacers,IND
+youngjo01,1.05 ,2016,Indiana Pacers,IND
+youngjo01,1.47 ,2017,Indiana Pacers,IND
+youngni01,1.71 ,2009,Washington Wizards,WAS
+youngni01,2.63 ,2010,Washington Wizards,WAS
+youngni01,3.70 ,2011,Washington Wizards,WAS
+youngni01,5.60 ,2012,Philadelphia 76ers,PHI
+youngni01,1.11 ,2013,Los Angeles Lakers,LAL
+youngni01,4.99 ,2014,Los Angeles Lakers,LAL
+youngni01,5.22 ,2015,Los Angeles Lakers,LAL
+youngni01,5.44 ,2016,Los Angeles Lakers,LAL
+youngni01,5.19 ,2017,Golden State Warriors,GSW
+youngsa01,0.82 ,2009,Memphis Grizzlies,MEM
+youngsa01,0.89 ,2010,Memphis Grizzlies,MEM
+youngsa01,0.95 ,2011,Memphis Grizzlies,MEM
+youngsa01,0.72 ,2012,Indiana Pacers,IND
+youngth01,2.11 ,2009,Philadelphia 76ers,PHI
+youngth01,2.90 ,2010,Philadelphia 76ers,PHI
+youngth01,7.48 ,2011,Philadelphia 76ers,PHI
+youngth01,8.29 ,2012,Philadelphia 76ers,PHI
+youngth01,8.60 ,2013,Philadelphia 76ers,PHI
+youngth01,9.41 ,2014,Brooklyn Nets,BKN
+youngth01,11.20 ,2015,Brooklyn Nets,BKN
+youngth01,14.15 ,2016,Indiana Pacers,IND
+youngth01,14.80 ,2017,Indiana Pacers,IND
+zelleco01,3.86 ,2013,Charlotte Hornets,CHA
+zelleco01,4.03 ,2014,Charlotte Hornets,CHA
+zelleco01,4.20 ,2015,Charlotte Hornets,CHA
+zelleco01,5.32 ,2016,Charlotte Hornets,CHA
+zelleco01,12.58 ,2017,Charlotte Hornets,CHA
+zellelu01,0.47 ,2012,Phoenix Suns,PHX
+zellety01,1.56 ,2012,Cleveland Cavaliers,CLE
+zellety01,1.63 ,2013,Cleveland Cavaliers,CLE
+zellety01,1.70 ,2014,Boston Celtics,BOS
+zellety01,2.62 ,2015,Boston Celtics,BOS
+zellety01,8.00 ,2016,Boston Celtics,BOS
+zellety01,1.71 ,2017,Milwaukee Bucks,MIL
+zimmest01,0.95 ,2016,Orlando Magic,ORL
+zipsepa01,0.75 ,2016,Chicago Bulls,CHI
+zipsepa01,1.31 ,2017,Chicago Bulls,CHI
+zizican01,1.65 ,2017,Cleveland Cavaliers,CLE
+zubaciv01,1.03 ,2016,Los Angeles Lakers,LAL
+zubaciv01,1.31 ,2017,Los Angeles Lakers,LAL
