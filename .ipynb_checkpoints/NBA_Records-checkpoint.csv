@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Season,Team,W,L,W/L%,Playoffs
 2017-18,Boston Celtics,29,10,0.744,
 2016-17,Boston Celtics,53,29,0.646,Lost E. Conf. Finals
@@ -301,3 +302,308 @@ Season,Team,W,L,W/L%,Playoffs
 2010-11,Memphis Grizzlies,46,36,0.561,Lost W. Conf. Semis
 2009-10,Memphis Grizzlies,40,42,0.488,
 2008-09,Memphis Grizzlies,24,58,0.293,
+=======
+Season,Team,W,L,W/L%,Playoffs
+2017-18,Boston Celtics,29,10,0.744,
+2016-17,Boston Celtics,53,29,0.646,Lost E. Conf. Finals
+2015-16,Boston Celtics,48,34,0.585,Lost E. Conf. 1st Rnd.
+2014-15,Boston Celtics,40,42,0.488,Lost E. Conf. 1st Rnd.
+2013-14,Boston Celtics,25,57,0.305,
+2012-13,Boston Celtics,41,40,0.506,Lost E. Conf. 1st Rnd.
+2011-12,Boston Celtics,39,27,0.591,Lost E. Conf. Finals
+2010-11,Boston Celtics,56,26,0.683,Lost E. Conf. Semis
+2009-10,Boston Celtics,50,32,0.61,Lost Finals
+2008-09,Boston Celtics,62,20,0.756,Lost E. Conf. Semis
+2017-18,Toronto Raptors,24,10,0.706,
+2016-17,Toronto Raptors,51,31,0.622,Lost E. Conf. Semis
+2015-16,Toronto Raptors,56,26,0.683,Lost E. Conf. Finals
+2014-15,Toronto Raptors,49,33,0.598,Lost E. Conf. 1st Rnd.
+2013-14,Toronto Raptors,48,34,0.585,Lost E. Conf. 1st Rnd.
+2012-13,Toronto Raptors,34,48,0.415,
+2011-12,Toronto Raptors,23,43,0.348,
+2010-11,Toronto Raptors,22,60,0.268,
+2009-10,Toronto Raptors,40,42,0.488,
+2008-09,Toronto Raptors,33,49,0.402,
+2017-18,New York Knicks,17,18,0.486,
+2016-17,New York Knicks,31,51,0.378,
+2015-16,New York Knicks,32,50,0.39,
+2014-15,New York Knicks,17,65,0.207,
+2013-14,New York Knicks,37,45,0.451,
+2012-13,New York Knicks,54,28,0.659,Lost E. Conf. Semis
+2011-12,New York Knicks,36,30,0.545,Lost E. Conf. 1st Rnd.
+2010-11,New York Knicks,42,40,0.512,Lost E. Conf. 1st Rnd.
+2009-10,New York Knicks,29,53,0.354,
+2008-09,New York Knicks,32,50,0.39,
+2017-18,Philadelphia 76ers,15,19,0.441,
+2016-17,Philadelphia 76ers,28,54,0.341,
+2015-16,Philadelphia 76ers,10,72,0.122,
+2014-15,Philadelphia 76ers,18,64,0.22,
+2013-14,Philadelphia 76ers,19,63,0.232,
+2012-13,Philadelphia 76ers,34,48,0.415,
+2011-12,Philadelphia 76ers,35,31,0.53,Lost E. Conf. Semis
+2010-11,Philadelphia 76ers,41,41,0.5,Lost E. Conf. 1st Rnd.
+2009-10,Philadelphia 76ers,27,55,0.329,
+2008-09,Philadelphia 76ers,41,41,0.5,Lost E. Conf. 1st Rnd.
+2017-18,Brooklyn Nets,13,22,0.371,
+2016-17,Brooklyn Nets,20,62,0.244,
+2015-16,Brooklyn Nets,21,61,0.256,
+2014-15,Brooklyn Nets,38,44,0.463,Lost E. Conf. 1st Rnd.
+2013-14,Brooklyn Nets,44,38,0.537,Lost E. Conf. Semis
+2012-13,Brooklyn Nets,49,33,0.598,Lost E. Conf. 1st Rnd.
+2011-12,Brooklyn Nets,22,44,0.333,
+2010-11,Brooklyn Nets,24,58,0.293,
+2009-10,Brooklyn Nets,12,70,0.146,
+2008-09,Brooklyn Nets,34,48,0.415,
+2017-18,Minnesota Timberwolves,22,14,0.611,
+2016-17,Minnesota Timberwolves,31,51,0.378,
+2015-16,Minnesota Timberwolves,29,53,0.354,
+2014-15,Minnesota Timberwolves,16,66,0.195,
+2013-14,Minnesota Timberwolves,40,42,0.488,
+2012-13,Minnesota Timberwolves,31,51,0.378,
+2011-12,Minnesota Timberwolves,26,40,0.394,
+2010-11,Minnesota Timberwolves,17,65,0.207,
+2009-10,Minnesota Timberwolves,15,67,0.183,
+2008-09,Minnesota Timberwolves,24,58,0.293,
+2017-18,Oklahoma City Thunder,20,16,0.556,
+2016-17,Oklahoma City Thunder,47,35,0.573,Lost W. Conf. 1st Rnd.
+2015-16,Oklahoma City Thunder,55,27,0.671,Lost W. Conf. Finals
+2014-15,Oklahoma City Thunder,45,37,0.549,
+2013-14,Oklahoma City Thunder,59,23,0.72,Lost W. Conf. Finals
+2012-13,Oklahoma City Thunder,60,22,0.732,Lost W. Conf. Semis
+2011-12,Oklahoma City Thunder,47,19,0.712,Lost Finals
+2010-11,Oklahoma City Thunder,55,27,0.671,Lost W. Conf. Finals
+2009-10,Oklahoma City Thunder,50,32,0.61,Lost W. Conf. 1st Rnd.
+2008-09,Oklahoma City Thunder,23,59,0.28,
+2017-18,Denver Nuggets,19,16,0.543,
+2016-17,Denver Nuggets,40,42,0.488,
+2015-16,Denver Nuggets,33,49,0.402,
+2014-15,Denver Nuggets,30,52,0.366,
+2013-14,Denver Nuggets,36,46,0.439,
+2012-13,Denver Nuggets,57,25,0.695,Lost W. Conf. 1st Rnd.
+2011-12,Denver Nuggets,38,28,0.576,Lost W. Conf. 1st Rnd.
+2010-11,Denver Nuggets,50,32,0.61,Lost W. Conf. 1st Rnd.
+2009-10,Denver Nuggets,53,29,0.646,Lost W. Conf. 1st Rnd.
+2008-09,Denver Nuggets,54,28,0.659,Lost W. Conf. Finals
+2017-18,Portland Trail Blazers,18,16,0.529,
+2016-17,Portland Trail Blazers,41,41,0.5,Lost W. Conf. 1st Rnd.
+2015-16,Portland Trail Blazers,44,38,0.537,Lost W. Conf. Semis
+2014-15,Portland Trail Blazers,51,31,0.622,Lost W. Conf. 1st Rnd.
+2013-14,Portland Trail Blazers,54,28,0.659,Lost W. Conf. Semis
+2012-13,Portland Trail Blazers,33,49,0.402,
+2011-12,Portland Trail Blazers,28,38,0.424,
+2010-11,Portland Trail Blazers,48,34,0.585,Lost W. Conf. 1st Rnd.
+2009-10,Portland Trail Blazers,50,32,0.61,Lost W. Conf. 1st Rnd.
+2008-09,Portland Trail Blazers,54,28,0.659,Lost W. Conf. 1st Rnd.
+2017-18,Utah Jazz,15,21,0.417,
+2016-17,Utah Jazz,51,31,0.622,Lost W. Conf. Semis
+2015-16,Utah Jazz,40,42,0.488,
+2014-15,Utah Jazz,38,44,0.463,
+2013-14,Utah Jazz,25,57,0.305,
+2012-13,Utah Jazz,43,39,0.524,
+2011-12,Utah Jazz,36,30,0.545,Lost W. Conf. 1st Rnd.
+2010-11,Utah Jazz,39,43,0.476,
+2009-10,Utah Jazz,53,29,0.646,Lost W. Conf. Semis
+2008-09,Utah Jazz,48,34,0.585,Lost W. Conf. 1st Rnd.
+2017-18,Cleveland Cavaliers,24,11,0.686,
+2016-17,Cleveland Cavaliers,51,31,0.622,Lost Finals
+2015-16,Cleveland Cavaliers,57,25,0.695,Won Finals
+2014-15,Cleveland Cavaliers,53,29,0.646,Lost Finals
+2013-14,Cleveland Cavaliers,33,49,0.402,
+2012-13,Cleveland Cavaliers,24,58,0.293,
+2011-12,Cleveland Cavaliers,21,45,0.318,
+2010-11,Cleveland Cavaliers,19,63,0.232,
+2009-10,Cleveland Cavaliers,61,21,0.744,Lost E. Conf. Semis
+2008-09,Cleveland Cavaliers,66,16,0.805,Lost E. Conf. Finals
+2017-18,Detroit Pistons,19,15,0.559,
+2016-17,Detroit Pistons,37,45,0.451,
+2015-16,Detroit Pistons,44,38,0.537,Lost E. Conf. 1st Rnd.
+2014-15,Detroit Pistons,32,50,0.39,
+2013-14,Detroit Pistons,29,53,0.354,
+2012-13,Detroit Pistons,29,53,0.354,
+2011-12,Detroit Pistons,25,41,0.379,
+2010-11,Detroit Pistons,30,52,0.366,
+2009-10,Detroit Pistons,27,55,0.329,
+2008-09,Detroit Pistons,39,43,0.476,Lost E. Conf. 1st Rnd.
+2017-18,Milwaukee Bucks,19,15,0.559,
+2016-17,Milwaukee Bucks,42,40,0.512,Lost E. Conf. 1st Rnd.
+2015-16,Milwaukee Bucks,33,49,0.402,
+2014-15,Milwaukee Bucks,41,41,0.5,Lost E. Conf. 1st Rnd.
+2013-14,Milwaukee Bucks,15,67,0.183,
+2012-13,Milwaukee Bucks,38,44,0.463,Lost E. Conf. 1st Rnd.
+2011-12,Milwaukee Bucks,31,35,0.47,
+2010-11,Milwaukee Bucks,35,47,0.427,
+2009-10,Milwaukee Bucks,46,36,0.561,Lost E. Conf. 1st Rnd.
+2008-09,Milwaukee Bucks,34,48,0.415,
+2017-18,Indiana Pacers,19,17,0.528,
+2016-17,Indiana Pacers,42,40,0.512,Lost E. Conf. 1st Rnd.
+2015-16,Indiana Pacers,45,37,0.549,Lost E. Conf. 1st Rnd.
+2014-15,Indiana Pacers,38,44,0.463,
+2013-14,Indiana Pacers,56,26,0.683,Lost E. Conf. Finals
+2012-13,Indiana Pacers,49,32,0.605,Lost E. Conf. Finals
+2011-12,Indiana Pacers,42,24,0.636,Lost E. Conf. Semis
+2010-11,Indiana Pacers,37,45,0.451,Lost E. Conf. 1st Rnd.
+2009-10,Indiana Pacers,32,50,0.39,
+2008-09,Indiana Pacers,36,46,0.439,
+2017-18,Chicago Bulls,13,22,0.371,
+2016-17,Chicago Bulls,41,41,0.5,Lost E. Conf. 1st Rnd.
+2015-16,Chicago Bulls,42,40,0.512,
+2014-15,Chicago Bulls,50,32,0.61,Lost E. Conf. Semis
+2013-14,Chicago Bulls,48,34,0.585,Lost E. Conf. 1st Rnd.
+2012-13,Chicago Bulls,45,37,0.549,Lost E. Conf. Semis
+2011-12,Chicago Bulls,50,16,0.758,Lost E. Conf. 1st Rnd.
+2010-11,Chicago Bulls,62,20,0.756,Lost E. Conf. Finals
+2009-10,Chicago Bulls,41,41,0.5,Lost E. Conf. 1st Rnd.
+2008-09,Chicago Bulls,41,41,0.5,Lost E. Conf. 1st Rnd.
+2017-18,Golden State Warriors,28,8,0.778,
+2016-17,Golden State Warriors,67,15,0.817,Won Finals
+2015-16,Golden State Warriors,73,9,0.89,Lost Finals
+2014-15,Golden State Warriors,67,15,0.817,Won Finals
+2013-14,Golden State Warriors,51,31,0.622,Lost W. Conf. 1st Rnd.
+2012-13,Golden State Warriors,47,35,0.573,Lost W. Conf. Semis
+2011-12,Golden State Warriors,23,43,0.348,
+2010-11,Golden State Warriors,36,46,0.439,
+2009-10,Golden State Warriors,26,56,0.317,
+2008-09,Golden State Warriors,29,53,0.354,
+2017-18,Los Angeles Clippers,15,19,0.441,
+2016-17,Los Angeles Clippers,51,31,0.622,Lost W. Conf. 1st Rnd.
+2015-16,Los Angeles Clippers,53,29,0.646,Lost W. Conf. 1st Rnd.
+2014-15,Los Angeles Clippers,56,26,0.683,Lost W. Conf. Semis
+2013-14,Los Angeles Clippers,57,25,0.695,Lost W. Conf. Semis
+2012-13,Los Angeles Clippers,56,26,0.683,Lost W. Conf. 1st Rnd.
+2011-12,Los Angeles Clippers,40,26,0.606,Lost W. Conf. Semis
+2010-11,Los Angeles Clippers,32,50,0.39,
+2009-10,Los Angeles Clippers,29,53,0.354,
+2008-09,Los Angeles Clippers,19,63,0.232,
+2017-18,Phoenix Suns,14,23,0.378,
+2016-17,Phoenix Suns,24,58,0.293,
+2015-16,Phoenix Suns,23,59,0.28,
+2014-15,Phoenix Suns,39,43,0.476,
+2013-14,Phoenix Suns,48,34,0.585,
+2012-13,Phoenix Suns,25,57,0.305,
+2011-12,Phoenix Suns,33,33,0.5,
+2010-11,Phoenix Suns,40,42,0.488,
+2009-10,Phoenix Suns,54,28,0.659,Lost W. Conf. Finals
+2008-09,Phoenix Suns,46,36,0.561,
+2017-18,Sacramento Kings,12,23,0.343,
+2016-17,Sacramento Kings,32,50,0.39,
+2015-16,Sacramento Kings,33,49,0.402,
+2014-15,Sacramento Kings,29,53,0.354,
+2013-14,Sacramento Kings,28,54,0.341,
+2012-13,Sacramento Kings,28,54,0.341,
+2011-12,Sacramento Kings,22,44,0.333,
+2010-11,Sacramento Kings,24,58,0.293,
+2009-10,Sacramento Kings,25,57,0.305,
+2008-09,Sacramento Kings,17,65,0.207,
+2017-18,Los Angeles Lakers,11,23,0.324,
+2016-17,Los Angeles Lakers,26,56,0.317,
+2015-16,Los Angeles Lakers,17,65,0.207,
+2014-15,Los Angeles Lakers,21,61,0.256,
+2013-14,Los Angeles Lakers,27,55,0.329,
+2012-13,Los Angeles Lakers,45,37,0.549,Lost W. Conf. 1st Rnd.
+2011-12,Los Angeles Lakers,41,25,0.621,Lost W. Conf. Semis
+2010-11,Los Angeles Lakers,57,25,0.695,Lost W. Conf. Semis
+2009-10,Los Angeles Lakers,57,25,0.695,Won Finals
+2008-09,Los Angeles Lakers,65,17,0.793,Won Finals
+2017-18,Washington Wizards,20,16,0.556,
+2016-17,Washington Wizards,49,33,0.598,Lost E. Conf. Semis
+2015-16,Washington Wizards,41,41,0.5,
+2014-15,Washington Wizards,46,36,0.561,Lost E. Conf. Semis
+2013-14,Washington Wizards,44,38,0.537,Lost E. Conf. Semis
+2012-13,Washington Wizards,29,53,0.354,
+2011-12,Washington Wizards,20,46,0.303,
+2010-11,Washington Wizards,23,59,0.28,
+2009-10,Washington Wizards,26,56,0.317,
+2008-09,Washington Wizards,19,63,0.232,
+2017-18,Miami Heat,18,17,0.514,
+2016-17,Miami Heat,41,41,0.5,
+2015-16,Miami Heat,48,34,0.585,Lost E. Conf. Semis
+2014-15,Miami Heat,37,45,0.451,
+2013-14,Miami Heat,54,28,0.659,Lost Finals
+2012-13,Miami Heat,66,16,0.805,Won Finals
+2011-12,Miami Heat,46,20,0.697,Won Finals
+2010-11,Miami Heat,58,24,0.707,Lost Finals
+2009-10,Miami Heat,47,35,0.573,Lost E. Conf. 1st Rnd.
+2008-09,Miami Heat,43,39,0.524,Lost E. Conf. 1st Rnd.
+2017-18,Charlotte Hornets,13,22,0.371,
+2016-17,Charlotte Hornets,36,46,0.439,
+2015-16,Charlotte Hornets,48,34,0.585,Lost E. Conf. 1st Rnd.
+2014-15,Charlotte Hornets,33,49,0.402,
+2013-14,Charlotte Hornets,43,39,0.524,Lost E. Conf. 1st Rnd.
+2012-13,Charlotte Hornets,21,61,0.256,
+2011-12,Charlotte Hornets,7,59,0.106,
+2010-11,Charlotte Hornets,34,48,0.415,
+2009-10,Charlotte Hornets,44,38,0.537,Lost E. Conf. 1st Rnd.
+2008-09,Charlotte Hornets,35,47,0.427,
+2017-18,Orlando Magic,12,24,0.333,
+2016-17,Orlando Magic,29,53,0.354,
+2015-16,Orlando Magic,35,47,0.427,
+2014-15,Orlando Magic,25,57,0.305,
+2013-14,Orlando Magic,23,59,0.28,
+2012-13,Orlando Magic,20,62,0.244,
+2011-12,Orlando Magic,37,29,0.561,Lost E. Conf. 1st Rnd.
+2010-11,Orlando Magic,52,30,0.634,Lost E. Conf. 1st Rnd.
+2009-10,Orlando Magic,59,23,0.72,Lost E. Conf. Finals
+2008-09,Orlando Magic,59,23,0.72,Lost Finals
+2017-18,Atlanta Hawks,9,26,0.257,
+2016-17,Atlanta Hawks,43,39,0.524,Lost E. Conf. 1st Rnd.
+2015-16,Atlanta Hawks,48,34,0.585,Lost E. Conf. Semis
+2014-15,Atlanta Hawks,60,22,0.732,Lost E. Conf. Finals
+2013-14,Atlanta Hawks,38,44,0.463,Lost E. Conf. 1st Rnd.
+2012-13,Atlanta Hawks,44,38,0.537,Lost E. Conf. 1st Rnd.
+2011-12,Atlanta Hawks,40,26,0.606,Lost E. Conf. 1st Rnd.
+2010-11,Atlanta Hawks,44,38,0.537,Lost E. Conf. Semis
+2009-10,Atlanta Hawks,53,29,0.646,Lost E. Conf. Semis
+2008-09,Atlanta Hawks,47,35,0.573,Lost E. Conf. Semis
+2017-18,Houston Rockets,25,9,0.735,
+2016-17,Houston Rockets,55,27,0.671,Lost W. Conf. Semis
+2015-16,Houston Rockets,41,41,0.5,Lost W. Conf. 1st Rnd.
+2014-15,Houston Rockets,56,26,0.683,Lost W. Conf. Finals
+2013-14,Houston Rockets,54,28,0.659,Lost W. Conf. 1st Rnd.
+2012-13,Houston Rockets,45,37,0.549,Lost W. Conf. 1st Rnd.
+2011-12,Houston Rockets,34,32,0.515,
+2010-11,Houston Rockets,43,39,0.524,
+2009-10,Houston Rockets,42,40,0.512,
+2008-09,Houston Rockets,53,29,0.646,Lost W. Conf. Semis
+2007-08,Houston Rockets,55,27,0.671,Lost W. Conf. 1st Rnd.
+2017-18,San Antonio Spurs,25,11,0.694,
+2016-17,San Antonio Spurs,61,21,0.744,Lost W. Conf. Finals
+2015-16,San Antonio Spurs,67,15,0.817,Lost W. Conf. Semis
+2014-15,San Antonio Spurs,55,27,0.671,Lost W. Conf. 1st Rnd.
+2013-14,San Antonio Spurs,62,20,0.756,Won Finals
+2012-13,San Antonio Spurs,58,24,0.707,Lost Finals
+2011-12,San Antonio Spurs,50,16,0.758,Lost W. Conf. Finals
+2010-11,San Antonio Spurs,61,21,0.744,Lost W. Conf. 1st Rnd.
+2009-10,San Antonio Spurs,50,32,0.61,Lost W. Conf. Semis
+2008-09,San Antonio Spurs,54,28,0.659,Lost W. Conf. 1st Rnd.
+2017-18,New Orleans Pelicans,18,17,0.514,
+2016-17,New Orleans Pelicans,34,48,0.415,
+2015-16,New Orleans Pelicans,30,52,0.366,
+2014-15,New Orleans Pelicans,45,37,0.549,Lost W. Conf. 1st Rnd.
+2013-14,New Orleans Pelicans,34,48,0.415,
+2012-13,New Orleans Pelicans,27,55,0.329,
+2011-12,New Orleans Pelicans,21,45,0.318,
+2010-11,New Orleans Pelicans,46,36,0.561,Lost W. Conf. 1st Rnd.
+2009-10,New Orleans Pelicans,37,45,0.451,
+2008-09,New Orleans Pelicans,49,33,0.598,Lost W. Conf. 1st Rnd.
+2017-18,Dallas Mavericks,12,25,0.324,
+2016-17,Dallas Mavericks,33,49,0.402,
+2015-16,Dallas Mavericks,42,40,0.512,Lost W. Conf. 1st Rnd.
+2014-15,Dallas Mavericks,50,32,0.61,Lost W. Conf. 1st Rnd.
+2013-14,Dallas Mavericks,49,33,0.598,Lost W. Conf. 1st Rnd.
+2012-13,Dallas Mavericks,41,41,0.5,
+2011-12,Dallas Mavericks,36,30,0.545,Lost W. Conf. 1st Rnd.
+2010-11,Dallas Mavericks,57,25,0.695,Won Finals
+2009-10,Dallas Mavericks,55,27,0.671,Lost W. Conf. 1st Rnd.
+2008-09,Dallas Mavericks,50,32,0.61,Lost W. Conf. Semis
+2007-08,Dallas Mavericks,51,31,0.622,Lost W. Conf. 1st Rnd.
+2017-18,Memphis Grizzlies,11,24,0.314,
+2016-17,Memphis Grizzlies,43,39,0.524,Lost W. Conf. 1st Rnd.
+2015-16,Memphis Grizzlies,42,40,0.512,Lost W. Conf. 1st Rnd.
+2014-15,Memphis Grizzlies,55,27,0.671,Lost W. Conf. Semis
+2013-14,Memphis Grizzlies,50,32,0.61,Lost W. Conf. 1st Rnd.
+2012-13,Memphis Grizzlies,56,26,0.683,Lost W. Conf. Finals
+2011-12,Memphis Grizzlies,41,25,0.621,Lost W. Conf. 1st Rnd.
+2010-11,Memphis Grizzlies,46,36,0.561,Lost W. Conf. Semis
+2009-10,Memphis Grizzlies,40,42,0.488,
+2008-09,Memphis Grizzlies,24,58,0.293,
+>>>>>>> d3ca6583119009959da68a21f6e9d488a95a943c
