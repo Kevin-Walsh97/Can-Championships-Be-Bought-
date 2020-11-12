@@ -1,0 +1,301 @@
+Season Start,Season End,Team,OPP_PTS
+2008,2009,Atlanta Hawks,96.5
+2009,2010,Atlanta Hawks,97.0
+2010,2011,Atlanta Hawks,95.8
+2011,2012,Atlanta Hawks,93.2
+2012,2013,Atlanta Hawks,97.5
+2013,2014,Atlanta Hawks,101.5
+2014,2015,Atlanta Hawks,97.1
+2015,2016,Atlanta Hawks,99.2
+2016,2017,Atlanta Hawks,104.0
+2017,2018,Atlanta Hawks,108.8
+2008,2009,Boston Celtics,93.4
+2009,2010,Boston Celtics,95.6
+2010,2011,Boston Celtics,91.1
+2011,2012,Boston Celtics,89.3
+2012,2013,Boston Celtics,96.7
+2013,2014,Boston Celtics,100.7
+2014,2015,Boston Celtics,101.2
+2015,2016,Boston Celtics,102.5
+2016,2017,Boston Celtics,105.4
+2017,2018,Boston Celtics,100.4
+2012,2013,Brooklyn Nets,95.1
+2013,2014,Brooklyn Nets,99.5
+2014,2015,Brooklyn Nets,100.9
+2015,2016,Brooklyn Nets,106.0
+2016,2017,Brooklyn Nets,112.5
+2017,2018,Brooklyn Nets,110.3
+2008,2009,Charlotte Bobcats,94.9
+2009,2010,Charlotte Bobcats,93.8
+2010,2011,Charlotte Bobcats,97.3
+2011,2012,Charlotte Bobcats,100.9
+2012,2013,Charlotte Bobcats,102.7
+2013,2014,Charlotte Bobcats,97.1
+2014,2015,Charlotte Hornets,97.3
+2015,2016,Charlotte Hornets,100.7
+2016,2017,Charlotte Hornets,104.7
+2017,2018,Charlotte Hornets,108.0
+2008,2009,Chicago Bulls,102.5
+2009,2010,Chicago Bulls,99.1
+2010,2011,Chicago Bulls,91.3
+2011,2012,Chicago Bulls,88.2
+2012,2013,Chicago Bulls,92.9
+2013,2014,Chicago Bulls,91.8
+2014,2015,Chicago Bulls,97.8
+2015,2016,Chicago Bulls,103.1
+2016,2017,Chicago Bulls,102.4
+2017,2018,Chicago Bulls,110.0
+2008,2009,Cleveland Cavaliers,91.4
+2009,2010,Cleveland Cavaliers,95.6
+2010,2011,Cleveland Cavaliers,104.5
+2011,2012,Cleveland Cavaliers,100.2
+2012,2013,Cleveland Cavaliers,101.2
+2013,2014,Cleveland Cavaliers,101.5
+2014,2015,Cleveland Cavaliers,98.7
+2015,2016,Cleveland Cavaliers,98.3
+2016,2017,Cleveland Cavaliers,107.2
+2017,2018,Cleveland Cavaliers,109.9
+2008,2009,Dallas Mavericks,99.8
+2009,2010,Dallas Mavericks,99.3
+2010,2011,Dallas Mavericks,96.0
+2011,2012,Dallas Mavericks,94.8
+2012,2013,Dallas Mavericks,101.7
+2013,2014,Dallas Mavericks,102.4
+2014,2015,Dallas Mavericks,102.3
+2015,2016,Dallas Mavericks,102.6
+2016,2017,Dallas Mavericks,100.8
+2017,2018,Dallas Mavericks,105.4
+2008,2009,Denver Nuggets,100.9
+2009,2010,Denver Nuggets,102.4
+2010,2011,Denver Nuggets,102.7
+2011,2012,Denver Nuggets,101.2
+2012,2013,Denver Nuggets,101.1
+2013,2014,Denver Nuggets,106.5
+2014,2015,Denver Nuggets,105.0
+2015,2016,Denver Nuggets,105.0
+2016,2017,Denver Nuggets,111.2
+2017,2018,Denver Nuggets,108.5
+2008,2009,Detroit Pistons,94.7
+2009,2010,Detroit Pistons,99.1
+2010,2011,Detroit Pistons,100.6
+2011,2012,Detroit Pistons,95.7
+2012,2013,Detroit Pistons,98.8
+2013,2014,Detroit Pistons,104.7
+2014,2015,Detroit Pistons,99.5
+2015,2016,Detroit Pistons,101.4
+2016,2017,Detroit Pistons,102.5
+2017,2018,Detroit Pistons,103.9
+2008,2009,Golden State Warriors,112.3
+2009,2010,Golden State Warriors,112.4
+2010,2011,Golden State Warriors,105.7
+2011,2012,Golden State Warriors,101.2
+2012,2013,Golden State Warriors,100.3
+2013,2014,Golden State Warriors,99.5
+2014,2015,Golden State Warriors,99.9
+2015,2016,Golden State Warriors,104.1
+2016,2017,Golden State Warriors,104.3
+2017,2018,Golden State Warriors,107.5
+2008,2009,Houston Rockets,94.4
+2009,2010,Houston Rockets,102.7
+2010,2011,Houston Rockets,103.7
+2011,2012,Houston Rockets,97.9
+2012,2013,Houston Rockets,102.5
+2013,2014,Houston Rockets,103.1
+2014,2015,Houston Rockets,100.5
+2015,2016,Houston Rockets,106.4
+2016,2017,Houston Rockets,109.6
+2017,2018,Houston Rockets,103.9
+2008,2009,Indiana Pacers,106.2
+2009,2010,Indiana Pacers,103.8
+2010,2011,Indiana Pacers,100.9
+2011,2012,Indiana Pacers,94.4
+2012,2013,Indiana Pacers,90.7
+2013,2014,Indiana Pacers,92.3
+2014,2015,Indiana Pacers,97.0
+2015,2016,Indiana Pacers,100.5
+2016,2017,Indiana Pacers,105.3
+2017,2018,Indiana Pacers,104.2
+2015,2016,LA Clippers,100.2
+2016,2017,LA Clippers,104.4
+2017,2018,LA Clippers,109.0
+2008,2009,Los Angeles Clippers,103.9
+2009,2010,Los Angeles Clippers,102.1
+2010,2011,Los Angeles Clippers,101.8
+2011,2012,Los Angeles Clippers,95.0
+2012,2013,Los Angeles Clippers,94.6
+2013,2014,Los Angeles Clippers,101.0
+2014,2015,Los Angeles Clippers,100.1
+2008,2009,Los Angeles Lakers,99.3
+2009,2010,Los Angeles Lakers,97.0
+2010,2011,Los Angeles Lakers,95.4
+2011,2012,Los Angeles Lakers,95.9
+2012,2013,Los Angeles Lakers,101.0
+2013,2014,Los Angeles Lakers,109.2
+2014,2015,Los Angeles Lakers,105.3
+2015,2016,Los Angeles Lakers,106.9
+2016,2017,Los Angeles Lakers,111.5
+2017,2018,Los Angeles Lakers,109.6
+2008,2009,Memphis Grizzlies,99.3
+2009,2010,Memphis Grizzlies,104.0
+2010,2011,Memphis Grizzlies,97.6
+2011,2012,Memphis Grizzlies,93.0
+2012,2013,Memphis Grizzlies,89.3
+2013,2014,Memphis Grizzlies,94.6
+2014,2015,Memphis Grizzlies,95.1
+2015,2016,Memphis Grizzlies,101.3
+2016,2017,Memphis Grizzlies,100.0
+2017,2018,Memphis Grizzlies,105.5
+2008,2009,Miami Heat,98.0
+2009,2010,Miami Heat,94.2
+2010,2011,Miami Heat,94.6
+2011,2012,Miami Heat,92.5
+2012,2013,Miami Heat,95.0
+2013,2014,Miami Heat,97.4
+2014,2015,Miami Heat,97.3
+2015,2016,Miami Heat,98.4
+2016,2017,Miami Heat,102.1
+2017,2018,Miami Heat,102.9
+2008,2009,Milwaukee Bucks,100.4
+2009,2010,Milwaukee Bucks,96.0
+2010,2011,Milwaukee Bucks,92.7
+2011,2012,Milwaukee Bucks,98.7
+2012,2013,Milwaukee Bucks,100.4
+2013,2014,Milwaukee Bucks,103.7
+2014,2015,Milwaukee Bucks,97.4
+2015,2016,Milwaukee Bucks,103.2
+2016,2017,Milwaukee Bucks,103.8
+2017,2018,Milwaukee Bucks,106.8
+2008,2009,Minnesota Timberwolves,102.7
+2009,2010,Minnesota Timberwolves,107.8
+2010,2011,Minnesota Timberwolves,107.7
+2011,2012,Minnesota Timberwolves,100.1
+2012,2013,Minnesota Timberwolves,98.1
+2013,2014,Minnesota Timberwolves,104.3
+2014,2015,Minnesota Timberwolves,106.5
+2015,2016,Minnesota Timberwolves,106.0
+2016,2017,Minnesota Timberwolves,106.7
+2017,2018,Minnesota Timberwolves,107.3
+2008,2009,New Jersey Nets,100.5
+2009,2010,New Jersey Nets,101.5
+2010,2011,New Jersey Nets,100.4
+2011,2012,New Jersey Nets,99.1
+2008,2009,New Orleans Hornets,94.3
+2009,2010,New Orleans Hornets,102.7
+2010,2011,New Orleans Hornets,94.0
+2011,2012,New Orleans Hornets,93.4
+2012,2013,New Orleans Hornets,97.9
+2013,2014,New Orleans Pelicans,102.4
+2014,2015,New Orleans Pelicans,98.6
+2015,2016,New Orleans Pelicans,106.5
+2016,2017,New Orleans Pelicans,106.4
+2017,2018,New Orleans Pelicans,110.4
+2008,2009,New York Knicks,107.8
+2009,2010,New York Knicks,105.9
+2010,2011,New York Knicks,105.7
+2011,2012,New York Knicks,94.7
+2012,2013,New York Knicks,95.7
+2013,2014,New York Knicks,99.4
+2014,2015,New York Knicks,101.2
+2015,2016,New York Knicks,101.1
+2016,2017,New York Knicks,108.0
+2017,2018,New York Knicks,108.0
+2008,2009,Oklahoma City Thunder,103.1
+2009,2010,Oklahoma City Thunder,98.0
+2010,2011,Oklahoma City Thunder,101.0
+2011,2012,Oklahoma City Thunder,96.9
+2012,2013,Oklahoma City Thunder,96.5
+2013,2014,Oklahoma City Thunder,99.8
+2014,2015,Oklahoma City Thunder,101.8
+2015,2016,Oklahoma City Thunder,102.9
+2016,2017,Oklahoma City Thunder,105.8
+2017,2018,Oklahoma City Thunder,104.4
+2008,2009,Orlando Magic,94.4
+2009,2010,Orlando Magic,95.3
+2010,2011,Orlando Magic,93.7
+2011,2012,Orlando Magic,93.4
+2012,2013,Orlando Magic,101.1
+2013,2014,Orlando Magic,102.0
+2014,2015,Orlando Magic,101.4
+2015,2016,Orlando Magic,103.7
+2016,2017,Orlando Magic,107.6
+2017,2018,Orlando Magic,108.2
+2008,2009,Philadelphia 76ers,97.3
+2009,2010,Philadelphia 76ers,101.6
+2010,2011,Philadelphia 76ers,97.5
+2011,2012,Philadelphia 76ers,89.4
+2012,2013,Philadelphia 76ers,96.5
+2013,2014,Philadelphia 76ers,109.9
+2014,2015,Philadelphia 76ers,101.0
+2015,2016,Philadelphia 76ers,107.6
+2016,2017,Philadelphia 76ers,108.1
+2017,2018,Philadelphia 76ers,105.3
+2008,2009,Phoenix Suns,107.5
+2009,2010,Phoenix Suns,105.3
+2010,2011,Phoenix Suns,105.9
+2011,2012,Phoenix Suns,98.6
+2012,2013,Phoenix Suns,101.6
+2013,2014,Phoenix Suns,102.6
+2014,2015,Phoenix Suns,103.3
+2015,2016,Phoenix Suns,107.5
+2016,2017,Phoenix Suns,113.3
+2017,2018,Phoenix Suns,113.3
+2008,2009,Portland Trail Blazers,94.1
+2009,2010,Portland Trail Blazers,94.8
+2010,2011,Portland Trail Blazers,94.8
+2011,2012,Portland Trail Blazers,97.8
+2012,2013,Portland Trail Blazers,100.7
+2013,2014,Portland Trail Blazers,102.8
+2014,2015,Portland Trail Blazers,98.6
+2015,2016,Portland Trail Blazers,104.3
+2016,2017,Portland Trail Blazers,108.5
+2017,2018,Portland Trail Blazers,103.0
+2008,2009,Sacramento Kings,109.3
+2009,2010,Sacramento Kings,104.4
+2010,2011,Sacramento Kings,104.7
+2011,2012,Sacramento Kings,104.4
+2012,2013,Sacramento Kings,105.1
+2013,2014,Sacramento Kings,103.4
+2014,2015,Sacramento Kings,105.0
+2015,2016,Sacramento Kings,109.1
+2016,2017,Sacramento Kings,106.7
+2017,2018,Sacramento Kings,105.8
+2008,2009,San Antonio Spurs,93.3
+2009,2010,San Antonio Spurs,96.3
+2010,2011,San Antonio Spurs,98.0
+2011,2012,San Antonio Spurs,96.5
+2012,2013,San Antonio Spurs,96.6
+2013,2014,San Antonio Spurs,97.6
+2014,2015,San Antonio Spurs,97.0
+2015,2016,San Antonio Spurs,92.9
+2016,2017,San Antonio Spurs,98.1
+2017,2018,San Antonio Spurs,99.8
+2008,2009,Toronto Raptors,101.9
+2009,2010,Toronto Raptors,105.9
+2010,2011,Toronto Raptors,105.4
+2011,2012,Toronto Raptors,94.0
+2012,2013,Toronto Raptors,98.7
+2013,2014,Toronto Raptors,98.0
+2014,2015,Toronto Raptors,100.9
+2015,2016,Toronto Raptors,98.2
+2016,2017,Toronto Raptors,102.6
+2017,2018,Toronto Raptors,103.9
+2008,2009,Utah Jazz,100.9
+2009,2010,Utah Jazz,98.9
+2010,2011,Utah Jazz,101.3
+2011,2012,Utah Jazz,99.0
+2012,2013,Utah Jazz,98.1
+2013,2014,Utah Jazz,102.2
+2014,2015,Utah Jazz,94.9
+2015,2016,Utah Jazz,95.9
+2016,2017,Utah Jazz,96.8
+2017,2018,Utah Jazz,99.8
+2008,2009,Washington Wizards,103.5
+2009,2010,Washington Wizards,101.0
+2010,2011,Washington Wizards,104.7
+2011,2012,Washington Wizards,98.4
+2012,2013,Washington Wizards,95.8
+2013,2014,Washington Wizards,99.4
+2014,2015,Washington Wizards,97.8
+2015,2016,Washington Wizards,104.6
+2016,2017,Washington Wizards,107.4
+2017,2018,Washington Wizards,106.0
