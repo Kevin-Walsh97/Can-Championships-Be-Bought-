@@ -1,6 +1,6 @@
 # Can-Championships-Be-Bought-
 
-*** Research Questions:
+## Research Questions:
     1) Do taller NBA teams have more success?
     2) Do NBA teams who have a higher aggregate team salary have more success?
         Success measured by:
